@@ -10,5 +10,5 @@ image:
   focal_point: Center
 ---
 Our paper on "Line waves in non-Hermitian metasurfaces,"
-in collaboration with [Andrea Alù](http://www.alulab.org) (ASRC-CUNY),
+in collaboration with [Andrea Alù ](http://www.alulab.org)(ASRC-CUNY),
 has been accepted for publication in *[ACS Photonics](https://pubs.acs.org/journal/apchd5)*.
