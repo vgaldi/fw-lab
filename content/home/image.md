@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: unisannio_footer.jpg
+    image: https://github.com/vgaldi/fw-lab/blob/main/assets/media/unisannio_footer.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
