@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Fields \& Waves Lab** operates in the [Department of Engineering](https://www.ding.unisannio.it) at the [University of Sannio](https://www.unisannio.it/en), [Benevento](https://en.wikipedia.org/wiki/Benevento), Italy.
+The **Fields \& Waves Lab** is affiliated with the [Department of Engineering](https://www.ding.unisannio.it) at the [University of Sannio](https://www.unisannio.it/en), [Benevento](https://en.wikipedia.org/wiki/Benevento), Italy.
