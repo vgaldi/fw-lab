@@ -26,7 +26,7 @@ main:
     weight: 20
   - name: Media coverage
     parent: Research
-    url: media
+    url: media-coverage
     weight: 30
   - name: Spinoffs
     url: spinoff
