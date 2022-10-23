@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Prof. [Galdi](/author/vincenzo-galdi) has presented a lecture on "Perspectives on Space-Time Coding Digital Metasurfaces" at the [EsOA](https://www.euraap.org/esoa-courses) Course on [](https://school.metamorphose-vi.org/index.php/component/content/article/8-schools/59-42-school-rome-italy)*[Reconfigurable Intelligent Surfaces for Smart Radio Environment](https://esoa5g.wixsite.com/ris-siena)*, Siena, Italy, June 6-12, 2022.
+Prof. [Galdi](/author/vincenzo-galdi) has presented a lecture on "Perspectives on space-time coding digital metasurfaces" at the [EsOA](https://www.euraap.org/esoa-courses) Course on [](https://school.metamorphose-vi.org/index.php/component/content/article/8-schools/59-42-school-rome-italy)*[Reconfigurable Intelligent Surfaces for Smart Radio Environment](https://esoa5g.wixsite.com/ris-siena)*, Siena, Italy, June 6-12, 2022.
