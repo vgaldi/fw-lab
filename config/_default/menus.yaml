@@ -13,12 +13,27 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Research
+    url: research
     weight: 40
+  - name: Projects
+    parent: Research
+    url: portfolio
+    weight: 10
   - name: Publications
+    parent: Research
     url: publication
-    weight: 50
+    weight: 20
+  - name: Media coverage
+    parent: Research
+    url: media
+    weight: 30
+  - name: Spinoffs
+    url: spinoff
+    weight: 45
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50
+  - name: About
+    url: about
+    weight: 69
