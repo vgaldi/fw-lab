@@ -1,33 +1,21 @@
 ---
+url_pdf: ""
 title: METATIP
-summary: Metastructures-on-fiber
-subtitle: Metastructures-on-fiber
+summary: METAstructures on fiber-optic TIP
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+show_date: false
+url_slides: ""
+subtitle: METAstructures on fiber-optic TIP
+weight: 80
 tags:
   - Sensing
   - Modeling
-date: '2016-04-27T00:00:00Z'
-show_date: false
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-weight: 80
+links: null
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+url_code: ""
 ---
 A possible development of great strategic importance is the  integration of metastructures with fiber- optics technology. This fits naturally within the recently emerged lab-on-fiber technology, which envisions the integration of optical fibers with nanophotonic and/or nanoplasmonic platforms enabling for nanoscale control of light, thereby substantially expanding the functionalities of conventional and specialty fibers, with potential applications ranging from optical processing to environmental monitoring, life science, safety and security.
 
