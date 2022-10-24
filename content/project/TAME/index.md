@@ -15,6 +15,7 @@ tags:
   - Phenomena
 image:
   focal_point: Smart
+  filename: featured.png
 url_code: ""
 ---
 
