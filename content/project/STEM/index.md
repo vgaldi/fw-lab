@@ -1,33 +1,20 @@
 ---
+url_pdf: ""
 title: STEM
 summary: Space-time metasurfaces
-subtitle: Space-time metasurfaces
-
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+show_date: false
+url_slides: ""
+subtitle: Space-TimE Metasurfaces
+weight: 10
 tags:
   - Communications
   - Modeling
-date: '2016-04-27T00:00:00Z'
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
-weight: 10
+url_code: ""
 ---
 In metamaterials engineering, there is currently a great surge of interest in exploiting [temporal modulations](/project/tame) of the constitutive parameters in addition to (or insted of) the conventional spatial one.
 In a series of ongoing studies, we have been exploring a class of "space-time" metasurfaces based on the concept of digital coding. These platforms rely on a limited number of (e.g., only two) inclusion types, whose “coding” description is particularly apt to the integration of active elements (e.g., diodes or micro-electro-mechanical systems) controlled by an integrated circuit, thereby leading to “programmable” metamaterial architectures.
