@@ -10,7 +10,7 @@ tags:
 external_link: ""
 show_date: false
 url_slides: ""
-subtitle: Aperiodic order
+subtitle: AperioDic OrdEr
 image:
   focal_point: Smart
 url_code: ""
