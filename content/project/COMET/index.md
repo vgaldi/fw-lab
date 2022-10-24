@@ -1,31 +1,19 @@
 ---
+url_pdf: ""
 title: COMET
-summary: Computational metastructures
-subtitle: Computational metastructures
+summary: COmputational METastructures
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+show_date: false
+url_slides: ""
+subtitle: COmputational METastructures
+weight: 20
 tags:
   - Computing
-date: '2016-04-27T00:00:00Z'
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-weight: 20
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+url_code: ""
 ---
 
 Fast processing of large amounts of data has become increasingly important in a technologically demanding world. Nanoscale optics may bring new solutions into this arena. In 2004, we have presented one such application: a new paradigm for performing mathematical operations, using wave evolution in specially designed metamaterials.
