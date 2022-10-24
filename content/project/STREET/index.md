@@ -1,32 +1,21 @@
 ---
+slides: example
+url_pdf: ""
 title: STREET
-summary: Smart electromagnetic environments
-subtitle: Smart electromagnetic environments
+subtitle: SmarT electRomagnEtic EnvironmenTs
+date: 2016-04-27T00:00:00Z
+summary: SmarT electRomagnEtic EnvironmenTs
+url_video: ""
+external_link: ""
+show_date: false
+url_slides: ""
+weight: 40
 tags:
   - Communications
   - Modeling
-date: '2016-04-27T00:00:00Z'
-show_date: false
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-weight: 40
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+url_code: ""
 ---
 
 The current vision of next-generation (6G and beyond) wireless communication systems relies on a proactive reconfiguration of the radio propagation environment
