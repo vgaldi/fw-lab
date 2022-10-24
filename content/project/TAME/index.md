@@ -1,32 +1,21 @@
 ---
+url_pdf: ""
 title: TAME
-summary: Temporal metamaterials
-subtitle: Temporal metamaterials
+summary: TemporAl MEtamaterials
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+show_date: false
+url_slides: ""
+subtitle: TemporAl MEtamaterials
+weight: 15
 tags:
   - Computing
   - Modeling
   - Phenomena
-date: '2016-04-27T00:00:00Z'
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-weight: 15
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+url_code: ""
 ---
 
 Conventional metastructures rely on suitably designed spatial arrangements (volumetric and planar, respectively) of deeply subwavelength meta-atoms that are engineered so as to attain desired physical responses not necessarily found in natural material. Currently, the growing availability of reconfigurable meta-atoms, whose response can be rapidly changed in time, has granted access to the temporal dimension as well, and has revamped the interest in studying wave interactions with time-varying media within the emerging frameworks of “temporal” and [“space-time”](/project/stem) metastructures.
