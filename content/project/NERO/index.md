@@ -1,31 +1,20 @@
 ---
+url_pdf: ""
 title: NERO
-summary: Non-Hermitian optics
-subtitle: Non-Hermitian optics
+summary: Non-hERmitian Optics
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+show_date: false
+url_slides: ""
+subtitle: Non-hERmitian Optics
+weight: 70
 tags:
   - Modeling
   - Phenomena
-date: '2016-04-27T00:00:00Z'
-show_date: false
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-weight: 70
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+url_code: ""
 ---
 
 In photonics, losses are naturally considered a detrimental effect to be mitigated.
