@@ -1,34 +1,23 @@
 ---
+url_pdf: ""
 title: FLAP
-summary: Flatland photonics
-subtitle: Flatland photonics
+summary: FLAtland Photonics
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+show_date: false
+url_slides: ""
+subtitle: FLAtland Photonics
+weight: 20
 tags:
   - Communications
   - Sensing
   - Modeling
   - Phenomena
-date: '2016-04-27T00:00:00Z'
-show_date: false
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
+links: null
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-weight: 20
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+url_code: ""
 ---
 
 Surface electromagnetics is a research topic of longstanding interest in microwave and antenna engineering, which is experiencing a renewed vitality in view of the widespread applications of artificial (metasurfaces) and natural (e.g., graphene) low-dimensional (2-D) materials.
