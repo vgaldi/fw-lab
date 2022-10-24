@@ -1,32 +1,19 @@
 ---
+url_pdf: ""
 title: ADORE
-summary: Aperiodic order
-subtitle: Aperiodic order
+summary: AperioDic OrdEr
+url_video: ""
+date: 2016-04-27T00:00:00Z
 tags:
   - Modeling
   - Phenomena
-date: '2016-04-27T00:00:00Z'
+external_link: ""
 show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
+url_slides: ""
+subtitle: Aperiodic order
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+url_code: ""
 ---
 
 The simplest conceivable form of “order” in nature is that associated with periodicity. However, the discovery of “quasicrystals” in solid-state physics has triggered a growing interest in the study of *aperiodically ordered* structures in many branches of physics and engineering.
