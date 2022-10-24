@@ -1,33 +1,21 @@
 ---
+url_pdf: ""
 title: SEIRA
-summary: Metasurface-enhanced infrared absorption spectroscopy
-subtitle: Metasurface-enhanced infrared absorption spectroscopy
+summary: metaSurface-Enhanced InfraRed Absorption spectroscopy
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+show_date: false
+url_slides: ""
+subtitle: metaSurface-Enhanced InfraRed Absorption spectroscopy
+weight: 60
 tags:
   - Sensing
   - Modeling
-date: '2016-04-27T00:00:00Z'
-show_date: false
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
+links: null
 image:
-  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-weight: 60
-links:
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+url_code: ""
 ---
 
 Mid-infrared (Mid-IR) absorption spectroscopy is a powerful method for the structural determination of molecules in chemical and biological samples, in a univocal, non-destructive, and label-free way, by measuring the absorption bands deriving from vibrational states. For these reasons, it is used to identify substances in diverse applications spanning from pharmaceutical, safety, and food to forensic sciences.
