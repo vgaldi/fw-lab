@@ -20,7 +20,7 @@ This new website is intended to showcase the main research activities and result
 Concise summaries are provided to describe our main research topics in the [project pages](/portfolio), together with the relevant publications.
 
 ## Design and implementation
-The website is built with [Hugo](https://gohugo.io), by using the [Wowchemy Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group).
+The website is built with [Hugo](https://gohugo.io), by using the [Wowchemy Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group), and is deployed on [GitHub](https://github.com) via [Netlify](https://www.netlify.com).
 
 ## Credits
 The banner images appearing in the [tour](/tout) page are adaptations of:
