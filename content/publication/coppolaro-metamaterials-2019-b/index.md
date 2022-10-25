@@ -6,5 +6,5 @@ publication_types = ["1"]
 abstract = ""
 selected = false
 publication = "*International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)*"
+doi="10.1109/MetaMaterials.2019.8900827"
 +++
-

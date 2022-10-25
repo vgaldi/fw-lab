@@ -6,5 +6,7 @@ publication_types = ["1"]
 abstract = ""
 selected = false
 publication = "*13th European Conference on Antennas and Propagation (EuCAP)*"
+links:
+- name: INSPEC
+  url: https://ieeexplore.ieee.org/abstract/document/8739382
 +++
-

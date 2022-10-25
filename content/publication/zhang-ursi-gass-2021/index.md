@@ -6,4 +6,5 @@ publication_types = ["1"]
 abstract = ""
 selected = false
 publication = "*XXXIV General Assembly and Scientific Symposium (GASS) of the URSI*"
+doi="10.23919/URSIGASS51995.2021.9560323"
 +++
