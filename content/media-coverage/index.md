@@ -30,17 +30,11 @@ weight = 45
 * [“Doing math with light,”](http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/)
 *Optics & Photonics News*, Dec. 1, 2014.
 
-* J. Gibson, [“Metamaterials can be used to perform analog computing,”](http://perfscience.com/content/metamaterials-can-be-used-perform-analog-computing)
-*PerfScience*, Nov. 1, 2014.
-
 * P. Reuell, [“Harvesting energy from devices,”](http://news.harvard.edu/gazette/story/2014/07/harvesting-energy-from-devices/)
 *Harvard Gazette*, July 4, 2014.
 
 * [“Harvesting energy from devices,”](https://phys.org/news/2014-07-harvesting-energy-devices.html)
 *phys.org*, July 4, 2014.
-
-* [“Harvesting energy from devices,”](http://www.energyharvestingjournal.com/articles/6683/harvesting-energy-from-devices)
-*Energy Harvesting Journal*, July 4, 2014.
 
 * S. Bland, [“Metamaterials and analog computing,”](http://www.materialstoday.com/computation-theory/podcasts/metamaterials-and-analog-computing/)
 *Materials Today*, Apr. 14, 2014.
@@ -74,9 +68,6 @@ weight = 45
 
 * S. Zhang, [“This amazing, light-bending metamaterial can do calculus,”](http://gizmodo.com/this-amazing-light-bending-metamaterial-can-do-calculu-1498877144)
 *Gizmodo*, Jan. 12, 2014.
-
-* P. Beart, [“‘Invisibility’ materials could perform calculations as well,”](http://frenchtribune.com/teneur/1421494-invisibility-materials-could-perform-calculations-well)
-*French Tribune*, Jan. 11, 2014.
 
 * A. Sihvola, [“Enabling optical analog computing with metamaterials,”](http://science.sciencemag.org/content/343/6167/144)
 *Science* *343*(6167), 144--145, Jan. 10, 2014.
