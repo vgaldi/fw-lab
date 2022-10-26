@@ -10,4 +10,4 @@ image:
   focal_point: Center
   filename: featured.png
 ---
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi)'s appointment as an Associuate Editor of *[Optics Express ](https://www.osapublishing.org/oe/home.cfm)*has been renewed for a three-year term (2022-2025)
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi)'s appointment as an Associate Editor of *[Optics Express ](https://www.osapublishing.org/oe/home.cfm)*has been renewed for a three-year term (2022-2025)
