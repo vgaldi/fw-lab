@@ -10,7 +10,7 @@ image:
 ---
 The call for nominations for the *2023 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics* is open.
 
-The Award was originally established jointly by the University of Siena and the University of Sannio, funded through a donation from Michael and Judy Felsen in fulfillment of the last wishes of their father, Professor Leo Felsen (1924-2005). Since 2015, the Award is established by the [European Association on Antennas and Propagation](EurAAP).
+The Award was originally established jointly by the University of Siena and the University of Sannio, funded through a donation from Michael and Judy Felsen in fulfillment of the last wishes of their father, Professor Leo Felsen (1924-2005). Since 2015, the Award is established by the [European Association on Antennas and Propagation (EuRAAP)](https://www.euraap.org).
 
 The main purpose of the Award is to keep alive Prof. Felsen’s memory and scientific legacy, 
 as well as to foster academic excellence in the electromagnetics community, 
