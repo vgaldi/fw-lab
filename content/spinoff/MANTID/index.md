@@ -26,7 +26,7 @@ url_video: ''
 #slides: example
 ---
 
-[MANTID](http://www.mantid.it) srl is a spinof company of the University of Sannio, founded in 2007 by Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi), [Andrea Cusano](http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&view=article&layout=edit&id=100) and [Vincenzo Galdi](/author/vincenzo-galdi), together with two former students, M.E. [Paolo Mattera](https://it.linkedin.com/in/paolo-mattera-057b396a) and [Roberto Parente](https://it.linkedin.com/in/roberto-parente-36739b46).
+[MANTID](http://www.mantid.it) srl is a spinof company of the University of Sannio, founded in 2007 by Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi), [Andrea Cusano](https://www.unisannio.it/it/users/acusano) and [Vincenzo Galdi](/author/vincenzo-galdi), together with two former students, M.E. [Paolo Mattera](https://it.linkedin.com/in/paolo-mattera-057b396a) and [Roberto Parente](https://it.linkedin.com/in/roberto-parente-36739b46).
 
 Its key mission and core business is the design and development of custom antennas relying on metamaterial-based concepts and technology. The application scenarios of interest include:
 
