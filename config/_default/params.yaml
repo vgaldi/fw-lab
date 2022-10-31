@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Fields & Waves Lab'
+    description: 'Fields & Waves Lab, Department of Engineering, University of Sannio.'
+    twitter: 'vgaldi70'
   analytics:
     google_analytics: 'UA-92188188-1'
     baidu_tongji: ''
