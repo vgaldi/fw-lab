@@ -8,7 +8,7 @@ superuser: false
 weight: 50
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
