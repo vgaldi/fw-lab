@@ -67,4 +67,4 @@ user_groups:
 
 During his bachelor and master, he did two internships abroad within the framework of the "Erasmus Traineeship" program, at Politechnika Łódzka (Poland) in 2016 and at Universidad Carlos III (Madrid, Spain) in 2018.
 
-Since 2019, he has been working as an antenna engineer at [MANTID]() srl.
+Since 2019, he has been working as an antenna engineer at [MANTID](/spinoff/mantid) srl.
