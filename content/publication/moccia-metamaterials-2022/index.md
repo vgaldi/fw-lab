@@ -7,5 +7,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*16th International Congress on Artificial Materials for Novel Wave Phenomena (METAMATERIALS)*"
+doi: "10.1109/Metamaterials54993.2022.9920770"
 ---
-
