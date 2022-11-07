@@ -16,7 +16,7 @@ weight = 45
 +++
 
 * [“Prof. Galdi Optica Fellow profile,”](https://www.optica.org/en-us/get_involved/awards_and_honors/fellow_members/fellow_profiles/vincenzo_galdi/)
-*Optica*, Nov. 2, 2022.
+*Optica*, Nov. 2, 2021.
 
 * [“Antenne wireless che imparano con l'intelligenza artificiale,”](http://www.ansa.it/canale_scienza_tecnica/notizie/tecnologie/2018/10/19/antenne-wireless-imparano-grazie-allintelligenza-artificiale_821de254-b8e5-4354-a9ee-e7e27b65720d.html)
 *ANSA*, Oct. 19, 2018.
