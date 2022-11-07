@@ -6,7 +6,7 @@ authors: ["G. Gradoni", "M. Di Renzo", "A. Diaz-Rubio", "S. Tretyakov", "C. Calo
 publication_types: ["2"]
 abstract: "This Roadmap takes the reader on a journey through the research in electromagnetic wave propagation control via reconfigurable intelligent surfaces. Meta-surface modelling and design methods are reviewed along with physical realisation techniques. Several wireless applications are discussed, including beam-forming, focusing, imaging, localisation, and sensing, some rooted in novel architectures for future mobile communications networks towards 6G."
 featured: false
-publication: "Reviews of Electromagnetics, **1**"
+publication: "*Reviews of Electromagnetics*, **1**"
 doi: 10.53792/RoE/2022.1/21012
 projects: ['STREET', 'STEM']
 ---
