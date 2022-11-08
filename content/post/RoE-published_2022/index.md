@@ -1,5 +1,5 @@
 +++
-title = "Roadmap paper on smart radio environments published in RoE"
+title = "Roadmap paper on smart surface radio environments published in RoE"
 date = 2022-11-07
 draft = false
 
@@ -30,6 +30,6 @@ categories = []
   focal_point = "Center"
 +++
 
-The roadmap paper on ["Smart radio environments,"](/publication/ij-160-RoE-2022/)
+The roadmap paper on ["Smart surface radio environments,"](/publication/ij-160-RoE-2022/)
 including our contribution,
 has been published in *Reviews of Electromagnetics*.
