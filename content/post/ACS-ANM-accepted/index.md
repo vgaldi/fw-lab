@@ -1,5 +1,5 @@
 +++
-title = "Our paper on extreme optical anisotropy in NiTe$_2$ accepted in ACS-ANM"
+title = "Our paper on extreme optical anisotropy in NiTe2 accepted in ACS-ANM"
 date = 2022-11-22
 draft = false
 
