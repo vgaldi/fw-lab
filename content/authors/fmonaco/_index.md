@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francesco Pio Monaco
+title: Francesco P. Monaco
 
 # Is this the primary user of the site?
 superuser: false
@@ -63,7 +63,7 @@ user_groups:
   - Current Members
 ---
 
-**Francesco Pio Monaco** is a Ph.D. Student in the Department of Engineering at the University of Sannio, Benevento, Italy, under the supervision of Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi), [Andrea Cusano](https://www.unisannio.it/it/user/627/ricerca) and [Vincenzo Galdi](/author/vincenzo-galdi).
+**Francesco P. Monaco** is a Ph.D. Student in the Department of Engineering at the University of Sannio, Benevento, Italy, under the supervision of Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi), [Andrea Cusano](https://www.unisannio.it/it/user/627/ricerca) and [Vincenzo Galdi](/author/vincenzo-galdi).
 
 During his bachelor and master, he carried out two internships abroad within the framework of the "Erasmus Traineeship" program, at Politechnika Łódzka, Poland, and Universidad Carlos III, Madrid, Spain, in 2016 and 2018, respectively.
 
