@@ -9,4 +9,4 @@ image:
   caption: ""
   focal_point: Center
 ---
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a lecture on *"Some perspectives on metastructures for advanced field manipulations"* at the 2022 Huawei Workshop on High Frequency Technologies, Milan, Italy, Nov. 28--29, 2022.
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a lecture on *"Some perspectives on metastructures for advanced field manipulations"* at the 2022 Huawei Workshop on High Frequency Technologies, Milan, Italy, Nov. 28-29, 2022.
