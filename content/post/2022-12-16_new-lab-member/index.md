@@ -1,6 +1,6 @@
 +++
 title = "New lab member"
-date = 2022-12-11
+date = 2022-12-16
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

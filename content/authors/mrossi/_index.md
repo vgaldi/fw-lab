@@ -6,6 +6,7 @@ title: Marco Rossi
 superuser: false
 
 weight: 60
+draft = true
 
 # Role/position
 role: Ph.D. Student
