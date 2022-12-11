@@ -1,6 +1,6 @@
 +++
-title = "New website"
-date = 2019-02-05
+title = "New lab member"
+date = 2022-12-11
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -30,6 +30,6 @@ categories = []
   focal_point = "Center"
 +++
 
-The new website is up!  
-It is built with [Hugo](https://gohugo.io), and utilizes the
-[Academic](https://github.com/gcushen/hugo-academic) template.
+[Marco Rossi](/author/marco-rossi) has joined the Fields & Waves Lab as a Ph.D. student in Information Technologies for Engineering.
+
+His Ph.D. work will be focused on electromagnetically consistent models of smart radio environments for 6G wireless communications networks.

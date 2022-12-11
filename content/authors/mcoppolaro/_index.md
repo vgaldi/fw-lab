@@ -73,7 +73,7 @@ user_groups:
   - Current Members
 ---
 
-**Marino Coppolaro** is a Ph.D. Candidate in the Department of Engineering at the University of Sannio, Benevento, Italy, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
+**Marino Coppolaro** is a Ph.D. Candidate in Information Technologies for Engineering at the University of Sannio, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
 
 From June 2012 to October 2014, he was a telecommunication engineer
 at [ART Srl](https://www.artgroup-spa.com) (Benevento, Italy).

@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Francesco P. Monaco
+title: Marco Rossi
 
 # Is this the primary user of the site?
 superuser: false
 
-weight: 50
+weight: 60
 
 # Role/position
 role: Ph.D. Student
@@ -16,25 +16,23 @@ organizations:
     url: 'https://www.unisannio.it/en'
   - name: Department of Engineering
     url: 'https://www.ding.unisannio.it'
-  - name: Mantid srl
-    url: 'http://www.mantid.it'
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-  - Metamaterials
-  - Antennas
-  - Millimeter-wave radars
+  - Space-time-coding metasurfaces
+  - Smart radio environments
+
 
 education:
   courses:
   - course: M.E. in Electronics Engineering for Automation and Telecommunications
     institution: University of Sannio, Italy
-    year: 2019
+    year: 2022
   - course: B.E. in Electronics Engineering for Automation and Telecommunications
     institution: University of Sannio, Italy
-    year: 2016
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fpmonaco@unisannio.it'
+    link: 'mailto:marco.rossi@unisannio.it'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,8 +61,6 @@ user_groups:
   - Current Members
 ---
 
-**Francesco P. Monaco** is a Ph.D. Student in Information Technologies for Engineering at the University of Sannio, under the joint supervision of Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi), [Andrea Cusano](https://www.unisannio.it/it/user/627/ricerca) and [Vincenzo Galdi](/author/vincenzo-galdi).
+**Marco Rossi** is a Ph.D. Student in Information Technologies for Engineering at the University of Sannio, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
 
-During his bachelor and master, he carried out two internships abroad within the framework of the "Erasmus Traineeship" program, at Politechnika Łódzka, Poland, and Universidad Carlos III, Madrid, Spain, in 2016 and 2018, respectively.
-
-Since 2019, he has been working as an antenna engineer at [MANTID](/spinoff/mantid) srl.
+His research is focused on electromagnetically consistent models of smart radio environments for 6G wireless communications networks.
