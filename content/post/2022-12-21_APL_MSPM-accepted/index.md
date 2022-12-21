@@ -1,6 +1,6 @@
 +++
 title = "Our paper on multiple short-pulsed metamaterials accepted in APL"
-date = 2022-12-222
+date = 2022-12-21
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
