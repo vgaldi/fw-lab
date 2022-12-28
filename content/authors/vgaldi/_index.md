@@ -50,8 +50,7 @@ weight: 10
 email: ""
 ---
 **Vincenzo Galdi** is a Professor of Electromagnetics in the Department of Engineering at the University of Sannio, Benevento, Italy, where he leads the Fields & Waves Lab.
-He has held several visiting positions at abroad research institutions, including the European Space Research and Technology Centre, Boston University, Massachusetts Institute of Technology,
-and California Institute of Technology.
+He has held several research-associate and visiting positions at abroad research institutions, including the European Space Research and Technology Centre, Boston University, Massachusetts Institute of Technology, California Institute of Technology, and University of Texas.
 
 He has co-edited two books, co-authored about 160 papers in peer-reviewed international journals, and is the co-inventor of 7 patents.
 
