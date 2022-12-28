@@ -1,5 +1,5 @@
 ---
-title: "Digital coding metasurfaces: From theory to Applications"
+title: "Digital coding metasurfaces: From theory to applications"
 date: 2022-08-01
 publishDate: 2022-10-20T18:23:40.358457Z
 authors: ["Q. Ma", "Q. Xiao", "Q. R. Hong", "X. Gao", "V. Galdi", "T. J. Cui"]
