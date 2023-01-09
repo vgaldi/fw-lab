@@ -1,5 +1,5 @@
 +++
-title = "Our research highlight on new wireless architectures accepted in NSR"
+title = "Our paper on multiple short-pulsed metamaterials published in APL"
 date = 2023-01-09
 draft = false
 
@@ -30,5 +30,5 @@ categories = []
   focal_point = "Center"
 +++
 
-Our research highlight on "New wireless architectures based on information metasurfaces"
-has been accepted for publication in [*National Science Review*](https://academic.oup.com/nsr).
+Our paper on ["Multiple actions of time-resolved short-pulsed metamaterials,"](/publication/ij-162-APL-122-021701-2023) in collaboration with [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/) (University of l'Aquila) and [Nader Engheta](https://www.seas.upenn.edu/~engheta/index.htm) (University of Pennsylvania),
+has been published in *Applied Physics Letters*.

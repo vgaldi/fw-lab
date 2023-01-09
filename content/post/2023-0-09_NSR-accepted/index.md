@@ -1,6 +1,6 @@
 +++
 title = "Our research highlight on new wireless architectures accepted in NSR"
-date = 2023-01-09
+date = 2023-09-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
