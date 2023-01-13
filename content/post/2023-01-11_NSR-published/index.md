@@ -1,5 +1,5 @@
 +++
-title = "Research highlight on new wireless architectures accepted in NSR"
+title = "Research highlight on new wireless architectures published in NSR"
 date = 2023-01-09
 draft = false
 
@@ -30,5 +30,5 @@ categories = []
   focal_point = "Center"
 +++
 
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi)'s research highlight on "New wireless architectures based on information metasurfaces"
-has been accepted for publication in [*National Science Review*](https://academic.oup.com/nsr).
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi)'s research highlight on ["New wireless architectures based on information metasurfaces"](/publication/ij-163-NSR-2023)
+has been accepted for publication in *National Science Review*.
