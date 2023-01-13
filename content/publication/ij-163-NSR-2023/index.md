@@ -1,7 +1,7 @@
 ---
 title: "New wireless architectures based on information metasurfaces"
 date: 2023-01-11
-authors: [""V. Galdi"]
+authors: ["V. Galdi"]
 publication_types: ["2"]
 featured: false
 publication: "*National Science Review* **AOP**"

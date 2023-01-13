@@ -30,5 +30,5 @@ categories = []
   focal_point = "Center"
 +++
 
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi)'s research highlight on ["New wireless architectures based on information metasurfaces"](/publication/ij-163-NSR-2023)
-has been accepted for publication in *National Science Review*.
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi)'s research highlight on ["New wireless architectures based on information metasurfaces"](/publication/ij-163-nsr-2023)
+has been published in *National Science Review*.
