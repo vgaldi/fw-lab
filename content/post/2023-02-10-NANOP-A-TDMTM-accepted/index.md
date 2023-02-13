@@ -34,3 +34,6 @@ Our paper on "Spin-controlled photonics via temporal anisotropy,"
 in collaboration with [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/) (University of l'Aquila),
 has been accepted for publication in [*Nanophotonics*](https://www.degruyter.com/view/journals/nanoph/nanoph-overview.xml).
 
+An [arXiv preprint](https://arxiv.org/abs/2302.05153) is available.
+
+
