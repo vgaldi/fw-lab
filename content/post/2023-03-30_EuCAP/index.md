@@ -29,7 +29,7 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-We have presented three talks on 
+We have presented three talks on: 
 
 * ["Modeling the mutual coupling of reconfigurable metasurfaces"](/publication/direnzo-eucap-2023/)
 
