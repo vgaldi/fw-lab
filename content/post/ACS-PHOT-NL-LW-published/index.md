@@ -11,4 +11,4 @@ image:
 ---
 Our paper on ["Line waves in non-Hermitian metasurfaces,"](/publication/ij-143-acs-phot-2020)
 in collaboration with [Andrea Alù](http://www.alulab.org) (ASRC-CUNY),
-has been published for publication in *[ACS Photonics](https://pubs.acs.org/journal/apchd5)*.
+has been published in *ACS Photonics*.
