@@ -42,6 +42,7 @@ Its key mission and core business is the design and development of custom antenn
 The company relies on state-of-the-art full-wave 3D simulation and fast-prototyping tools, so as to guide the customer through all necessary steps from the problem identification to its solution.
 
 ## Relevant patents
+- R. DeSalvo, G. Castaldi, A. Cusano, V. Galdi, P. Mattera, R. Parente, F. Daneshgaran, J. M. Tien, D. Krogstad (2023), [Devices, systems, and methods for radar-based artificial reality tracking using polarized signaling](/publication/desalvo-devices-systems-methods-2023/). Patent US11650306B1.
 - R. DeSalvo, G. Castaldi, A. Cusano, V. Galdi, P. Mattera, R. Parente, F. Daneshgaran, J. M. Tien, D. J. G. Krogstad, O. M. I. Perez (2022). [Apparatus, system, and method for mitigating systematic distance errors in radar-based triangulation calculations](/publication/desalvo-apparatus-system-method-2022/). Patent US11454700B1.
 - F. Daneshgaran, D. J. G. Krogstad, R. Desalvo, J. M. Tien, O. M. I. Perez, P. Mattera, R. Parente, V. Galdi (2022). [Object detection using RF beat signal frequency and phase](/publication/daneshgaran-object-detection-using-2022/). Patent WO2022125584A3.
 - D. J. G. Krogstad, R. DeSalvo, J. M. Tien, O. M. I. Perez, F. Daneshgaran, P. Mattera, R. Parente, V. Galdi (2022). [Object tracking using beat signal frequency and phase](/publication/krogstad-object-tracking-using-2022/). Patent US20220179059A1.
