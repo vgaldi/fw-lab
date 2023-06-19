@@ -24,7 +24,7 @@ We have shown, theoretically and numerically, that light-matter interaction can 
 
 ## Collaborations
 - Prof. [Nader Engheta], University of Pennsylvania, USA
-- Prof. [Andrea Alù], Advanced Science Research Center, City Univerity of New York, USA
+- Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
 - Prof. [Carlo Rizza], University of L'Aquila, Italy
 
 [Andrea Alù]:http://www.alulab.org

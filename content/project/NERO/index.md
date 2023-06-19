@@ -37,7 +37,7 @@ These results pave the way toward intriguing developments in applications rangin
 
 ## Collaborations
 - Prof. [Nader Engheta], University of Pennsylvania, USA
-- Prof. [Andrea Alù], Advanced Science Research Center, City Univerity of New York, USA
+- Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
 - Prof. [Francesco Monticone], Cornell University, USA
 
 
