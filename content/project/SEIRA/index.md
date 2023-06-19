@@ -33,8 +33,8 @@ at concentrations well below the value attained by standard methods, with additi
 This technology holds great promise to outperform modern surface spectroscopic techniques, with ample room for improvement as an analytical tool for biological samples and processes.
 
 ## Collaborations
-- Dr. [Emanuela Esposito], National Research Center, Italy
-- Dr. [Menotti Ruvo], National Research Center, Italy
+- Dr. [Emanuela Esposito], National Research Council, Italy
+- Dr. [Menotti Ruvo], National Research Council, Italy
 
 [Emanuela Esposito]: https://www.urp.cnr.it/copertine/ente/ente_evidenza/gare_2021/ISASI_8695484C63_commissari.pdf
 [Menotti Ruvo]: http://www.ibb.cnr.it/?command=viewu&id=386

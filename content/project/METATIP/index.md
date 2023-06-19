@@ -24,7 +24,7 @@ These include plasmonic metasurfaces and dielectric gratings, which can be tailo
 
 ## Collaborations
 - Prof. [Andrea Cusano], University of Sannio, Italy
-- Dr. [Emanuela Esposito], National Research Center, Italy
+- Dr. [Emanuela Esposito], National Research Council, Italy
 
 [Andrea Cusano]: https://www.unisannio.it/it/users/acusano
 
