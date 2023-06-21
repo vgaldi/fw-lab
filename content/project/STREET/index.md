@@ -27,7 +27,7 @@ In an ongoing collaborative effort aimed at fully investigating and capitalizing
 
 ## Collaborations
 - Prof. [Marco Di Renzo], Paris-Saclay University / CNRS, France
-- Prof. [Gabriele Gradoni], University of Nottingham, UK
+- Prof. [Gabriele Gradoni], University of Surrey, UK
 
 [Marco Di Renzo]: https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en
-[Gabriele Gradoni]: https://www.nottingham.ac.uk/mathematics/people/gabriele.gradoni
+[Gabriele Gradoni]: https://scholar.google.com/citations?user=1bAzHVoAAAAJ&hl=en
