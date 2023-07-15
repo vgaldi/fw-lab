@@ -8,7 +8,7 @@ superuser: false
 weight: 40
 
 # Role/position
-role: Former Ph.D. student (now Teacher at I.I.S. Alessandro Lombardi, Airola)
+role: Former Ph.D. student (now high-school teacher at I.I.S. Alessandro Lombardi, Airola)
 
 # Organizations/Affiliations
 organizations:

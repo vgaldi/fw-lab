@@ -1,6 +1,6 @@
 +++
 title = "Coppolaro's Ph.D. defense"
-date = 2020-11-03
+date = 2023-07-14
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
