@@ -48,7 +48,7 @@ He received his M.E. degree in Electrical Engineering (*summa cum laude*) from t
 ["Federico II" University of Naples](http://www.unina.it/en_GB/home), Italy, with a thesis project
 dealing with the design and optimization of an anti-intrusion microwave sensor based on a
 parallel-plate waveguide with deformable walls. In 2018, he received the Ph.D. degree in Information Technologies for
-Engineering​from the University of Sannio, Benevento, Italy, defending a thesis on Bloch‐surface‐wave assisted lab‐on‐fiber optrodes,
+Engineering​ from the University of Sannio, Benevento, Italy, defending a thesis on Bloch‐surface‐wave assisted lab‐on‐fiber optrodes,
 supervised by Profs. [Vincenzo Galdi](/author/vincenzo-galdi)
 and Andrea Cusano
 
