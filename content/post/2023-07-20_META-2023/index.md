@@ -35,4 +35,4 @@ at the *13th International Conference on Metamaterials, Photonic Crystals and Pl
 Paris, France, July 18-21, 2023.
 
 
-[META2023]: https://metaconferences.org/META/index.php/META2023/index
+[META2023]: https://metaconferences.org/META23/index.php/META/index
