@@ -41,4 +41,4 @@ at the *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Scie
 Portland, OR, USA, July 23-28, 2023.
 
 
-[IEEE-APS/URSI]: http://2023apsursi.org/default.asp
+[IEEE-APS/URSI]: https://2023.apsursi.org
