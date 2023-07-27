@@ -13,7 +13,7 @@ We are currently offering multiple postdoctoral opportunities. We invite highly 
 Research topics:
 1. **Metamaterials for Magnetic Resonance Imaging (MRI)**: Explore the theoretical and practical aspects of geometry-driven magnetic metamaterials for MRI scanners operating at radio frequency (1H: 60-500 MHz, 1.5T-12T). This research aims to enhance diagnostic accuracy and safety for MRI systems.
 2. **Multi-resonant Metasurfaces for Enhanced Infrared Spectroscopy**: Contribute to developing an advanced mid-infrared biosensing platform using multiresonant plasmonic metasurfaces. This platform will enable real-time, non-destructive, and highly sensitive analysis of proteins, peptides, and other biochemical species.
-3. **Reconfigurable Intelligent Surfaces (RIS) and Smart Propagation Environments**: Join a collaborative effort to explore the potential of RIS technology for next-generation wireless communications. This interdisciplinary project combines signal processing, optimization tools, information theory, electromagnetic modeling, and design to revolutionize communication systems.
+3. **Reconfigurable Intelligent Surfaces (RIS) and Smart Propagation Environments**: Join a collaborative effort to explore the potential of RIS technology for next-generation wireless communications. This interdisciplinary project combines electromagnetic modeling and design, signal processing, optimization tools, and information theory.
 
 Position details:
 - Full-time positions for one year, with possible extension.
