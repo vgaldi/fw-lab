@@ -18,4 +18,4 @@ Research topics:
 Position details:
 - Full-time positions for one year, with possible extension.
 - Expected starting time: fall 2023 or early 2024.
-- Interested candidates should [submit](/contact/) their CV and three references, specifying their topic of interest.
+- Interested candidates should [submit](/contact/) their CV and three references, specifying their topic(s) of interest.
