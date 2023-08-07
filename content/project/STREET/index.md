@@ -28,6 +28,10 @@ In an ongoing collaborative effort aimed at fully investigating and capitalizing
 ## Collaborations
 - Prof. [Marco Di Renzo], Paris-Saclay University / CNRS, France
 - Prof. [Gabriele Gradoni], University of Surrey, UK
+- Prof. [Tie Jun Cui], Southeast University, China
+- Prof. [Lianlin Li], Peking University, China
 
+[Lianlin Li]: https://www.researchgate.net/profile/Lianlin-Li
+[Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en
 [Marco Di Renzo]: https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en
 [Gabriele Gradoni]: https://scholar.google.com/citations?user=1bAzHVoAAAAJ&hl=en
