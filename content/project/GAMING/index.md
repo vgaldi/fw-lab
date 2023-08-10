@@ -7,8 +7,8 @@ date: 2016-04-27T00:00:00.000Z
 external_link: ""
 show_date: false
 url_slides: ""
-subtitle: FLAtland Photonics
-weight: 30
+subtitle: Geometry-driven Artificial Magnetism for magnetic resonance imagING
+weight: 45
 tags:
   - Sensing
   - Phenomena
