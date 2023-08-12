@@ -6,4 +6,5 @@ publication_types: ["1"]
 abstract: ""
 selected: false
 publication: "*17th European Conference on Antennas and Propagation (EuCAP)*"
+doi: 10.23919/EuCAP57121.2023.10133443
 ---
