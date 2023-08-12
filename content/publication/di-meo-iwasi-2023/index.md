@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Plasmonic metasurface as surface enhanced infrared absorption spectroscopy platform for biosensing applications"
 date = 2023-06-09
 authors = ["V. Di Meo", "M. Iencharelli", "M. Moccia", "A. Crescitelli", "G. Tommasini", "A. Tino", "C. Tortiglione", "V. Galdi", "I. Rendina", "E. Esposito"]
 publication_types = ["1"]
