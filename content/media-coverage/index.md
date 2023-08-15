@@ -84,10 +84,10 @@ weight = 45
 * J. Timmer, [“Metamaterials could perform calculus with light waves,”](https://arstechnica.com/science/2014/01/metamaterials-could-perform-calculus-with-light-waves/)
 *Ars Technica*, Jan. 10, 2014.
 
-* [“Math performed with metamaterials,”](https://www.eurekalert.org/multimedia/pub/67074.php)
+* [“Math performed with metamaterials,”](https://www.eurekalert.org/news-releases/553931)
 *EurekAlert! -- AAAS*, Jan. 10, 2014.
 
-* G. Popkin, [“Materials’ light tricks may soon extend to doing math,”](https://www.sciencenews.org/article/materials’-light-tricks-may-soon-extend-doing-math)
+* G. Popkin, [“Materials’ light tricks may soon extend to doing math,”](https://www.sciencenews.org/article/materials-light-tricks-may-soon-extend-doing-math)
 *Science News*, Jan. 10, 2014.
 
 * [“Researchers lay out theory for metamaterials that act as an analog computer,”](https://phys.org/news/2014-01-theory-metamaterials-analog.html)
@@ -95,9 +95,6 @@ weight = 45
 
 * [“Computer analogici: dai materiali dei mantelli dell’invisibilità una tecnologia per elaborare la luce,”](http://www.repubblica.it/tecnologia/2014/01/09/news/computer_analogici_dai_materiali_dei_mantelli_dell_invisibilit_una_tecnologia_per_elaborare_la_luce-75513423/)
 *La Repubblica*, Jan. 10, 2014. :it:
-
-* [“Dai mantelli dell’invisibilità i nuovi computer,”](http://www.ansa.it/web/notizie/specializzati/scienza/2014/01/10/mantelli-invisibilita-nuovi-computer_9874922.html)
-*ANSA*, Jan. 10, 2014. :it:
 
 * [“Theory for metamaterials that act as an analog computer,”](https://www.sciencedaily.com/releases/2014/01/140109143758.htm)
 *Science Daily*, Jan. 9, 2014.
