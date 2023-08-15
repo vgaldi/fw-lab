@@ -22,10 +22,10 @@ weight = 45
 *ANSA*, Oct. 19, 2018. :it:
 
 * [“Antenne wireless che imparano con l'intelligenza artificiale,”](https://www.repubblica.it/tecnologia/2018/10/18/news/antenne_wireless_che_imparano_con_l_intelligenza_artificiale-209310831/)
-*La Repubblica*, Oct. 18, 2018.
+*La Repubblica*, Oct. 18, 2018. :it:
 
 * [“Onde gravitazionali ‘sentite’ da specchi progettati in Italia,”](http://www.ansa.it/scienza/notizie/rubriche/ricerca_nel_sud/2016/02/16/onde-gravitazionali-sentite-da-specchi-progettati-in-italia_fea8e743-37c3-4784-8793-6d9ef3592741.html)
-*ANSA*, Feb. 16, 2016.
+*ANSA*, Feb. 16, 2016. :it:
 
 * [“Doing math with light,”](http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/)
 *Optics & Photonics News*, Dec. 1, 2014.
@@ -40,7 +40,7 @@ weight = 45
 *Materials Today*, Apr. 14, 2014.
 
 * [“Un ritorno dei computer analogici?”](http://www.automazionenews.it/un-ritorno-dei-computer-analogici/)
-*Automazione Integrata*, Mar. 13, 2014.
+*Automazione Integrata*, Mar. 13, 2014. :it:
 
 * D. Gevaux, [“A mathematical metamaterial,”](http://www.nature.com/nphys/journal/v10/n2/full/nphys2893.html)
 *Nature Physics* *10*(2), 86, Jan. 31, 2014.
@@ -100,10 +100,10 @@ weight = 45
 *phys.org*, Jan. 10, 2014.
 
 * [“Computer analogici: dai materiali dei mantelli dell’invisibilità una tecnologia per elaborare la luce,”](http://www.repubblica.it/tecnologia/2014/01/09/news/computer_analogici_dai_materiali_dei_mantelli_dell_invisibilit_una_tecnologia_per_elaborare_la_luce-75513423/)
-*La Repubblica*, Jan. 10, 2014.
+*La Repubblica*, Jan. 10, 2014. :it:
 
 * [“Dai mantelli dell’invisibilità i nuovi computer,”](http://www.ansa.it/web/notizie/specializzati/scienza/2014/01/10/mantelli-invisibilita-nuovi-computer_9874922.html)
-*ANSA*, Jan. 10, 2014.
+*ANSA*, Jan. 10, 2014. :it:
 
 * [“Theory for metamaterials that act as an analog computer,”](https://www.sciencedaily.com/releases/2014/01/140109143758.htm)
 *Science Daily*, Jan. 9, 2014.
