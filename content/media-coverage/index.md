@@ -55,7 +55,7 @@ weight = 45
 *Penn Current*, Jan. 16, 2014.
 
 * [“Verso un calcolatore fotonico basato su metamateriali,”](http://www.lescienze.it/news/2014/01/14/news/calcolatore_fotonico_metamateriale-1958139/)
-*Le Scienze*, Jan. 14, 2014.
+*Le Scienze*, Jan. 14, 2014. :it:
 
 * [“Metamaterials can be used to perform mathematical operations like calculus,”](http://gadgets.ndtv.com/others/news/metamaterials-can-be-used-to-perform-mathematical-operations-like-calculus-470636)
 *Gadgets 360° -- NDTV*, Jan. 13, 2014.
