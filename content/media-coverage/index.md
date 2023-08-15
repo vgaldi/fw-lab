@@ -21,9 +21,6 @@ weight = 45
 * [“Antenne wireless che imparano con l'intelligenza artificiale,”](https://www.repubblica.it/tecnologia/2018/10/18/news/antenne_wireless_che_imparano_con_l_intelligenza_artificiale-209310831/)
 *La Repubblica*, Oct. 18, 2018. :it:
 
-* [“Onde gravitazionali ‘sentite’ da specchi progettati in Italia,”](http://www.ansa.it/scienza/notizie/rubriche/ricerca_nel_sud/2016/02/16/onde-gravitazionali-sentite-da-specchi-progettati-in-italia_fea8e743-37c3-4784-8793-6d9ef3592741.html)
-*ANSA*, Feb. 16, 2016. :it:
-
 * [“Doing math with light,”](http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/)
 *Optics & Photonics News*, Dec. 1, 2014.
 
