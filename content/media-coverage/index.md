@@ -19,7 +19,7 @@ weight = 45
 *Optica*, Nov. 2, 2021.
 
 * [“Antenne wireless che imparano con l'intelligenza artificiale,”](http://www.ansa.it/canale_scienza_tecnica/notizie/tecnologie/2018/10/19/antenne-wireless-imparano-grazie-allintelligenza-artificiale_821de254-b8e5-4354-a9ee-e7e27b65720d.html)
-*ANSA*, Oct. 19, 2018.
+*ANSA*, Oct. 19, 2018. :it:
 
 * [“Antenne wireless che imparano con l'intelligenza artificiale,”](https://www.repubblica.it/tecnologia/2018/10/18/news/antenne_wireless_che_imparano_con_l_intelligenza_artificiale-209310831/)
 *La Repubblica*, Oct. 18, 2018.
