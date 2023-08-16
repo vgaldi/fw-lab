@@ -24,10 +24,7 @@ weight = 45
 * [“Doing math with light,”](http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/)
 *Optics & Photonics News*, Dec. 1, 2014.
 
-* P. Reuell, [“Harvesting energy from devices,”](http://news.harvard.edu/gazette/story/2014/07/harvesting-energy-from-devices/)
-*Harvard Gazette*, July 4, 2014.
-
-* [“Harvesting energy from devices,”](https://phys.org/news/2014-07-harvesting-energy-devices.html)
+* P. Reuell, [“Harvesting energy from devices,”](https://phys.org/news/2014-07-harvesting-energy-devices.html)
 *phys.org*, July 4, 2014.
 
 * S. Bland, [“Metamaterials and analog computing,”](http://www.materialstoday.com/computation-theory/podcasts/metamaterials-and-analog-computing/)
