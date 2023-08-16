@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* ["Rischi sicurezza 6G: studio Unisannio pubblicato su Nature Electronics,"](https://www.ilmattino.it/benevento/rischi_sicurezza_6g_studio_unisannio_pubblicato_su_nature_electronics-7564183.html)
+*Il Mattino*, Aug. 7, 2023. :it:
+
 * [“Prof. Galdi Optica Fellow profile,”](https://www.optica.org/en-us/get_involved/awards_and_honors/fellow_members/fellow_profiles/vincenzo_galdi/)
 *Optica*, Nov. 2, 2021.
 
