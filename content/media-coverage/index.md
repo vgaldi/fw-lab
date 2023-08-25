@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* I. Fadelli, [“Study highlights the vulnerabilities of metasurface-based wireless communication systems,”](https://techxplore.com/news/2023-08-highlights-vulnerabilities-metasurface-based-wireless-communication.html)
+*Tech Xplore*, August 25, 2023.
+
 * ["Rischi sicurezza 6G: studio Unisannio pubblicato su Nature Electronics,"](https://www.ilmattino.it/benevento/rischi_sicurezza_6g_studio_unisannio_pubblicato_su_nature_electronics-7564183.html)
 *Il Mattino*, Aug. 7, 2023. :it:
 
