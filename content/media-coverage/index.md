@@ -16,7 +16,7 @@ weight = 45
 +++
 
 
-* ["Significant security gaps discovered in 6G mobile connectivity,"](https://metroamericas.com/en/noticias-2/significant-security-gaps-discovered-in-6g-mobile-connectivity/34452/), *Metro Americas*, August 28, 2023.
+* ["Significant security gaps discovered in 6G mobile connectivity,"](https://metroamericas.com/en/noticias-2/significant-security-gaps-discovered-in-6g-mobile-connectivity/34452/) *Metro Americas*, August 28, 2023.
 
 * H. Harrison, [“Danger for all mobiles: 6G is insecure,”](https://www.gearrice.com/update/danger-for-all-mobiles-6g-is-insecure/)
 *Gearrice*, August 28, 2023.
