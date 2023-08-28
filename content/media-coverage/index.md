@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* K. Afifi-Sabet, [“Researchers find worrying vulnerabilities in key 6G technology,”](https://www.techradar.com/pro/researchers-find-worrying-vulnerabilities-in-key-6g-technology)
+*TechRadar*, August 28, 2023.
+
 * I. Fadelli, [“Study highlights the vulnerabilities of metasurface-based wireless communication systems,”](https://techxplore.com/news/2023-08-highlights-vulnerabilities-metasurface-based-wireless-communication.html)
 *Tech Xplore*, August 25, 2023.
 
