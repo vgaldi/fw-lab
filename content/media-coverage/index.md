@@ -15,6 +15,17 @@ weight = 45
 
 +++
 
+
+* ["Significant security gaps discovered in 6G mobile connectivity,"](https://metroamericas.com/en/noticias-2/significant-security-gaps-discovered-in-6g-mobile-connectivity/34452/), *Metro Americas*, August 28, 2023.
+
+* H. Harrison, [“Danger for all mobiles: 6G is insecure,”](https://www.gearrice.com/update/danger-for-all-mobiles-6g-is-insecure/)
+*Gearrice*, August 28, 2023.
+
+* A. Morgan, [“What are metasurfaces and why do they pose a huge security risk with the advent of 6G?,”](https://www.gearrice.com/update/what-are-metasurfaces-and-why-do-they-pose-a-huge-security-risk-with-the-advent-of-6g/)
+*Gearrice*, August 28, 2023.
+
+* ["Critical Vulnerabilities uncovered in vital 6G technology: What you need to know"](https://techplugged.com/critical-vulnerabilities-uncovered-in-vital-6g-technology-what-you-need-to-know/), *TechPlugged*, August 28, 2023.
+
 * K. Afifi-Sabet, [“Researchers find worrying vulnerabilities in key 6G technology,”](https://www.techradar.com/pro/researchers-find-worrying-vulnerabilities-in-key-6g-technology)
 *TechRadar*, August 28, 2023.
 
