@@ -15,7 +15,7 @@ weight = 45
 
 +++
 
-* K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *ghacks.net*, August 30, 2023.
+* K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *Ghacks*, August 30, 2023.
 
 * ["Significant security gaps discovered in 6G mobile connectivity,"](https://metroamericas.com/en/noticias-2/significant-security-gaps-discovered-in-6g-mobile-connectivity/34452/) *Metro Americas*, August 28, 2023.
 
