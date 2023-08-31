@@ -52,7 +52,7 @@ email: ""
 **Vincenzo Galdi** is a Professor of Electromagnetics in the Department of Engineering at the University of Sannio, Benevento, Italy, where he leads the Fields & Waves Lab.
 He has held several research-associate and visiting positions at abroad research institutions, including the European Space Research and Technology Centre, Boston University, Massachusetts Institute of Technology, California Institute of Technology, and University of Texas.
 
-He has co-edited two books, co-authored about 160 papers in peer-reviewed international journals, and is the co-inventor of 7 patents.
+He has co-edited two books, co-authored about 170 papers in peer-reviewed international journals, and is the co-inventor of eight patents.
 
 He is currently serving as an Associate Editor of *[Optics Express](https://www.osapublishing.org/oe/home.cfm)* and of *[Heliyon](https://www.cell.com/heliyon/home)*, and as a regular reviewer for many journals, conferences and funding agencies. He has served as a Track Editor (2016-20), Senior Associate Editor (2015-16), and Associate Editor (2013-14) of the *[IEEE Transactions on Antennas and Propagation](https://ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagation/ieee-tap-home)*.
 
