@@ -15,6 +15,10 @@ weight = 45
 
 +++
 
+* J. Soisson, ["Programmable metasurfaces in 6G networks: Enhancing communication pathways with new cybersecurity risks,"](https://www.opp.today/news2/security-flaws-found-in-emerging-6g-tech/22913/) *OPP.TODAY*, August 31, 2023.
+
+* B. Vincent, ["Hackers can exploit weaknesses in programmable metasurfaces to launch new types of attacks on 6G networks,"](https://www.opp.today/news2/researchers-find-worrying-vulnerabilities-in-key-6g-technology/21007/) *OPP.TODAY*, August 30, 2023.
+
 * K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *Ghacks*, August 30, 2023.
 
 * ["Significant security gaps discovered in 6G mobile connectivity,"](https://metroamericas.com/en/noticias-2/significant-security-gaps-discovered-in-6g-mobile-connectivity/34452/) *Metro Americas*, August 28, 2023.
