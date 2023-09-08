@@ -23,7 +23,7 @@ in order to increase the system capacity and  improve coverage of cellular netwo
 
 When operating passively, RISs have an extremely low power consumption and process electromagnetic signals directly at the speed of light, dramatically reducing latency and complexity with respect to corresponding fully-digital solutions. Active solutions instead provide higher data rates at the expense of more complex technological solutions and higher power consumption.  Moreover, the extreme spatial resolution given by the large size of these structures will enable  unprecedented spatial multiplexing capabilities. This can also be exploited for combined communication and sensing solutions, to support innovative end-user applications. Accordingly, they represent one of the most promising technologies for 6G networks.
 
-In an ongoing collaborative effort aimed at fully investigating and capitalizing the potentialities of RIS technology, we have undertaken an interdisciplinary approach, merging competencies on signal processing, optimization tools, information theory, electromagnetic modeling and design.
+In an ongoing collaborative effort aimed at fully investigating and capitalizing the potentials of RIS technology, we have undertaken an interdisciplinary approach, merging competencies on signal processing, optimization tools, information theory, electromagnetic modeling and design.
 
 ## Collaborations
 - Prof. [Marco Di Renzo], Paris-Saclay University / CNRS, France
