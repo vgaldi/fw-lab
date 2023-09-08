@@ -15,6 +15,7 @@ weight = 45
 
 +++
 
+
 * ["Programmable metasurfaces in 6G networks vulnerable to wireless attacks,"](https://www.globalbusinessoutlook.com/programmable-metasurfaces-networks-vulnerable-wireless-attacks/) *Global Business Outlook*, September 5, 2023.
 
 * J. Soisson, ["Programmable metasurfaces in 6G networks: Enhancing communication pathways with new cybersecurity risks,"](https://www.opp.today/news2/security-flaws-found-in-emerging-6g-tech/22913/) *OPP.TODAY*, August 31, 2023.
