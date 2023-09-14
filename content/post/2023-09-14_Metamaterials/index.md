@@ -1,6 +1,6 @@
 +++
 title = "Invited and contributed talks at Metamaterials 2023"
-date = 2023-09-12
+date = 2023-09-14
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
