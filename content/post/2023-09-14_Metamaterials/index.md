@@ -35,6 +35,6 @@ We have presented two invited talks on
 
 * [*"Some recent developments in temporal metamaterials"*](/publication/rizza-metamaterials-2023/)
 
-and a contributed talk on [*"Time-switched metasurfaces as frequency multipliers for radiated modes"*](/publication/stefanini-metamaterials-2023/) at the *17th International Congress on Engineered Material Platforms for Novel Wave Phenomena* ([Metamaterials]), Crete, Greece, Sep. 11-15, 2023.
+and a contributed talk on [*"Time-switched metasurfaces as frequency multipliers for radiated modes"*](/publication/stefanini-metamaterials-2023/) at the *17th International Congress on Engineered Material Platforms for Novel Wave Phenomena* ([Metamaterials]), Crete, Greece, Sep. 11-14, 2023.
 
 [Metamaterials]: https://congress2023.metamorphose-vi.org
