@@ -1,13 +1,13 @@
 ---
 url_pdf: ""
-title: SEIRA
-summary: metaSurface-Enhanced InfraRed Absorption spectroscopy
+title: REMINDS
+summary: multi-REsonant Metasurfaces for enhanced INfra-reD Spectroscopy
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
 show_date: false
 url_slides: ""
-subtitle: metaSurface-Enhanced InfraRed Absorption spectroscopy
+subtitle: multi-REsonant Metasurfaces for enhanced INfra-reD Spectroscopy
 weight: 60
 tags:
   - Sensing
