@@ -31,8 +31,8 @@ categories = []
 +++
 We have presented a talk on
 ["Time-switched metasurfaces: Conversion from guided to radiated modes"](/publication/stefanini-iceaa-2023/)
-at the *24th International Conference on Electromagnetics in Advanced Applications (ICEAA)*([ICEAA2023]),
+at the *24th International Conference on Electromagnetics in Advanced Applications* ([ICEAA]),
 Venice, Italy, Oct. 9-13, 2023.
 
 
-[ICEAA2023]: https://www.iceaa.net/j3/
+[ICEAA]: https://www.iceaa.net/j3/
