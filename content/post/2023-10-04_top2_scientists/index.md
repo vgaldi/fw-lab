@@ -1,5 +1,5 @@
 +++
-title = "Profs. Castaldi and Galdi in the list of world's top 2\% scientists"
+title = "Profs. Castaldi and Galdi in the list of world's top 2% scientists"
 date = 2023-10-04
 draft = false
 
@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi) and [Vincenzo Galdi](/author/vincenzo-galdi) have been included in the list of world’s top 2\% scientists compiled by Stanford University, based on citation metrics for the year 2022.
+Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi) and [Vincenzo Galdi](/author/vincenzo-galdi) have been included in the list of world’s top 2% scientists compiled by Stanford University, based on citation metrics for the year 2022.
 
 The entire ranking can be found [here](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw).
 
