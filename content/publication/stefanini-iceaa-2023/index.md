@@ -6,4 +6,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*24th International Conference on Electromagnetics in Advanced Applications (ICEAA)*"
+doi: "10.1109/ICEAA57318.2023.10297939"
 ---
