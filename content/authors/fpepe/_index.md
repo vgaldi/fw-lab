@@ -65,6 +65,6 @@ user_groups:
   - Current Members
 ---
 
-**Filippo Pepe** is a Ph.D. Student in Information Technologies for Engineering at the University of Sannio, under the joint supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi) and Dr. [Ivan Iudice](https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it) ([Italian Aerospace Research Centre](Italian Aerospace Research Centre)).
+**Filippo Pepe** is a Ph.D. Student in Information Technologies for Engineering at the University of Sannio, under the joint supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi) and Dr. [Ivan Iudice](https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it) ([Italian Aerospace Research Centre](https://www.cira.it/en)).
 
 His research is focused on the development of reconfigurable metasurfaces for unmanned aerial vehicles in 6G wireless communication scenarios.
