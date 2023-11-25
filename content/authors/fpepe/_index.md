@@ -42,7 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:m.rossi8@studenti.unisannio.it'
+    link: 'mailto:f.pepe6@studenti.unisannio.it'
+  - icon: linkedin
+    icon_pack: fab
+    https://www.linkedin.com/in/filippo-pepe-045ba8264/?originalSubdomain=it
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
