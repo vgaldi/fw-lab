@@ -5,5 +5,5 @@ authors: ["F. Verde", "D. Darsena", "V. Galdi"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2023 IEEE International Conference on Communication, Networks, and Satellite (ComNetSat)*"
+publication: "*2023 IEEE International Conference on Communication, Networks, and Satellite (COMNETSAT)*"
 ---

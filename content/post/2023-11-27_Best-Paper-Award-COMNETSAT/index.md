@@ -1,6 +1,6 @@
 +++
-title = "Talk at COMNETSAT 2023"
-date = 2023-11-24
+title = "Best Paper Award at COMNETSAT 2023"
+date = 2023-11-27
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -29,9 +29,9 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-We have presented a talk on
-["Exploiting the temporal dimension of reconfigurable intelligent surfaces for multiuser downlink"](/publication/verde-comnetsat-2023/)
-at the *2023 IEEE International Conference on Communication, Networks, and Satellite* ([COMNETSAT]),
+Our paper entitled ["Exploiting the temporal dimension of reconfigurable intelligent surfaces for multiuser downlink"](/publication/verde-comnetsat-2023/)
+received the *Best Paper Award* (Track Communications) at the 
+*2023 IEEE International Conference on Communication, Networks, and Satellite* ([COMNETSAT]),
 Malang, Indonesia, Nov. 23--25, 2023.
 
 
