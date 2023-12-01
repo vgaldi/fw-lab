@@ -31,7 +31,7 @@ categories = []
 +++
 We have presented a talk on
 ["Exploiting the temporal dimension of reconfigurable intelligent surfaces for multiuser downlink"](/publication/verde-comnetsat-2023/)
-at the *2023 IEEE International Conference on Communication, Networks, and Satellite* ([COMNETSAT]),
+at the *2023 IEEE International Conference on Communications, Networks, and Satellite* ([COMNETSAT]),
 Malang, Indonesia, Nov. 23--25, 2023.
 
 

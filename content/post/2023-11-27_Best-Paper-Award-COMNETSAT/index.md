@@ -31,7 +31,7 @@ categories = []
 +++
 Our paper entitled ["Exploiting the temporal dimension of reconfigurable intelligent surfaces for multiuser downlink"](/publication/verde-comnetsat-2023/)
 received the *Best Paper Award* (Track Communications) at the 
-*2023 IEEE International Conference on Communication, Networks, and Satellite* ([COMNETSAT]),
+*2023 IEEE International Conference on Communications, Networks, and Satellite* ([COMNETSAT]),
 Malang, Indonesia, Nov. 23--25, 2023.
 
 
