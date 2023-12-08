@@ -16,7 +16,7 @@ Position details:
 - Requirement: Ph.D. degree in electrical engineering or applied physics.
 - Expected starting time: early 2024.
 - Link to call: https://www.unisannio.it/it/amministrazione/avviso/20230419
-- Code: 03
-- Project: REMINDS - Multi-REsonant Metasurfaces for enhanced INfra-reD Spectroscopy
-- Deadline for application: **December 21, 2023**
+- Code: 03.
+- Project: REMINDS - Multi-REsonant Metasurfaces for enhanced INfra-reD Spectroscopy.
+- Deadline for application: **December 21, 2023**.
 
