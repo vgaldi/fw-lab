@@ -1,5 +1,5 @@
 +++
-title = "Thee talks at IEEE-APS/URSI 2023"
+title = "Three talks at IEEE-APS/URSI 2023"
 date = 2023-07-25
 draft = false
 
