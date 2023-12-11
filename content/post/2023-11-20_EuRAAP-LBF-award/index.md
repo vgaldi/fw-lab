@@ -16,7 +16,7 @@ The main purpose of the Award is to keep alive Prof. Felsen’s memory and scien
 as well as to foster academic excellence in the electromagnetics community, 
 by giving recognition to outstanding fundamental contributions from early stage researchers in electrodynamics.
 
-The Award, by nomination only, will be presented annually, as a career award, to an early-stage researcher. Eligible nominees should be under 40 years of age at the submission deadline; this age limit can be extended for documented career breaks (e.g., sick leaves, parental leaves). Previous awardees (also from the former Sannio and Siena editions) are not eligible.
+The Award, by nomination only, is presented annually, as a career award, to an early-stage researcher. Eligible nominees should be under 40 years of age at the submission deadline; this age limit can be extended for documented career breaks (e.g., sick leaves, parental leaves). Previous awardees (also from the former Sannio and Siena editions) are not eligible.
 
 The Award consists of a prize of 5,000 US$, which will be funded by the Felsen Family through a donation, 
 and will be officially presented at the banquet of the upcoming 
