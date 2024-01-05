@@ -32,4 +32,5 @@ categories = []
 
 The "Roadmap on electromagnetic metamaterials and metasurfaces"
 has been accepted for publication in the [*Journal of Physics: Photonics*](https://iopscience.iop.org/journal/2515-7647).
+
 Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has contributed to two sections on "Space-time-coding digital metasurfaces" and "Programmable nonreciprocity via space-time metasurfaces".
