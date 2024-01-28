@@ -26,5 +26,8 @@ Within the overarching framework of
 
 ## Collaborations
 - Prof. [Tie Jun Cui], Southeast University, China
+- Profs. [Francesco Verde] and [Donatella Darsena], University of Naples "Federico II"
 
+[Francesco Verde]: https://www.docenti.unina.it/#!/professor/4652414e434553434f5645524445565244464e4337344831324932333441/riferimenti
+[Donatella Darsena]: https://www.docenti.unina.it/#!/professor/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/curriculum
 [Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en
