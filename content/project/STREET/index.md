@@ -30,7 +30,7 @@ In an ongoing collaborative effort aimed at fully investigating and capitalizing
 - Prof. [Gabriele Gradoni], University of Surrey, UK
 - Prof. [Tie Jun Cui], Southeast University, China
 - Prof. [Lianlin Li], Peking University, China
-- Profs. [Francesco Verde] and [Donatella Darsena], University of Naples "Federico II"
+- Profs. [Francesco Verde] and [Donatella Darsena], University of Naples "Federico II", Italy
 
 
 [Francesco Verde]: https://www.docenti.unina.it/#!/professor/4652414e434553434f5645524445565244464e4337344831324932333441/riferimenti
