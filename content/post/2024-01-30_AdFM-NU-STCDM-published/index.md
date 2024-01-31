@@ -32,7 +32,7 @@ categories = []
 
 Our paper on ["Co-prime modulation for space-time-coding digital metasurfaces with ultralow-scattering characteristics,"](/publication/ij-174-AFM-2024)
 in collaboration with [Tie Jun Cui]'s Group (Southeast University),
-has been published for publication in *Advanced Functional Materials*. 
+has been published in *Advanced Functional Materials*. 
 
 
 [Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en
