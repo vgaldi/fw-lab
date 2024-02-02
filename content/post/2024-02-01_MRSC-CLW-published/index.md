@@ -30,6 +30,6 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["Coupled line waves in parallel-plate metasurface waveguides"] (/publication/ij-173-MRSC-2024)
+Our paper on ["Coupled line waves in parallel-plate metasurface waveguides"](/publication/ij-173-MRSC-2024)
 has been published in *MRS Communications*.
 
