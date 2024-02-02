@@ -31,5 +31,5 @@ categories = []
 +++
 
 Our paper on ["Coupled line waves in parallel-plate metasurface waveguides"](/publication/ij-173-MRSC-2024)
-has been published in *MRS Communications*.
+has been published in *MRS Communications* (special issue on *Multifunctional Nanoscale Optics and Metamaterials*).
 
