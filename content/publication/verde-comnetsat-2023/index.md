@@ -6,4 +6,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2023 IEEE International Conference on Communication, Networks, and Satellite (COMNETSAT)*"
+doi: "10.1109/COMNETSAT59769.2023.10420581"
 ---
