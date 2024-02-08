@@ -17,6 +17,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
+
 Magnetic Resonance Imaging (MRI) is a valuable non-invasive clinical imaging technique widely used for diagnostics and therapeutic monitoring. It is also prevalent in preclinical biomedical studies, like drug discovery and neuroscience. However, current MRI scanners have limitations in sensitivity, scan times, and safety.
 
 We are currently exploring an innovative solution using a new class of magnetic metamaterials to enhance MRI's diagnostic power.
@@ -33,3 +34,6 @@ Furthermore, the long-term impact of our project extends beyond MRI, potentially
 ## Collaborations
 
 * Prof. [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/), University of L'Aquila, Italy
+
+Credits: Image taken from Schmidt et al., Sci Rep 7, 1678 (2017) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
