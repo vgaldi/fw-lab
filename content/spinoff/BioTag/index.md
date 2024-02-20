@@ -26,7 +26,7 @@ url_video: ''
 #slides: example
 ---
 
-BioTag srl is an innovative startup company founded in 2022 as a partnership between [MANTID](/startup/mantid) srl and [IT Health Fusion](https://www.ithealthfusion.com) srl (Naples, Italy).
+[BioTag](https://biotag.it) srl is an innovative startup company founded in 2022 as a partnership between [MANTID](/startup/mantid) srl and [IT Health Fusion](https://www.ithealthfusion.com) srl (Naples, Italy).
 
 Its key mission is the design and development of innovative solutions for identifying, localizing and storing biological tissue samples in anatomical pathology laboratories. Typical marketed solutions, relying on optical scanners that read two-dimensional barcodes printed on hystological cassettes, are limited in terms of reliability and reading times.
 
