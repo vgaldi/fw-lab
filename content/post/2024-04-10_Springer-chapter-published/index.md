@@ -31,5 +31,5 @@ categories = []
 +++
 
 Our chapter on ["Wave propagation and field manipulation in non-Hermitian metastructures"](/publication/moccia-2024-nh-springer)
-has been published in the book [*The Advancing World of Applied Electromagnetics: In Honor and Appreciation of Magdy Fahmy Iskander*](https://link.springer.com/book/10.1007/978-3-031-39824-7) (Springer; editors: A. Lakhtakia, C. M. Furse, T. G. Mackay).
+has been published in the book entitled [*The Advancing World of Applied Electromagnetics: In Honor and Appreciation of Magdy Fahmy Iskander*](https://link.springer.com/book/10.1007/978-3-031-39824-7) (Springer; editors: A. Lakhtakia, C. M. Furse, T. G. Mackay).
 
