@@ -1,7 +1,7 @@
 +++
 title = "Wave propagation and field manipulation in non-Hermitian metastructures"
 date = 2024-04-10
-authors = ["M- Moccia", "M. Coppolaro", "S. Savoia", "G. Castaldi", "V. Galdi"]
+authors = ["M. Moccia", "M. Coppolaro", "S. Savoia", "G. Castaldi", "V. Galdi"]
 publication_types = ["6"]
 abstract = ""
 selected = false
