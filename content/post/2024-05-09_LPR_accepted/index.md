@@ -1,7 +1,7 @@
 +++
 title = "Our paper on perovskite hyperbolic metamaterials accepted in LPR"
 date = 2024-05-09
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
