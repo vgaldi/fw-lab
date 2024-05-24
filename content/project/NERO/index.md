@@ -39,9 +39,11 @@ These results pave the way toward intriguing developments in applications rangin
 - Prof. [Nader Engheta], University of Pennsylvania, USA
 - Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
 - Prof. [Francesco Monticone], Cornell University, USA
+- Prof. [Antonio De Luca], University of Calabria, Italy
 
 
 
 [Andrea Alù]:http://www.alulab.org
 [Francesco Monticone]:https://www.ece.cornell.edu/faculty-directory/francesco-monticone
 [Nader Engheta]:https://www.seas.upenn.edu/~engheta/index.htm
+[Antonio De Luca]: https://www.unical.it/storage/teachers/gAAAAABlNU7N9k5ZqF0mf_tZd7lmgHWTtPsZSEqAQotK4wclzqiRxfwxf-n7urYtZP3mW4NDTRdgpT3Vetw2JAxt1vY_OayDAA==/?lang=en
