@@ -30,7 +30,6 @@ categories = []
   focal_point = "Center"
 +++
 
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a talk on
-* ["Some perspectives in line-wave electromagnetics"](/publication/galdi-WEMTS-2024/)
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a talk on ["Some perspectives in line-wave electromagnetics"](/publication/galdi-WEMTS-2024/)
 at the [*2nd Weiglhofer Symposium on Electromagnetic Theory*](https://weiglhofer.unisa.it),
 Cetara (SA), Italy, May 27-28, 2024.
