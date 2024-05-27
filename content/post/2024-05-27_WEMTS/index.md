@@ -1,6 +1,6 @@
 +++
 title = "Talk at 2nd Weiglhofer Symposium on Electromagnetic Theory"
-date = 2023-03-30
+date = 2024-05-27
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
