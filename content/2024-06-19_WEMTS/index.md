@@ -30,4 +30,4 @@ categories = []
   focal_point = "Center"
 +++
 
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a seminar on "*Some Perspectives on Metastructures for Advanced Non-local Field Manipulations*" at the Huawei Milan research Center.
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a seminar on "*Some Perspectives on Metastructures for Advanced Non-local Field Manipulations*" at the Huawei Milan Research Center.
