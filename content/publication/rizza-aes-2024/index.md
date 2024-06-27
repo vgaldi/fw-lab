@@ -5,5 +5,5 @@ authors: ["C. Rizza", "M. A. Vincenti", "A. Contestabile", "G. Castaldi", "V. Ga
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*International Conference on Antennas and Electromagnetic Systems*"
+publication: "*10th International Conference on Antennas and Electromagnetic Systems (AES)*"
 ---
