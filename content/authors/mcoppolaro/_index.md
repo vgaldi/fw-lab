@@ -69,9 +69,6 @@ education:
     - course: M.E. in Telecommunication Engineering
       institution: University of Sannio, Italy
       year: 2011
-    - course: B.E. in Telecommunication Engineering
-      institution: University of Sannio, Italy
-      year: 2005
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
