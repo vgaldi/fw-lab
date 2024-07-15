@@ -10,6 +10,13 @@ weight: 40
 # Role/position
 role: Postdoctoral Researcher
 
+interests:
+  - Nonlocal and non-Hermitian effects
+  - Line-wave electromagnetics
+  - Temporal metamaterials
+  - Metamaterials for magnetic-resonance imaging
+
+
 # Organizations/Affiliations
 organizations:
   - name: University of Sannio
@@ -54,13 +61,28 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+education:
+  courses:
+    - course: Ph.D. in Information Technologies for Engineering     
+      institution: University of Sannio, Italy
+      year: 2023
+    - course: M.E. in Telecommunication Engineering
+      institution: University of Sannio, Italy
+      year: 2011
+    - course: B.E. in Telecommunication Engineering
+      institution: University of Sannio, Italy
+      year: 2005
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Members
+  
+  
 ---
 
-**Marino Coppolaro** was born in Benevento, Italy, on August 15, 1983. He received the M.E. degree (*summa cum laude*) in telecommunication engineering 
-and the Ph.D. degree in information technologies for engineering in 2011 and 2023, respectively, both from the University of Sannio.
-From June 2012 to October 2014, he worked as a telecommunication engineer with ART Srl, Benevento, Italy. Since October 2014, he has been working as a high-school teacher of computer science. His research interests include nonlocal and non-Hermitian effects in metamaterials, line-wave electromagnetics, and temporal metamaterials. 
+**Marino Coppolaro** is a Postdoctoral Researcher in the Department of Engineering at the University of Sannio, Benevento, Italy.
+
+From June 2012 to October 2014, he worked as a telecommunication engineer with ART Srl, Benevento, Italy. Since October 2014, he has been working as a high-school teacher of computer science.  
+
 Dr. Coppolaro was awarded a Best Poster Prize at the International Congress on Artificial Materials for Novel Wave Phenomena in 2019.
+
