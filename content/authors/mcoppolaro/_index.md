@@ -8,7 +8,7 @@ superuser: false
 weight: 40
 
 # Role/position
-role: Former Ph.D. student (now high-school teacher at I.I.S. A. Lombardi)
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -57,10 +57,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current Members
 ---
 
 **Marino Coppolaro** was born in Benevento, Italy, on August 15, 1983. He received the M.E. degree (*summa cum laude*) in telecommunication engineering 
 and the Ph.D. degree in information technologies for engineering in 2011 and 2023, respectively, both from the University of Sannio.
-From June 2012 to October 2014, he worked as a telecommunication engineer with ART Srl, Benevento, Italy. Since October 2014, he has been working as a high-school teacher of computer science. His Ph.D. research activity was focused on the study of nonlocal and non-Hermitian effects in metamaterials. 
+From June 2012 to October 2014, he worked as a telecommunication engineer with ART Srl, Benevento, Italy. Since October 2014, he has been working as a high-school teacher of computer science. His research interests include nonlocal and non-Hermitian effects in metamaterials, line-wave electromagnetics, and temporal metamaterials. 
 Dr. Coppolaro was awarded a Best Poster Prize at the International Congress on Artificial Materials for Novel Wave Phenomena in 2019.
