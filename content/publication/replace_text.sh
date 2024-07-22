@@ -4,6 +4,6 @@
 ROOT_DIR="/Users/vgaldi/Library/CloudStorage/OneDrive-UniversitàdegliStudidelSannio/work/research/website/fw-lab/content/publication"
 
 # Find all index.md files and replace the text
-find "$ROOT_DIR" -type f -name "index.md" -exec sed -i '' 's/publication_types = \["1"\]/publication_types = \['\''paper-conference'\''\]/g' {} +
+find "$ROOT_DIR" -type f -name "index.md" -exec sed -i '' 's/publication_types: \["1"\]/publication_types = \['\''paper-conference'\''\]/g' {} +
 
 echo "Replacement complete."
