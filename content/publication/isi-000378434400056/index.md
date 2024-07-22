@@ -2,7 +2,7 @@
 title = "High-sensitivity label-free optical fiber optrodes based on the excitation of Bloch surface waves"
 date = 2016-05-01
 authors = ["M. Scaravilli", "G. Castaldi", "A. Cusano", "V. Galdi"]
-publication_types = ["1"]
+publication_types = ['paper-conference']
 abstract = ""
 selected = false
 publication = "*Proceedings of SPIE*"

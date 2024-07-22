@@ -2,7 +2,7 @@
 title = "Compact overview of a scheme for sensing shallowly-buried objects beneath a moderately rough interface"
 date = 2004-01-01
 authors = ["V. Galdi", "L. B. Felsen"]
-publication_types = ["1"]
+publication_types = ['paper-conference']
 abstract = ""
 selected = false
 publication = "*Springer Proceedings in Physics*"

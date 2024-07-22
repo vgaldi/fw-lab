@@ -2,7 +2,7 @@
 title = "PEGASO for low-cost payload data transmission services"
 date = 2014-05-01
 authors = ["F. Antonacchio", "M. di Bisceglie", "C. Galdi", "V. Galdi", "F. Gerace", "A. Mennella"]
-publication_types = ["1"]
+publication_types = ['paper-conference']
 abstract = ""
 selected = false
 publication = "*Proc. IEEE International Workshop on Metrology for Aerospace (MetroAeroSpace)*"

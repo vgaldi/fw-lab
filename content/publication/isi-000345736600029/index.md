@@ -2,7 +2,7 @@
 title = "Metamaterial-based analog computing"
 date = 2014-05-01
 authors = ["A. Silva", "F. Monticone", "G. Castaldi", "V. Galdi", "A. Alù", "N. Engheta"]
-publication_types = ["1"]
+publication_types = ['paper-conference']
 abstract = ""
 selected = false
 publication = "*Proc. 3rd Mediterranean Photonics Conference*"

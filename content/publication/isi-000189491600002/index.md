@@ -2,7 +2,7 @@
 title = "Two-dimensional narrow-waisted Gaussian beam analysis of pulsed propagation from extended planar one-dimensional aperture field distributions through planar dielectric layers"
 date = 2003-01-01
 authors = ["V. Galdi", "L. B. Felsen"]
-publication_types = ["1"]
+publication_types = ['paper-conference']
 abstract = ""
 selected = false
 publication = "*Proc. 6th Conference on Ultra-Wideband, Short-Pulse Electromagnetics (UWBSP6)*"

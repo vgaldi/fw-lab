@@ -2,7 +2,7 @@
 title = "Some new perspectives in metamaterials"
 date = 2014-04-01
 authors = ["V. Galdi"]
-publication_types = ["1"]
+publication_types = ['paper-conference']
 abstract = ""
 selected = false
 publication = "*Proc. 8th the European Conference on Antennas and Propagation (EuCAP)*"
