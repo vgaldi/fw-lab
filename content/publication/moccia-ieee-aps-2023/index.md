@@ -2,7 +2,7 @@
 title: "Emerging interface effects in flat optics"
 date: 2023-07-25
 authors: ["M. Moccia", "G. Castaldi", "A. Alù", "V. Galdi"]
-publication_types = ['paper-conference']
+publication_types: ['paper-conference']
 abstract: ""
 featured: false
 publication: "*IEEE Antennas and Propagation Society International Symposium*"

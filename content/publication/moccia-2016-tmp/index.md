@@ -2,7 +2,7 @@
 title = "Transformation multiphysics"
 date = 2016-01-01
 authors = ["M. Moccia", "G. Castaldi", "S. Savo", "Y. Sato", "V. Galdi"]
-publication_types = ["6"]
+publication_types = ['chapter']
 abstract = ""
 selected = false
 publication = "*Transformation Wave Physics: Electromagnetics, Elastodynamics and Thermodynamics*"

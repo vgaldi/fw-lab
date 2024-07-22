@@ -2,7 +2,7 @@
 title: "Mannequin and clothes sanitation system"
 date: 2023-03-07
 authors: ["G. Castaldi", "A. Cusano", "V. Galdi", "P. Mattera", "F. P. Monaco", "R. Parente"]
-publication_types: ["8"]
+publication_types: ['patent']
 abstract: ""
 featured: false
 publication: "Patent IT202100023039A1"
