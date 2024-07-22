@@ -17,7 +17,7 @@ weight = 45
 
 ## Purpose
 This new website is intended to showcase the main research activities and results of our Lab.
-Concise summaries are provided to describe our main research topics in the [project pages](/portfolio), together with the relevant publications.
+Concise summaries are provided to describe our main research topics in the [project pages](/portfolio), together with relevant publications.
 
 ## Design and implementation
 The website is built with [Hugo](https://gohugo.io), by using the [Hugo Blox Research Group Template](https://hugoblox.com/templates/details/research-group/), and is deployed on [GitHub](https://github.com) via [Netlify](https://www.netlify.com).
