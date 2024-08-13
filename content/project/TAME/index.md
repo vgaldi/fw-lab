@@ -27,7 +27,7 @@ In a series of ongoing investigations, we have explored the potentials of space-
 Moreover, for periodic and impulsive temporal modulations, we have shown the emergence of nonlocal effects that can be harnessed so as to perform elementary [analog computing](/project/comet) on an impinging wavepacket.
 More recently, we have studied time‐varying metasurfaces for efficient surface‐wave coupling to radiation and frequency conversion.
 
-Overall, temporal metamstructures promise a great potential for efficient, tunable optical computing devices.
+Overall, temporal metastructures promise a great potential for efficient, tunable optical computing devices.
 
 ## Collaborations
 - Prof. [Nader Engheta], University of Pennsylvania, USA
