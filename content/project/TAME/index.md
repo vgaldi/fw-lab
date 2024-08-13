@@ -7,7 +7,7 @@ date: 2016-04-27T00:00:00Z
 external_link: ""
 show_date: false
 url_slides: ""
-subtitle: TemporAl MEtamaterials
+subtitle: TemporAl MEtastructures
 weight: 15
 tags:
   - Computing
