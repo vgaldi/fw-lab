@@ -1,7 +1,7 @@
 ---
 url_pdf: ""
 title: TAME
-summary: TemporAl MEtamaterials
+summary: TemporAl MEtastructures
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
@@ -25,13 +25,17 @@ In optics and photonics, by relying on the space-time duality, a variety of conc
 
 In a series of ongoing investigations, we have explored the potentials of space-time duality in designing filters and impedance transformers based on temporal multisteps.
 Moreover, for periodic and impulsive temporal modulations, we have shown the emergence of nonlocal effects that can be harnessed so as to perform elementary [analog computing](/project/comet) on an impinging wavepacket.
+More recently, we have studied time‐varying metasurfaces for efficient surface‐wave coupling to radiation and frequency conversion.
 
-Overall, temporal metamaterials promise a great potential for efficient, tunable optical computing devices.
+Overall, temporal metamstructures promise a great potential for efficient, tunable optical computing devices.
 
 ## Collaborations
 - Prof. [Nader Engheta], University of Pennsylvania, USA
 - Prof. [Carlo Rizza], University of L'Aquila, Italy
 - Prof. [Victor Pacheco-Peña], Newcastle University, UK
+- Profs. [Davide Ramaccia], [Alessio Monti], [Alessandro Toscano], [Filiberto Bilotti], RomaTre University, Italy 
+- Profs. [Mirko Barbuto], [Stefano Vellucci], Niccolò Cusano University, Italy
+- Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
 
 
 [Carlo Rizza]:https://sites.google.com/site/rizzacarlo81/
@@ -39,3 +43,19 @@ Overall, temporal metamaterials promise a great potential for efficient, tunable
 [Nader Engheta]:https://www.seas.upenn.edu/~engheta/index.htm
 
 [Victor Pacheco-Peña]: https://www.ncl.ac.uk/maths-physics/people/profile/victorpacheco-pena.html
+
+[Andrea Alù]:http://www.alulab.org
+
+[Davide Ramaccia]: https://www.uniroma3.it/persone/R0F2VktvSytKQ2dyT0huZ2tzZFowY29memZNSUpZTXBhSGViMmw5b2g4TT0=/
+
+[Alessio Monti]: https://www.uniroma3.it/en/persone/MlFPazYveDYvWjM1UW5vZVM1aXBhZGI5WGRpMEtUaXRQYm1LcUlzWFdJYz0=/
+
+[Alessandro Toscano]: https://www.uniroma3.it/persone/SGRCcE5idE5sNGRKdUhJRTdrbUJ5OE1jYXlkOXJlVzNuUlNlU1hkWXZqVT0=/
+
+[Filiberto Bilotti]: https://www.uniroma3.it/persone/U2JDaVBJVkxoTGpmVTh3NkYyTmZ0VkhVb05LeUMxTmN4SGxHWk5JNjkxST0=/
+
+[Mirko Barbuto]: https://ricerca.unicusano.it/author/mirko-barbuto/
+
+[Stefano Vellucci]: https://ricerca.unicusano.it/author/stefano-vellucci/
+
+
