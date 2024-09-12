@@ -1,7 +1,7 @@
 +++
 title = "Excitation of natural resonances in time-varying dispersive interfaces"
 date = 2024-09-12
-authors = ["C. Rizza", "M. A. Vincenti", "A. Contestabile", "G. Castaldi", "V. Galdi", "M. Scalora2]
+authors = ["C. Rizza", "M. A. Vincenti", "A. Contestabile", "G. Castaldi", "V. Galdi", "M. Scalora"]
 publication_types = ['paper-conference']
 abstract = ""
 selected = false
