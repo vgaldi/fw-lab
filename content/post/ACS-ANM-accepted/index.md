@@ -31,5 +31,5 @@ categories = []
 +++
 
 Our paper on "Extreme optical anisotropy in the type-II Dirac semimetal NiTe2 for applications to nanophotonics,"
-in collaboration with [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/) (University of l'Aquila),
+in collaboration with [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it) (University of l'Aquila),
 has been accepted for publication in [*ACS Applied Nano Materials*](https://pubs.acs.org/journal/aanmf6).

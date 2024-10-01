@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on "Multiple actions of time-resolved short-pulsed metamaterials," in collaboration with [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/) (University of l'Aquila) and [Nader Engheta](https://www.seas.upenn.edu/~engheta/index.htm) (University of Pennsylvania),
+Our paper on "Multiple actions of time-resolved short-pulsed metamaterials," in collaboration with [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it) (University of l'Aquila) and [Nader Engheta](https://www.seas.upenn.edu/~engheta/index.htm) (University of Pennsylvania),
 has been accepted for publication in [*Applied Physics Letters*](https://aip.scitation.org/journal/apl).
 
 An [arXiv preprint](http://arxiv.org/abs/2212.08336) is available.

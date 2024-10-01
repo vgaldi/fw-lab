@@ -38,7 +38,7 @@ Overall, temporal metastructures promise a great potential for efficient, tunabl
 - Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
 
 
-[Carlo Rizza]:https://sites.google.com/site/rizzacarlo81/
+[Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it
 
 [Nader Engheta]:https://www.seas.upenn.edu/~engheta/index.htm
 

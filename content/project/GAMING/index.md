@@ -33,7 +33,7 @@ Furthermore, the long-term impact of our project extends beyond MRI, potentially
 
 ## Collaborations
 
-* Prof. [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/), University of L'Aquila, Italy
+* Prof. [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it), University of L'Aquila, Italy
 
 Credits: Image taken from Schmidt et al., *Sci. Rep.* **7**, 1678 (2017) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 

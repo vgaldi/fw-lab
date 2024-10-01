@@ -36,7 +36,7 @@ has been accepted for publication in [*Physical Review Letters*](https://journal
 
 An [arXiv preprint](https://arxiv.org/abs/2409.01831) is available.
 
-[Carlo Rizza]: (https://sites.google.com/site/rizzacarlo81/)
+[Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it
 [Maria Antonietta Vincenti]: https://maria-antonietta-vincenti.unibs.it
 [Michael Scalora]: https://scholar.google.com/citations?user=3jGk_jQAAAAJ&hl=en
 

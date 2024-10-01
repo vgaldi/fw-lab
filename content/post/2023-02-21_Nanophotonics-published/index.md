@@ -30,5 +30,5 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["Spin-controlled photonics via temporal anisotropy,"](/publication/ij-164-Nanophotonics-2023) in collaboration with [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/) (University of l'Aquila),
+Our paper on ["Spin-controlled photonics via temporal anisotropy,"](/publication/ij-164-Nanophotonics-2023) in collaboration with [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it) (University of l'Aquila),
 has been published in *Nanophotonics*.

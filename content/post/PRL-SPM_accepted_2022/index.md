@@ -31,7 +31,7 @@ categories = []
 +++
 
 Our paper on "Short-pulsed metamaterials,"
-in collaboration with [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/) (University of l'Aquila),
+in collaboration with [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it) (University of l'Aquila),
 has been accepted for publication in [*Physical Review Letters*](https://journals.aps.org/prl/).
 
 An [arXiv preprint](https://arxiv.org/abs/2205.07084) is available.

@@ -31,7 +31,7 @@ categories = []
 +++
 
 Our paper on "Nonlocal effects in temporal metamaterials,"
-in collaboration with [Carlo Rizza](https://sites.google.com/site/rizzacarlo81/) (University of l'Aquila),
+in collaboration with [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it) (University of l'Aquila),
 has been accepted for publication in [*Nanophotonics*](https://www.degruyter.com/view/journals/nanoph/nanoph-overview.xml).
 
 An [arXiv preprint](https://arxiv.org/abs/2202.04959) is available.

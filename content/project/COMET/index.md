@@ -30,5 +30,5 @@ We have shown, theoretically and numerically, that light-matter interaction can 
 
 [Andrea Alù]:http://www.alulab.org
 [Nader Engheta]:https://www.seas.upenn.edu/~engheta/index.htm
-[Carlo Rizza]:https://sites.google.com/site/rizzacarlo81/
+[Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it
 [Francesco Monticone]:https://www.ece.cornell.edu/faculty-directory/francesco-monticone
