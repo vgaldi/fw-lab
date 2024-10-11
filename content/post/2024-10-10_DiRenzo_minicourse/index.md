@@ -1,5 +1,5 @@
 ---
-title: "Prof. Di Renzo mini-course"
+title: "Prof. Di Renzo's mini-course"
 date: 2024-10-10
 draft: false
 featured: false
