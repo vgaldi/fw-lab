@@ -9,5 +9,5 @@ image:
   caption: ""
   focal_point: Center
 ---
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has delivered a lecture on *"Analog computing via short-pulsed metamaterials"* at the 2024 Simons Collaboration
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has delivered a lecture on *"Analog computing via short-pulsed metamaterials"* at the 2024 [Simons Collaboration](https://asrc.gc.cuny.edu/photonics/research/universal-symmetry-concepts/)
 Satellite Workshop on *Wave-Based Analog Computing*, New York, NW, Oct. 23, 2024.
