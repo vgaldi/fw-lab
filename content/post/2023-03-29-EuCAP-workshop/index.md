@@ -9,7 +9,7 @@ image:
   caption: ""
   focal_point: Center
 ---
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a lecture on *"Recent advances in space-time coding metasurfaces"* at the Workshop on *The Evolution of Smart Wireless Environments: Research and Industrial Perspectives*, held
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has delivered a lecture on *"Recent advances in space-time coding metasurfaces"* at the Workshop on *The Evolution of Smart Wireless Environments: Research and Industrial Perspectives*, held
 at the *17th European Conference on Antennas and Propagation* ([EuCAP]),
 Florence, Italy, Mar. 26-31, 2023.
 

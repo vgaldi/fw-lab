@@ -9,5 +9,5 @@ image:
   caption: ""
   focal_point: Center
 ---
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has presented a lecture on *"Analytical and machine-learning-based design of space-time coding digital metasurfaces"* at the 2024 Huawei
-Antenna Technology Workshop 2024 -- Automated and Human Intelligent Design for Antennas and Wireless Communications, Siena, Italy, Sep. 20, 2024.
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has delivered a lecture on *"Analytical and machine-learning-based design of space-time coding digital metasurfaces"* at the 2024 Huawei
+Antenna Technology Workshop  -- Automated and Human Intelligent Design for Antennas and Wireless Communications, Siena, Italy, Sep. 20, 2024.
