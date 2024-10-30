@@ -31,11 +31,13 @@ Overall, temporal metastructures promise a great potential for efficient, tunabl
 
 ## Collaborations
 - Prof. [Nader Engheta], University of Pennsylvania, USA
+- Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
 - Prof. [Carlo Rizza], University of L'Aquila, Italy
 - Prof. [Victor Pacheco-Peña], Newcastle University, UK
 - Profs. [Davide Ramaccia], [Alessio Monti], [Alessandro Toscano], [Filiberto Bilotti], RomaTre University, Italy 
 - Profs. [Mirko Barbuto], [Stefano Vellucci], Niccolò Cusano University, Italy
-- Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
+- Prof. [Maria Antonietta Vincenti], University of Brescia, Italy
+- Dr. [Michael Scalora], U.S. Army CCDC, USA
 
 
 [Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it
@@ -58,4 +60,7 @@ Overall, temporal metastructures promise a great potential for efficient, tunabl
 
 [Stefano Vellucci]: https://ricerca.unicusano.it/author/stefano-vellucci/
 
+[Maria Antonietta Vincenti]: https://maria-antonietta-vincenti.unibs.it
+
+[Michael Scalora]: https://scholar.google.com/citations?user=3jGk_jQAAAAJ&hl=en
 
