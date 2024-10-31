@@ -23,7 +23,7 @@ bio:
 
 interests:
   - Antennas and Propagation
-  - Radio Communication
+  - Metamaterials
 
 
 education:
