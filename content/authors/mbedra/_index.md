@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Akram Bediaf
+title: Mohamed Bedra
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,10 +30,10 @@ education:
   courses:
   - course: M.E. in Telecommunications Systems 
     institution: University of Batna 2, Algeria
-    year: 2020
+    year: 2019
   - course: B.E. in Telecommunications Systems 
     institution: University of Batna 2, Algeria
-    year: 2018
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,13 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:akram.bediaf@univ-batna2.dz'
+    link: 'mailto:mohamed.bedra@univ-batna2.dz  '
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=4Cxu2c8AAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=O-0RjqYAAAAJ&hl=fr
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Bediaf-Akram
+    link: https://www.researchgate.net/profile/Mohamed-Bedra
   
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,6 +68,6 @@ highlight_name: false
 user_groups:
   - Current Members
 ---
-**Akram Bediaf** is a PhD student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. His research focuses on microstrip antennas and their applications, particularly integrating deep learning techniques into their modeling. He co-authored three international publications in 2024.
+**Mohamed Bedra** is a PhD student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. His research focuses on microstrip antennas and their applications, particularly metamaterials effect and complex-structure resonances. He co-authored three international publications in 2024.
 
 He is currently visiting the Fields \& Waves Lab for a research internship.
