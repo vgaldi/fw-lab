@@ -68,6 +68,6 @@ highlight_name: false
 user_groups:
   - Current Members
 ---
-**Mohamed Bedra** is a PhD student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. His research focuses on microstrip antennas and their applications, particularly metamaterials effect and complex-structure resonances. He co-authored three international publications in 2024.
+**Mohamed Bedra** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. His research focuses on microstrip antennas and their applications, particularly metamaterials effect and complex-structure resonances. He co-authored three international publications in 2024.
 
-He is currently visiting the Fields \& Waves Lab for a research internship.
+He is currently visiting the Fields & Waves Lab for a research internship.
