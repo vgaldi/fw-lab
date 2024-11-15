@@ -16,7 +16,7 @@ weight = 45
 +++
 
 * [“Progettata una superficie che interagisce con la luce”](https://www.ansa.it/canale_scienza/notizie/fisica_matematica/2024/11/15/progettata-una-superficie-che-interagisce-con-la-luce-_25cf4760-e332-4242-b66c-20015ac1bfdb.html)
-*ANSA*, Nov. 15, 2014. :it:
+*ANSA*, Nov. 15, 2024. :it:
 
 * K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *Ghacks*, August 30, 2023.
 
