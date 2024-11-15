@@ -9,7 +9,7 @@ weight: 80
 
 
 # Role/position
-role: Visiting Ph.D. Student
+role: Former visiting Ph.D. Student (now Ph.D. Candidate at University of Batna 2, Algeria)
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Members
+  - Alumni
 ---
 **Akram Bediaf** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. His research focuses on microstrip antennas and their applications, particularly integrating deep learning techniques into their modeling. He co-authored three international publications in 2024.
 
