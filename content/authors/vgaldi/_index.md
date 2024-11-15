@@ -11,7 +11,7 @@ social:
     icon_pack: fas
     link: mailto:vgaldi@unisannio.it
   - icon: bluesky
-    icon_pack: fab
+    icon_pack: fas
     link: https://bsky.app/profile/vgaldi.bsky.social
   - icon: orcid
     icon_pack: ai
