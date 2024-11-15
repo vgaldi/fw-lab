@@ -11,29 +11,7 @@ weight: 80
 # Role/position
 role: Former visiting Ph.D. Student (now Ph.D. Candidate at University of Batna 2, Algeria)
 
-# Organizations/Affiliations
-organizations:
-  - name: University of Batna 2
-    url: 'https://univ-batna2.dz/language/en/home-rtl-english/'
-  - name: Advanced Electronics Laboratory (L.E.A)
-    url: 'https://labos.univ-batna2.dz/lea'
 
-# Short bio (displayed in user profile at end of posts)
-bio:
-
-interests:
-  - Antennas and Propagation
-  - Radio Communication
-
-
-education:
-  courses:
-  - course: M.E. in Telecommunications Systems 
-    institution: University of Batna 2, Algeria
-    year: 2020
-  - course: B.E. in Telecommunications Systems 
-    institution: University of Batna 2, Algeria
-    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +46,9 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-**Akram Bediaf** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. His research focuses on microstrip antennas and their applications, particularly integrating deep learning techniques into their modeling. He co-authored three international publications in 2024.
 
-He is currently visiting the Fields & Waves Lab for a research internship.
+**Akram Bediaf** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. 
+He received his B.E. and  M.E. degrees in Telecommunications Systems from the University of Batna 2, Algeria, in 2018 and 2020, respectively.
+His research focuses on microstrip antennas and their applications, particularly integrating deep learning techniques into their modeling. He co-authored three international publications in 2024.
+
+In October and November 2024, he visited the Fields & Waves Lab for a research internship.
