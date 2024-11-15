@@ -43,8 +43,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Members
+  - Alumni
 ---
+
 **Mohamed Bedra** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. 
 
 He received his B.E. and  M.E. degrees in Telecommunications Systems from the University of Batna 2, Algeria, in 2019 and 2021, respectively.

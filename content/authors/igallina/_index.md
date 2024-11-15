@@ -8,7 +8,7 @@ superuser: false
 weight: 60
 
 # Role/position
-role: Former postdoctoral researcher and Ph.D. student (now technical officer at AGCOM)
+role: Former Postdoctoral Researcher and Ph.D. Student (now Technical Officer at AGCOM)
 
 # Short bio (displayed in user profile at end of posts)
 bio:
