@@ -12,7 +12,6 @@ weight: 80
 role: Former visiting Ph.D. Student (now Ph.D. Candidate at University of Batna 2, Algeria)
 
 
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -29,13 +28,7 @@ social:
     link: https://www.researchgate.net/profile/Bediaf-Akram
   
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+## Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
 # Highlight the author in author lists? (true/false)
@@ -46,6 +39,7 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
 
 **Akram Bediaf** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. 
 He received his B.E. and  M.E. degrees in Telecommunications Systems from the University of Batna 2, Algeria, in 2018 and 2020, respectively.
