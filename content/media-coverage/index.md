@@ -21,18 +21,18 @@ weight = 45
 * K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *Ghacks*, August 30, 2023.
 
 * H. Harrison, [“Danger for all mobiles: 6G is insecure,”](https://www.gearrice.com/update/danger-for-all-mobiles-6g-is-insecure/)
-*Gearrice*, August 28, 2023.
+*Gearrice*, Aug. 28, 2023.
 
 * A. Morgan, [“What are metasurfaces and why do they pose a huge security risk with the advent of 6G?,”](https://www.gearrice.com/update/what-are-metasurfaces-and-why-do-they-pose-a-huge-security-risk-with-the-advent-of-6g/)
-*Gearrice*, August 28, 2023.
+*Gearrice*, Aug. 28, 2023.
 
 * ["Critical Vulnerabilities uncovered in vital 6G technology: What you need to know"](https://techplugged.com/critical-vulnerabilities-uncovered-in-vital-6g-technology-what-you-need-to-know/), *TechPlugged*, August 28, 2023.
 
 * K. Afifi-Sabet, [“Researchers find worrying vulnerabilities in key 6G technology,”](https://www.techradar.com/pro/researchers-find-worrying-vulnerabilities-in-key-6g-technology)
-*TechRadar*, August 28, 2023.
+*TechRadar*, Aug. 28, 2023.
 
 * I. Fadelli, [“Study highlights the vulnerabilities of metasurface-based wireless communication systems,”](https://techxplore.com/news/2023-08-highlights-vulnerabilities-metasurface-based-wireless-communication.html)
-*Tech Xplore*, August 25, 2023.
+*Tech Xplore*, Aug. 25, 2023.
 
 * ["Rischi sicurezza 6G: studio Unisannio pubblicato su Nature Electronics,"](https://www.ilmattino.it/benevento/rischi_sicurezza_6g_studio_unisannio_pubblicato_su_nature_electronics-7564183.html)
 *Il Mattino*, Aug. 7, 2023. :it:
