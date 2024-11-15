@@ -15,6 +15,8 @@ weight = 45
 
 +++
 
+* [“Progettata una superficie che interagisce con la luce”](https://www.ansa.it/canale_scienza/notizie/fisica_matematica/2024/11/15/progettata-una-superficie-che-interagisce-con-la-luce-_25cf4760-e332-4242-b66c-20015ac1bfdb.html)
+*ANSA*, Nov. 15, 2014. :it:
 
 * K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *Ghacks*, August 30, 2023.
 
@@ -54,7 +56,7 @@ weight = 45
 *Automazione Integrata*, Mar. 13, 2014. :it:
 
 * D. Gevaux, [“A mathematical metamaterial,”](http://www.nature.com/nphys/journal/v10/n2/full/nphys2893.html)
-*Nature Physics* *10*(2), 86, Jan. 31, 2014.
+*Nature Physics* **10**(2), 86, Jan. 31, 2014.
 
 * R. Suba, [“Harry Potter’s invisibility cloak can do analog computing, claim researchers,”](http://www.techtimes.com/articles/2632/20140118/harry-potter-invisibility-cloak-can-do-analog-computing-claim-researchers.htm)
 *Tech Times*, Jan. 18, 2014.
@@ -81,7 +83,7 @@ weight = 45
 *Gizmodo*, Jan. 12, 2014.
 
 * A. Sihvola, [“Enabling optical analog computing with metamaterials,”](http://science.sciencemag.org/content/343/6167/144)
-*Science* *343*(6167), 144--145, Jan. 10, 2014.
+*Science* **343**(6167), 144--145, Jan. 10, 2014.
 
 * J. Aron, [“First light-bending calculator designed with metamaterials,”](https://www.newscientist.com/article/dn24849-first-light-bending-calculator-designed-with-metamaterials/)
 *New Scientist*, Jan. 10, 2014.
