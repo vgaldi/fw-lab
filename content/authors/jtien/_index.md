@@ -8,7 +8,7 @@ superuser: false
 weight: 45
 
 # Role/position
-role: Former Ph.D. student (now research engineer at SigmaDesign)
+role: Former Ph.D. Student (now Research Engineer at SigmaDesign)
 
 # Short bio (displayed in user profile at end of posts)
 bio:

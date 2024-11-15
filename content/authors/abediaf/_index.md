@@ -42,7 +42,9 @@ user_groups:
 
 
 **Akram Bediaf** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. 
+
 He received his B.E. and  M.E. degrees in Telecommunications Systems from the University of Batna 2, Algeria, in 2018 and 2020, respectively.
+
 His research focuses on microstrip antennas and their applications, particularly integrating deep learning techniques into their modeling. He co-authored three international publications in 2024.
 
-In October and November 2024, he visited the Fields & Waves Lab for a research internship.
+During October-November 2024, he visited the Fields & Waves Lab for a research internship.

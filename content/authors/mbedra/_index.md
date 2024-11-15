@@ -9,31 +9,8 @@ weight: 80
 
 
 # Role/position
-role: Visiting Ph.D. Student
+role: Former visiting Ph.D. Student (now Ph.D. Candidate at University of Batna 2, Algeria)
 
-# Organizations/Affiliations
-organizations:
-  - name: University of Batna 2
-    url: 'https://univ-batna2.dz/language/en/home-rtl-english/'
-  - name: Advanced Electronics Laboratory (L.E.A)
-    url: 'https://labos.univ-batna2.dz/lea'
-
-# Short bio (displayed in user profile at end of posts)
-bio:
-
-interests:
-  - Antennas and Propagation
-  - Metamaterials
-
-
-education:
-  courses:
-  - course: M.E. in Telecommunications Systems 
-    institution: University of Batna 2, Algeria
-    year: 2019
-  - course: B.E. in Telecommunications Systems 
-    institution: University of Batna 2, Algeria
-    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +45,10 @@ highlight_name: false
 user_groups:
   - Current Members
 ---
-**Mohamed Bedra** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. His research focuses on microstrip antennas and their applications, particularly metamaterials effect and complex-structure resonances. He co-authored three international publications in 2024.
+**Mohamed Bedra** is a Ph.D. student in the Advanced Electronics Laboratory (L.E.A) at the University of Batna 2. 
 
-He is currently visiting the Fields & Waves Lab for a research internship.
+He received his B.E. and  M.E. degrees in Telecommunications Systems from the University of Batna 2, Algeria, in 2019 and 2021, respectively.
+
+His research focuses on microstrip antennas and their applications, particularly metamaterials effect and complex-structure resonances. He co-authored three international publications in 2024.
+
+During October-November 2024, he visited the Fields & Waves Lab for a research internship.

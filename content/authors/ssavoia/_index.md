@@ -8,7 +8,7 @@ superuser: false
 weight: 50
 
 # Role/position
-role: Former postdoctoral researcher and Ph.D. student (now RF engineer at MBDA Italia)
+role: Former Postdoctoral Researcher and Ph.D. Student (now RF Engineer at MBDA Italia)
 
 # Short bio (displayed in user profile at end of posts)
 bio:

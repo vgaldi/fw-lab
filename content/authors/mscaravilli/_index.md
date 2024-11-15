@@ -8,7 +8,7 @@ superuser: false
 weight: 50
 
 # Role/position
-role: Former postdoctoral researcher and Ph.D. student (now product engineer at Micron Technology)
+role: Former Postdoctoral Researcher and Ph.D. Student (now Product Engineer at Micron Technology)
 
 # Short bio (displayed in user profile at end of posts)
 bio:
