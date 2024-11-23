@@ -5,7 +5,7 @@ title: Zihao Dai
 # Is this the primary user of the site?
 superuser: false
 
-weight: 50
+weight: 90
 
 # Role/position
 role: Visiting Ph.D. Student
