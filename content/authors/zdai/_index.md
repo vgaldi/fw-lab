@@ -63,9 +63,9 @@ user_groups:
   - Current Members
 ---
 
-**Zihao Dai** is a Ph.D. Student in Electronic Science and Technology at University of Electronic Science and Technology of China.
+**Zihao Dai** is a Ph.D. Student in Electronic Science and Technology at the University of Electronic Science and Technology of China.
 
-His research focuses on slow-wave structures and high-power amplifiers. He is the co-author of four international publications, and the co-invertor of two patents.
+His research focuses on slow-wave structures and high-power amplifiers. He is the co-author of four international publications, and the co-inventor of two patents.
 
 In November 2024, he joined the Fields \& waves Lab as a visiting Ph.D. Student supported by the China Scholarship Council. His research will focus on applications of
 metasurfaces and metamaterials in ultra-wideband communication systems.
