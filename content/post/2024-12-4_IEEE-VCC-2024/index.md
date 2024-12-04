@@ -1,6 +1,6 @@
 +++
 title = "Talk at IEEE-VCC 2024"
-date = 2024-12-4
+date = 2024-12-04
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
