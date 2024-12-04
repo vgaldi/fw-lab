@@ -1,6 +1,6 @@
 ---
 title: "Downlink sum-rate maximization for joint active and passive stacked intelligent metasurfaces"
-date: 2024-12-4
+date: 2024-12-04
 authors: ["D. Darsena", "F. Verde", "I. Iudice", "V. Galdi"]
 publication_types: ['paper-conference']
 abstract: ""
