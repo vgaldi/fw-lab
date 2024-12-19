@@ -1,6 +1,6 @@
 +++
-title = "Our paper on SEIRA-based monitoring of protein A denaturation published in Biosensors"
-date = 2022-07-15
+title = "Our paper on SEIRA azide probes accepted in BaB"
+date = 2024-12-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -30,6 +30,9 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["Probing denaturation of protein A via surface-enhanced infrared absorption spectroscopy,"](/publication/ij-157-biosensors-2022/) in collaboration with [Emanuela Esposito]'s Group (National Research Council), has been published in *Biosensors*.
+Our paper on "Mid-infrared enhanced spectrochemical detection using azide vibrational probes,"
+in collaboration with [Emanuela Esposito]'s Group (National Research Council),
+has been accepted for publication in [*Biosensors and Bioelectronics*](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics).
 
-[Emanuela Esposito]:https://www.isasi.cnr.it/profile/emanuela.esposito/
+
+[Emanuela Esposito]: https://www.isasi.cnr.it/profile/emanuela.esposito/

@@ -35,4 +35,4 @@ in collaboration with [Emanuela Esposito]'s Group (National Research Council),
 has been accepted for publication in [*Nanophotonics*](https://www.degruyter.com/view/journals/nanoph/nanoph-overview.xml).
 
 
-[Emanuela Esposito]: https://www.urp.cnr.it/copertine/ente/ente_evidenza/gare_2021/ISASI_8695484C63_commissari.pdf
+[Emanuela Esposito]: https://www.isasi.cnr.it/profile/emanuela.esposito/

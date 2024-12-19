@@ -34,4 +34,4 @@ Our paper on ["Advanced DNA detection via multispectral plasmonic metasurfaces,"
 in collaboration with [Emanuela Esposito]'s Group (National Research Council),
 has been published in *Frontiers in Bioengineering and Biotechnology*.
 
-[Emanuela Esposito]: https://www.urp.cnr.it/copertine/ente/ente_evidenza/gare_2021/ISASI_8695484C63_commissari.pdf
+[Emanuela Esposito]: https://www.isasi.cnr.it/profile/emanuela.esposito/
