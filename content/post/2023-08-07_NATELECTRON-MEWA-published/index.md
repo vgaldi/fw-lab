@@ -10,6 +10,8 @@ image:
   focal_point: Center
 ---
 Our paper on ["Metasurface-enabled smart wireless attacks at the physical layer,"](/publication/ij-170-NATELECTRON-2023)
-in collaboration with [Lianlin Li ](https://www.researchgate.net/profile/Lianlin-Li)(Peking University) and
+in collaboration with [Lianlin Li]'s Group (Peking University) and
 [Tie Jun Cui ](https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en)(Southeast University),
 has been published in *Nature Electronics*.
+
+[Lianlin Li]: https://www.researchgate.net/profile/Lianlin-Li
