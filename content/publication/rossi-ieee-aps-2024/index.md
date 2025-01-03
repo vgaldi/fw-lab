@@ -6,4 +6,5 @@ publication_types: ['paper-conference']
 abstract: ""
 featured: false
 publication: "*IEEE Antennas and Propagation Society International Symposium*"
+doi: "10.1109/AP-S/INC-USNC-URSI52054.2024.10687026"
 ---
