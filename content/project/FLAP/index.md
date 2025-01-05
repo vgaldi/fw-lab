@@ -30,7 +30,11 @@ In a series of ongoing studies, we are exploring these concepts, also in conjunc
 ## Collaborations
 
 * Prof. [Andrea Alù](http://www.alulab.org), Advanced Science Research Center, City University of New York, USA
+* Profs. [Tie Jun Cui] and [Zhixia Xu], Southeast University, China
 * Prof. [Francesco Monticone](https://www.ece.cornell.edu/faculty-directory/francesco-monticone), Cornell University, USA
 * Prof. [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it), University of L'Aquila, Italy
 * Profs. [Giampiero Lovat](https://giampierolovat-eng.site.uniroma1.it) and [Paolo Burghignoli](https://paoloburghignoli.site.uniroma1.it), Sapienza University, Italy
 * Dr. [Walter Fuscaldo](https://www.imm.cnr.it/users/wfuscaldo), National Research Council, Italy
+
+[Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en
+[Zhixia Xu]: https://scholar.google.com/citations?user=1fz05KgAAAAJ&hl=en
