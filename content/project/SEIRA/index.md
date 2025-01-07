@@ -28,6 +28,7 @@ In a series of ongoing studies, we have focused on the optimized design and fabr
 - Detection of 5-hydroxyvitamin D (25(OH)D3—calcifediol);
 - Recognition of complementary deoxyribonucleic acid (DNA) fragments;
 - Probing the denaturation on protein A;
+- Enhanced spectrochemical detection using azide vibrational probes;
 
 at concentrations well below the value attained by standard methods, with additional advantages in terms of processing time.
 This technology holds great promise to outperform modern surface spectroscopic techniques, with ample room for improvement as an analytical tool for biological samples and processes.
@@ -35,6 +36,9 @@ This technology holds great promise to outperform modern surface spectroscopic t
 ## Collaborations
 - Dr. [Emanuela Esposito], National Research Council, Italy
 - Dr. [Menotti Ruvo], National Research Council, Italy
+- Dr. [Ivo Rendina], National Research Council, Italy
 
 [Emanuela Esposito]: https://www.urp.cnr.it/copertine/ente/ente_evidenza/gare_2021/ISASI_8695484C63_commissari.pdf
 [Menotti Ruvo]: http://www.ibb.cnr.it/?command=viewu&id=386
+[Ivo Rendina]: https://www.isasi.cnr.it/profile/ivo.rendina/
+
