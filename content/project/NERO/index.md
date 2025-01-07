@@ -39,7 +39,8 @@ These results pave the way toward intriguing developments in applications rangin
 - Prof. [Nader Engheta], University of Pennsylvania, USA
 - Prof. [Andrea Alù], Advanced Science Research Center, City University of New York, USA
 - Prof. [Francesco Monticone], Cornell University, USA
-- Prof. [Antonio De Luca], University of Calabria, Italy
+- Prof. [Filippo Capolino], University of California, Irvine, USA
+- Prof. [Antonio De Luca] and Dr. [Vincenzo Caligiuri], University of Calabria, Italy
 
 
 
@@ -47,3 +48,5 @@ These results pave the way toward intriguing developments in applications rangin
 [Francesco Monticone]:https://www.ece.cornell.edu/faculty-directory/francesco-monticone
 [Nader Engheta]:https://www.seas.upenn.edu/~engheta/index.htm
 [Antonio De Luca]: https://www.unical.it/storage/teachers/gAAAAABlNU7N9k5ZqF0mf_tZd7lmgHWTtPsZSEqAQotK4wclzqiRxfwxf-n7urYtZP3mW4NDTRdgpT3Vetw2JAxt1vY_OayDAA==/?lang=en
+[Filippo Capolino]: https://engineering.uci.edu/users/filippo-capolino
+[Vincenzo Caligiuri]: http://nanolase.fis.unical.it/index.php/component/sppagebuilder/18-caligiuri-biosketch
