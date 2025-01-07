@@ -7,5 +7,5 @@ abstract = "The steadily increasing demand for accurate analysis of vitamin D le
 selected = false
 publication = "*Nanophotonics* **9**(12), 3921"
 doi = "10.1515/nanoph-2020-0103"
-projects=['SEIRA']
+projects=['REMINDS']
 +++

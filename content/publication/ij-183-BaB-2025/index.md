@@ -9,5 +9,5 @@ featured = false
 focal_point = "Center"
 publication = "*Biosensors and Bioelectronics* **272**, 117083"
 doi = "10.1016/j.bios.2024.117083"
-projects =['SEIRA']
+projects =['REMINDS']
 +++

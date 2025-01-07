@@ -7,5 +7,5 @@ abstract = "We propose and demonstrate a sensing platform based on plasmonic met
 selected = false
 publication = "*Frontiers in Bioengineering and Biotechnology* **9**, 666121"
 doi = "10.3389/fbioe.2021.666121"
-projects=['SEIRA']
+projects=['REMINDS']
 +++
