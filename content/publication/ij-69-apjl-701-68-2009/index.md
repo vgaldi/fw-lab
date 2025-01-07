@@ -7,4 +7,5 @@ abstract = "We present the results of a LIGO search for short-duration gravitati
 selected = false
 publication = "*The Astrophysical Journal Letters* **701**(2), L68"
 doi = "10.1088/0004-637X/701/2/L68"
+projects =['GRAVITY']
 +++

@@ -7,4 +7,5 @@ abstract = "The Laser Interferometer Gravitational Wave Observatory (LIGO) consi
 selected = false
 publication = "*Physical Review D* **93**(11), 112004"
 doi = "10.1103/PhysRevD.93.112004"
+projects =['GRAVITY']
 +++

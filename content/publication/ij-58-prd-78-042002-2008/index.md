@@ -7,4 +7,5 @@ abstract = "We report on the methods and results of the first dedicated search f
 selected = false
 publication = "*Physical Review D* **78**(4), 042002"
 doi = "10.1103/PhysRevD.78.042002"
+projects =['GRAVITY']
 +++

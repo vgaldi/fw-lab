@@ -7,4 +7,5 @@ abstract = "We present an all-sky search for gravitational waves in the frequenc
 selected = false
 publication = "*Physical Review D* **80**(10), 102002"
 doi = "10.1103/PhysRevD.80.102002"
+projects =['GRAVITY']
 +++

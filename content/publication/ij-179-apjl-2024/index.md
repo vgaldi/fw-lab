@@ -7,4 +7,5 @@ abstract = "We report the observation of a coalescing compact binary with compon
 selected = false
 publication = "*The Astrophysical Journal Letters* **970**(2), L34"
 doi = "10.3847/2041-8213/ad5beb"
+projects =['GRAVITY']
 +++

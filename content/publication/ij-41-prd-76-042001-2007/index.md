@@ -7,4 +7,5 @@ abstract = "We present upper limits on the gravitational wave emission from 78 r
 selected = false
 publication = "*Physical Review D* **76**(4), 042001"
 doi = "10.1103/PhysRevD.76.042001"
+projects =['GRAVITY']
 +++

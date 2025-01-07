@@ -7,4 +7,5 @@ abstract = "We present a search for gravitational waves from 116 known milliseco
 selected = false
 publication = "*The Astrophysical Journal* **713**(1), 671"
 doi = "10.1088/0004-637X/713/1/671"
+projects =['GRAVITY']
 +++

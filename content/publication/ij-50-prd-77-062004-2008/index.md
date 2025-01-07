@@ -7,4 +7,5 @@ abstract = "We present the results of a search for short-duration gravitational-
 selected = false
 publication = "*Physical Review D* **77**(6), 062004"
 doi = "10.1103/PhysRevD.77.062004"
+projects =['GRAVITY']
 +++

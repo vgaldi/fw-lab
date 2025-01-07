@@ -7,4 +7,5 @@ abstract = "We report on a search for gravitational waves from the coalescence o
 selected = false
 publication = "*Physical Review D* **77**(6), 062002"
 doi = "10.1103/PhysRevD.77.062002"
+projects =['GRAVITY']
 +++

@@ -7,4 +7,5 @@ abstract = "This paper reports on an all-sky search for periodic gravitational w
 selected = false
 publication = "*Physical Review D* **80**(4), 042003"
 doi = "10.1103/PhysRevD.80.042003"
+projects =['GRAVITY']
 +++

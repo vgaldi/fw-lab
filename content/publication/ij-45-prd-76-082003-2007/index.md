@@ -7,4 +7,5 @@ abstract = "We searched for an anisotropic background of gravitational waves usi
 selected = false
 publication = "*Physical Review D* **76**(8), 082003"
 doi = "10.1103/PhysRevD.76.082003"
+projects =['GRAVITY']
 +++

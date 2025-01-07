@@ -7,4 +7,5 @@ abstract = "According to general relativity a perturbed black hole will settle t
 selected = false
 publication = "*Physical Review D* **80**(6), 062001"
 doi = "10.1103/PhysRevD.80.062001"
+projects =['GRAVITY']
 +++

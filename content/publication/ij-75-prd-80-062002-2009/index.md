@@ -7,4 +7,5 @@ abstract = "We report on a matched-filter search for gravitational wave bursts f
 selected = false
 publication = "*Physical Review D* **80**(6), 062002"
 doi = "10.1103/PhysRevD.80.062002"
+projects =['GRAVITY']
 +++

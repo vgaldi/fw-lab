@@ -7,4 +7,5 @@ abstract = "A stochastic background of gravitational waves is expected to arise 
 selected = false
 publication = "*Nature* **460**(7258), 990"
 doi = "10.1038/nature08278"
+projects =['GRAVITY']
 +++

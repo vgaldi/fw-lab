@@ -7,4 +7,5 @@ abstract = "Data from the LIGO Livingston interferometer and the ALLEGRO resonan
 selected = false
 publication = "*Physical Review D* **76**(2), 022001"
 doi = "10.1103/PhysRevD.76.022001"
+projects =['GRAVITY']
 +++

@@ -7,4 +7,5 @@ abstract = "The first simultaneous operation of the AURIGA detector(63) and the 
 selected = false
 publication = "*Classical and Quantum Gravity* **25**(9), 095004"
 doi = "10.1088/0264-9381/25/9/095004"
+projects =['GRAVITY']
 +++

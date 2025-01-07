@@ -7,4 +7,5 @@ abstract = "A standard quarter-wavelength multilayer optical coating will produc
 selected = false
 publication = "*Physical Review D* **81**(12), 122001"
 doi = "10.1103/PhysRevD.81.122001"
+projects =['GRAVITY']
 +++

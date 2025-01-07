@@ -7,4 +7,5 @@ abstract = "We carry out two searches for periodic gravitational waves using the
 selected = false
 publication = "*Physical Review D* **76**(8), 082001"
 doi = "10.1103/PhysRevD.76.082001"
+projects =['GRAVITY']
 +++

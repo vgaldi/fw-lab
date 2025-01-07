@@ -7,4 +7,5 @@ abstract = "This paper is concerned with a study of the analytic structure of a 
 selected = false
 publication = "*Physical Review D* **73**(12), 127101"
 doi = "10.1103/PhysRevD.73.127101"
+projects =['GRAVITY']
 +++

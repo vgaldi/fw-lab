@@ -7,4 +7,5 @@ abstract = "The fourth science run of the LIGO and GEO 600 gravitational-wave de
 selected = false
 publication = "*Classical and Quantum Gravity* **24**(22), 5343"
 doi = "10.1088/0264-9381/24/22/002"
+projects =['GRAVITY']
 +++

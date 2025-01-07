@@ -7,4 +7,5 @@ abstract = "Suitable shaping (in particular, flattening and broadening) of the l
 selected = false
 publication = "*Physical Review D* **76**(12), 122003"
 doi = "10.1103/PhysRevD.76.122003"
+projects =['GRAVITY']
 +++

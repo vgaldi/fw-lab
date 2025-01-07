@@ -7,4 +7,5 @@ abstract = "We present the results of a search for gravitational-wave bursts (GW
 selected = false
 publication = "*The Astrophysical Journal* **715**(2), 1438"
 doi = "10.1088/0004-637X/715/2/1438"
+projects =['GRAVITY']
 +++

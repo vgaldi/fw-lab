@@ -7,4 +7,5 @@ abstract = "We analyzed the available LIGO data coincident with GRB 070201, a sh
 selected = false
 publication = "*The Astrophysical Journal* **681**(2), 1419"
 doi = "10.1086/587954"
+projects =['GRAVITY']
 +++

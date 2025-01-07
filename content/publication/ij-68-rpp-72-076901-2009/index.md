@@ -7,4 +7,5 @@ abstract = "The goal of the Laser Interferometric Gravitational-Wave Observatory
 selected = false
 publication = "*Reports on Progress in Physics* **72**(7), 076901"
 doi = "10.1088/0034-4885/72/7/076901"
+projects =['GRAVITY']
 +++

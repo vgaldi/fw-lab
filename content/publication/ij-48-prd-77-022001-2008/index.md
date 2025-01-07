@@ -7,4 +7,5 @@ abstract = "We report on an all-sky search with the LIGO detectors for periodic 
 selected = false
 publication = "*Physical Review D* **77**(2), 022001"
 doi = "10.1103/PhysRevD.77.022001"
+projects =['GRAVITY']
 +++
