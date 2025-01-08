@@ -18,9 +18,6 @@ image:
 url_code: ""
 ---
 
-
-### Ray Chaos and Its Implications in Electromagnetic Wave Dynamics
-
 Ray chaos, characterized by the exponential sensitivity of ray trajectories to initial conditions, is typically associated with complex propagation environments like urban areas. However, it can also manifest in simpler structures, such as homogeneously filled "billiard-shaped" enclosures, which induce multiple reflections, focusing, and defocusing effects. 
 
 In collaboration with the late Prof. [Leopold B. Felsen] (Boston University), we explored the implications of internal ray chaos for high-frequency wave dynamics, drawing parallels with concepts from quantum physics (classical vs. quantum chaos). Our research highlighted the "ray-chaotic footprints" observable in such scenarios.

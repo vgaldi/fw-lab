@@ -7,4 +7,5 @@ abstract = "Ray chaos, manifested by the exponential divergence of trajectories 
 selected = false
 publication = "*IEEE Transactions on Antennas and Propagation* **53**(2), 753"
 doi = "10.1109/TAP.2004.841296"
+projects: ['RAISE']
 +++

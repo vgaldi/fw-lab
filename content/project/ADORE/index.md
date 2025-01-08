@@ -26,3 +26,20 @@ Our longstanding research activities in this field encompass the theoretical und
 - Bandgap and localization;
 - Guided resonances;
 - Enhanced nonlocal effects.
+
+## Collaborations
+- Prof. [Leopold B. Felsen], Boston University
+- Prof. [Filippo Capolino], University of California, Irvine, USA
+- Prof. [Stefan Enoch], Aix-Marseille Université and CNRS, France
+- Prof. [Andrea Cusano], University of Sannio, Italy
+- Dr. [Emanuela Esposito], National Research Council, Italy
+
+[Andrea Cusano]: https://www.unisannio.it/it/users/acusano
+
+[Emanuela Esposito]: https://www.urp.cnr.it/copertine/ente/ente_evidenza/gare_2021/ISASI_8695484C63_commissari.pdf
+
+[Leopold B. Felsen]: https://en.wikipedia.org/wiki/Leopold_B._Felsen
+
+[Filippo Capolino]: https://engineering.uci.edu/users/filippo-capolino
+
+[Stefan Enoch]: https://scholar.google.fr/citations?user=H4yQOoMAAAAJ&hl=en
