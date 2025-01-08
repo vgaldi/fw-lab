@@ -47,6 +47,14 @@ content:
         color: '#555'
         brightness: 0.5
         media: chaos.jpg
+    - title: '**Multiphysics scenarios**'
+      content: 'We study wave propagation in scenarios characterized by rich scattering, ray-chaotic, and non-stationary properties.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.5
+        media: multi.jpg
     - title: '**Basic and applied research**'
       content: 'Our research encompasses both fundamental aspects and cutting-edge applications, including wireless communications, optical computing, and bio-medicine.'
       align: left
