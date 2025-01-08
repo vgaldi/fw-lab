@@ -8,7 +8,7 @@ external_link: ""
 show_date: false
 url_slides: ""
 subtitle: Ray chAotIc ScEnarios
-weight: 85
+weight: 80
 tags:
   - Modeling
   - Phenomena
