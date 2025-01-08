@@ -8,4 +8,5 @@ selected = false
 featured = false
 publication = "*Physical Review X* **4**(2), 021025"
 doi = "10.1103/PhysRevX.4.021025"
+projects=['TROPHY']
 +++

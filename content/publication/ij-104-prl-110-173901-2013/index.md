@@ -7,5 +7,5 @@ abstract = "We extend the transformation-optics paradigm to a complex spatial co
 selected = false
 publication = "*Physical Review Letters* **110**(17), 173901"
 doi = "10.1103/PhysRevLett.110.173901"
-projects=['NERO']
+projects=['NERO','TROPHY']
 +++

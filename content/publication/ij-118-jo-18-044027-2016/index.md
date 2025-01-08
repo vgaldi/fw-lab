@@ -7,5 +7,5 @@ abstract = "Transformation optics (TO) is conventionally based on real-valued co
 selected = false
 publication = "*Journal of Optics* **18**(4), 044027"
 doi = "10.1088/2040-8978/18/4/044027"
-projects=['NERO']
+projects=['NERO','TROPHY']
 +++

@@ -7,4 +7,5 @@ abstract = "Coordinate-transformation cloaking is based on the design of a metam
 selected = false
 publication = "*Optics Express* **17**(5), 3101"
 doi = "10.1364/OE.17.003101"
+projects=['TROPHY']
 +++

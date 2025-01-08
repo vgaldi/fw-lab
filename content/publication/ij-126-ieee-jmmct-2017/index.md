@@ -7,4 +7,5 @@ abstract = "We apply the transformation-optics approach to the design of a metam
 selected = false
 publication = "*IEEE Journal on Multiscale and Multiphysics Computational Techniques* **2**, 159"
 doi = "10.1109/JMMCT.2017.2713826"
+projects=['TROPHY']
 +++

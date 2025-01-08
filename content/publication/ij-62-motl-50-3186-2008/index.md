@@ -7,4 +7,5 @@ abstract = "In coordinate-transformation-based approaches to electromagnetic con
 selected = false
 publication = "*Microwave and Optical Technology Letters* **50**(12), 3186"
 doi = "10.1002/mop.23905"
+projects=['TROPHY']
 +++

@@ -7,4 +7,5 @@ abstract = "Transformation media designed by standard transformation-optics (TO)
 selected = false
 publication = "*Journal of Optics* **13**(2), 024011"
 doi = "10.1088/2040-8978/13/2/024011"
+projects=['TROPHY']
 +++

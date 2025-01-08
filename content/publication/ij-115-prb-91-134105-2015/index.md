@@ -7,4 +7,5 @@ abstract = "We demonstrate an innovative multifunctional artificial material tha
 selected = false
 publication = "*Physical Review B* **91**(13), 134105"
 doi = "10.1103/PhysRevB.91.134105"
+projects=['TROPHY']
 +++

@@ -7,4 +7,5 @@ abstract = "The suggestive idea of “cloaking” an electromagnetic sensor, i.e
 selected = false
 publication = "*Journal of the Optical Society of America B* **27**(10), 2132"
 doi = "10.1364/JOSAB.27.002132"
+projects=['TROPHY']
 +++

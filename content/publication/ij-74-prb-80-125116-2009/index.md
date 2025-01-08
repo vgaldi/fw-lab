@@ -7,4 +7,5 @@ abstract = "Coordinate-transformation approaches to invisibility cloaking rely o
 selected = false
 publication = "*Physical Review B* **80**(12), 125116"
 doi = "10.1103/PhysRevB.80.125116"
+projects=['TROPHY']
 +++

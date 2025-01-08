@@ -7,4 +7,5 @@ abstract = "In this letter, we address the design of thin planar retrodirective 
 selected = false
 publication = "*IEEE Antennas and Wireless Propagation Letters* **7**, 603"
 doi = "10.1109/LAWP.2008.2003541"
+projects=['TROPHY']
 +++

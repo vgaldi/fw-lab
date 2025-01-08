@@ -7,4 +7,5 @@ abstract = "The intriguing concept of “anti-cloaking” has been recently intr
 selected = false
 publication = "*Wave Motion* **48**(6), 55"
 doi = "10.1016/j.wavemoti.2011.03.003"
+projects=['TROPHY']
 +++
