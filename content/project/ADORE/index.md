@@ -33,6 +33,7 @@ Our longstanding research activities in this field encompass the theoretical und
 - Prof. [Stefan Enoch], Aix-Marseille Université and CNRS, France
 - Prof. [Andrea Cusano], University of Sannio, Italy
 - Dr. [Emanuela Esposito], National Research Council, Italy
+- Prof. [Antonello Andreone], University of Naples "Federico II", Italy
 
 [Andrea Cusano]: https://www.unisannio.it/it/users/acusano
 
@@ -43,3 +44,5 @@ Our longstanding research activities in this field encompass the theoretical und
 [Filippo Capolino]: https://engineering.uci.edu/users/filippo-capolino
 
 [Stefan Enoch]: https://scholar.google.fr/citations?user=H4yQOoMAAAAJ&hl=en
+
+[Antonello Andreone]: https://scholar.google.it/citations?user=zX3urEEAAAAJ&hl=en
