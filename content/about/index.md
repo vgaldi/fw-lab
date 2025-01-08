@@ -27,9 +27,9 @@ The banner images appearing in the [tour](/tout) page are adaptations of:
 1. *The great wave off Kanagawa*, by Hokusai. Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg)
 2. *Refraction 2.0*, by Belem Lett.
 Source: [abc.net.au](http://www.abc.net.au/news/2010-08-27/belem-letts-painting-refraction-20/956554)
-3. *Symmetry E70 (butterflies)*, by Maurits C. Escher. Source: [ayay](http://ayay.co.uk/arts/optical_illusion/m_c_escher/symmetry-watercolor-70-butterfly.jpg)
+3. *Symmetry E70 (butterflies)*, by Maurits C. Escher. Source: [arthive](https://arthive.com/escher/works/200232~Butterfly_No_70)
 4. *A chaotic system*, by Annie Clavel.
-Source: [annieclavel.com](http://www.annieclavel.com/galleries/ch/ch01).
+Source: [Saatchi Art](https://www.saatchiart.com/en-it/art/Painting-A-Chaotic-System/348989/3113708/view?srsltid=AfmBOoof-bZL8b8cDhwtwaP9UFIVWtGHwDiR8f827qeNv7WvDITmGcHC).
 5. *Gravitational waves*, by Bahaar Dhawan Rohatgi.
 Source: [Behance](https://www.behance.net/gallery/30302853/The-Interstellar-Series-)
 
