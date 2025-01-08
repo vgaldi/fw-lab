@@ -32,4 +32,4 @@ Source: [abc.net.au](http://www.abc.net.au/news/2010-08-27/belem-letts-painting-
 Source: [annieclavel.com](http://www.annieclavel.com/galleries/ch/ch01).
 5. *Gravitational waves*, by Bahaar Dhawan Rohatgi.
 Source: [Behance](https://www.behance.net/gallery/30302853/The-Interstellar-Series-)
-6. Source: [Syndeo](https://syndeohro.com/benefits-attracting-top-talent/)
+
