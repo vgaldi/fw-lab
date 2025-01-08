@@ -30,4 +30,6 @@ Source: [abc.net.au](http://www.abc.net.au/news/2010-08-27/belem-letts-painting-
 3. *Symmetry E70 (butterflies)*, by Maurits C. Escher. Source: [ayay](http://ayay.co.uk/arts/optical_illusion/m_c_escher/symmetry-watercolor-70-butterfly.jpg)
 4. *A chaotic system*, by Annie Clavel.
 Source: [annieclavel.com](http://www.annieclavel.com/galleries/ch/ch01).
-5. Source: [Syndeo](https://syndeohro.com/benefits-attracting-top-talent/)
+5. *Gravitational waves*, by Bahaar Dhawan Rohatgi.
+Source: [Behance](https://www.behance.net/gallery/30302853/The-Interstellar-Series-)
+6. Source: [Syndeo](https://syndeohro.com/benefits-attracting-top-talent/)
