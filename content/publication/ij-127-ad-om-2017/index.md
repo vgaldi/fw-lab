@@ -7,5 +7,5 @@ abstract = "Coding metasurfaces, based on the combination of two basic unit cell
 selected = false
 publication = "*Advanced Optical Materials* **5**(19), 1700455"
 doi = "10.1002/adom.201700455"
-projects: ['DICE']
+projects= ['DICE']
 +++
