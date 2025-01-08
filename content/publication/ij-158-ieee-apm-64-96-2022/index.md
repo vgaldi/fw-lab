@@ -8,5 +8,5 @@ abstract: "The concept of “coding metasurfaces” was first put forward in 201
 featured: false
 publication: "*IEEE Antennas and Propagation Magazine* **64**(4), 96"
 doi: "10.1109/MAP.2022.3169397"
-projects: [STEM]
+projects: ['STEM','DICE']
 ---

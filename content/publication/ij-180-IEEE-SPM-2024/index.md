@@ -7,5 +7,5 @@ abstract: ""
 featured: false
 publication: "*IEEE Signal Processing Magazine* **41**(5), 56-70"
 doi: 10.1109/MSP.2024.3471069
-projects: ['STREET']
+projects: ['STREET', 'DICE']
 ---

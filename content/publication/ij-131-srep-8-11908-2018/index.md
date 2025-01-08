@@ -7,5 +7,5 @@ abstract = "Coding metasurfaces, composed of only two types of elements arranged
 selected = false
 publication = "*Scientific Reports* **8**, 11908 "
 doi = "10.1038/s41598-018-30375-z"
-projects=['ADORE']
+projects=['ADORE','DICE']
 +++
