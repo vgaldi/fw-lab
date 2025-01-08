@@ -8,7 +8,7 @@ external_link: ""
 show_date: false
 url_slides: ""
 subtitle: GRAVitational InTerferometrY
-weight: 80
+weight: 65
 tags:
   - Sensing
 links: null

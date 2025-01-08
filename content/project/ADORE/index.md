@@ -4,6 +4,7 @@ title: ADORE
 summary: AperioDic OrdEr
 url_video: ""
 date: 2016-04-27T00:00:00Z
+weight: 70
 tags:
   - Modeling
   - Phenomena
