@@ -7,5 +7,5 @@ abstract = "Wave propagation in ray-chaotic scenarios, characterized by exponent
 selected = false
 publication = "*IEEE Transactions on Antennas and Propagation* **60**(8), 3827"
 doi = "10.1109/TAP.2012.2201126"
-projects: ['RAISE']
+projects= ['RAISE']
 +++

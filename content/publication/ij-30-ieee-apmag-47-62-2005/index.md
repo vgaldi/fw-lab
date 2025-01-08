@@ -7,5 +7,5 @@ abstract = "Ray chaos, characterized by eventual exponential divergence of origi
 selected = false
 publication = "*IEEE Antennas and Propagation Magazine* **47**(1), 62"
 doi = "10.1109/MAP.2005.1436220"
-projects: ['RAISE']
+projects= ['RAISE']
 +++
