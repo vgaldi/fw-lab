@@ -28,7 +28,7 @@ Our longstanding research activities in this field encompass the theoretical und
 - Enhanced nonlocal effects.
 
 ## Collaborations
-- Prof. [Leopold B. Felsen], Boston University
+- Prof. [Leopold B. Felsen], Boston University, USA
 - Prof. [Filippo Capolino], University of California, Irvine, USA
 - Prof. [Stefan Enoch], Aix-Marseille Université and CNRS, France
 - Prof. [Andrea Cusano], University of Sannio, Italy

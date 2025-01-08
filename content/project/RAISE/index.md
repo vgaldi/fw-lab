@@ -29,6 +29,6 @@ We also examined ray chaos in open configurations, such as (n>3)-disk "pinballs"
 Our results show that electrically large, ray-chaotic configurations display intricate monostatic and bistatic radar cross-section (RCS) responses, marked by wide dynamic ranges and high sensitivity to frequency and incidence direction. This complexity presents promising opportunities for radar countermeasures, leveraging the diverse RCS signatures inherent in ray-chaotic scenarios.
 
 ## Collaborations
-- Prof. [Leopold B. Felsen], Boston University
+- Prof. [Leopold B. Felsen], Boston University, USA
 
 [Leopold B. Felsen]: https://en.wikipedia.org/wiki/Leopold_B._Felsen
