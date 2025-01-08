@@ -8,5 +8,5 @@ selected = false
 featured = false
 publication = "*Optica* **3**(2), 179"
 doi = "10.1364/OPTICA.3.000179"
-projects=['TROPY']
+projects=['TROPHY']
 +++
