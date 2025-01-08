@@ -24,7 +24,7 @@ content:
         brightness: 0.5
         media: wave.jpg
     - title: '**Complex materials**'
-      content: 'We study artificial materials and **metamaterials** that can exhibit exotic properties not available in natural media. These include nonlocal, nonreciprocal, non-Hermitian, time-varying, and multi-physics responses.'
+      content: 'We study artificial materials and **metamaterials** that can exhibit exotic properties not available in natural media. These include nonlocal, nonreciprocal, non-Hermitian, and time-varying responses.'
       align: left
       background:
         position: center
