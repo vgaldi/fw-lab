@@ -31,7 +31,7 @@ categories = []
 +++
 
 Our paper on "Observation of radio-frequency Mie resonances in high-permittivity dielectric spheres,"
-in collaboration with [Carlo Rizza]'s Group, [Angelo Galante] and [Marcello Alecci] (University of L'Aquila)
+in collaboration with [Carlo Rizza]'s Group, [Angelo Galante] and [Marcello Alecci] (University of L'Aquila),
 has been accepted for publication in the [*Journal of Physics D: Applied Physics*](https://iopscience.iop.org/journal/0022-3727). 
 
 [Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it

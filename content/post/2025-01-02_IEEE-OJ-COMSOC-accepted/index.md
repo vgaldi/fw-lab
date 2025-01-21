@@ -31,7 +31,7 @@ categories = []
 +++
 
 Our paper on "Design of stacked intelligent metasurfaces with reconfigurable amplitude and phase for multiuser downlink beamforming,"
-in collaboration with [Donatella Darsena], [Francesco Verde] (University of Naples "Federico II"), and [Ivan Iudice] (Italian Aerospace Research Centre)
+in collaboration with [Donatella Darsena], [Francesco Verde] (University of Naples "Federico II"), and [Ivan Iudice] (Italian Aerospace Research Centre),
 has been accepted for publication in the [*IEEE Open Journal of the Communications Society*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782661). 
 
 An [arXiv preprint](https://arxiv.org/abs/2408.16606) is available.
