@@ -7,7 +7,7 @@ abstract = "We investigate Mie resonances in a high-permittivity dielectric (cer
 selected = false
 featured = false
 focal_point = "Center"
-publication = "*Journal of Physics D: Applied Physics* **early access**"
+publication = "*Journal of Physics D: Applied Physics* **(early access)**"
 doi = "10.1088/1361-6463/adaf35"
 projects =['GAMING']
 +++
