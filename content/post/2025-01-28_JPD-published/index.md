@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ]"Observation of radio-frequency Mie resonances in high-permittivity dielectric spheres,"](/publication/ij-184-JPD-2025/)
+Our paper on ["Observation of radio-frequency Mie resonances in high-permittivity dielectric spheres,"](/publication/ij-184-JPD-2025/)
 in collaboration with [Carlo Rizza]'s Group, [Angelo Galante] and [Marcello Alecci] (University of L'Aquila),
 has been accepted published in the *Journal of Physics D: Applied Physics*. 
 
