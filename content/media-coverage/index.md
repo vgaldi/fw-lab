@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* [“Pareti specchio per le comunicazioni del futuro”](https://www.ansa.it/canale_scienza/notizie/frontiere/2025/02/24/pareti-specchio-per-le-comunicazioni-del-futuro-_fa7437be-cdc7-431d-b563-43d66d99fb70.html)
+*ANSA*, Feb. 24, 2025. :it:
+
 * [“Progettata una superficie che interagisce con la luce”](https://www.ansa.it/canale_scienza/notizie/fisica_matematica/2024/11/15/progettata-una-superficie-che-interagisce-con-la-luce-_25cf4760-e332-4242-b66c-20015ac1bfdb.html)
 *ANSA*, Nov. 15, 2024. :it:
 
