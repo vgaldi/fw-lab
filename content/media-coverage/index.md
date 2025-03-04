@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* I. Fadelli, [“Space-time-coding metasurface could transform wireless networks with dual-functionality for 6G era,”](https://techxplore.com/news/2025-03-space-coding-metasurface-wireless-networks.html)
+*Tech Xplore*, Mar. 3, 2025.
+
 * [“Pareti specchio per le comunicazioni del futuro,”](https://www.ansa.it/canale_scienza/notizie/frontiere/2025/02/24/pareti-specchio-per-le-comunicazioni-del-futuro-_fa7437be-cdc7-431d-b563-43d66d99fb70.html)
 *ANSA*, Feb. 24, 2025. :it:
 
