@@ -27,7 +27,7 @@ In our ongoing research, we have been focusing on the design of coding metasurfa
 
 ## Collaborations
 - Profs. [Tie Jun Cui] and [Lei Zhang], Southeast University, China
-- Profs. [Antonello Andreone] University of Naples "Federico II", Italy
+- Prof. [Antonello Andreone] University of Naples "Federico II", Italy
 
 [Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en
 [Lei Zhang]: https://scholar.google.com/citations?user=3wWb8agAAAAJ&hl=zh-CN
