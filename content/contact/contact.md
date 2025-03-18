@@ -31,10 +31,6 @@ content:
     - 'Friday 9-11am'
     - 'Otherwise email to book an appointment'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM
-      link: 'https://twitter.com/Twitter'
     - icon: skype
       icon_pack: fab
       name: Skype
