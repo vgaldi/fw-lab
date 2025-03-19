@@ -25,9 +25,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/vincenzo-galdi-1295122
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/ijbeasley.bsky.social
 organizations:
   - name: University of Sannio
     url: https://www.unisannio.it/en
