@@ -27,7 +27,9 @@ weight = 45
 * [“Progettata una superficie che interagisce con la luce,”](https://www.ansa.it/canale_scienza/notizie/fisica_matematica/2024/11/15/progettata-una-superficie-che-interagisce-con-la-luce-_25cf4760-e332-4242-b66c-20015ac1bfdb.html)
 *ANSA*, Nov. 15, 2024. :it:
 
-* K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *Ghacks*, August 30, 2023.
+* J. Oncea, ["iPhone 15 To Be Launched At Wonderlust – Will Its 6G Capability Be An Upgrade Over 5G?,"](https://www.rfglobalnet.com/doc/iphone-to-be-launched-at-wonderlust-will-its-g-capability-be-an-upgrade-over-g-0001) *RF Globalnet*, Sep. 1, 2023.
+
+* K. Gülen, ["Security flaws found in emerging 6G tech,"](https://www.ghacks.net/2023/08/30/security-flaws-found-in-emerging-6g-tech/) *Ghacks*, Aug. 30, 2023.
 
 * H. Harrison, [“Danger for all mobiles: 6G is insecure,”](https://www.gearrice.com/update/danger-for-all-mobiles-6g-is-insecure/)
 *Gearrice*, Aug. 28, 2023.
@@ -35,7 +37,7 @@ weight = 45
 * A. Morgan, [“What are metasurfaces and why do they pose a huge security risk with the advent of 6G?,”](https://www.gearrice.com/update/what-are-metasurfaces-and-why-do-they-pose-a-huge-security-risk-with-the-advent-of-6g/)
 *Gearrice*, Aug. 28, 2023.
 
-* ["Critical Vulnerabilities uncovered in vital 6G technology: What you need to know,"](https://techplugged.com/critical-vulnerabilities-uncovered-in-vital-6g-technology-what-you-need-to-know/) *TechPlugged*, August 28, 2023.
+* ["Critical Vulnerabilities uncovered in vital 6G technology: What you need to know,"](https://techplugged.com/critical-vulnerabilities-uncovered-in-vital-6g-technology-what-you-need-to-know/) *TechPlugged*, Aug. 28, 2023.
 
 * K. Afifi-Sabet, [“Researchers find worrying vulnerabilities in key 6G technology,”](https://www.techradar.com/pro/researchers-find-worrying-vulnerabilities-in-key-6g-technology)
 *TechRadar*, Aug. 28, 2023.
