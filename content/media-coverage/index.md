@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* [“Reti 6G, sviluppata una metasuperficie che innoverà le telecomunicazioni del futuro,”](https://www.digitech.news/technology/20/03/2025/reti-6g-metasuperficie-telecomunicazioni/)
+*DigiTech.News*, Mar. 20, 2025. :it:
+
 * I. Fadelli, [“Space-time-coding metasurface could transform wireless networks with dual-functionality for 6G era,”](https://techxplore.com/news/2025-03-space-coding-metasurface-wireless-networks.html)
 *Tech Xplore*, Mar. 3, 2025.
 
