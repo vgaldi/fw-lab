@@ -31,9 +31,9 @@ content:
     - 'Friday 9-11am'
     - 'Otherwise email to book an appointment'
   contact_links:
-    - icon: matrix
-      icon_pack: fab
-      name: Matrix
+   # - icon: matrix
+     # icon_pack: fab
+      # name: Matrix
       #link: 'skype:vgaldi?call'
   #appointment_url: 'https://calendly.com'
   #contact_links:
