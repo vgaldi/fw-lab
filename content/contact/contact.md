@@ -31,10 +31,10 @@ content:
     - 'Friday 9-11am'
     - 'Otherwise email to book an appointment'
   contact_links:
-    - icon: skype
+    - icon: matrix
       icon_pack: fab
-      name: Skype
-      link: 'skype:vgaldi?call'
+      name: Matrix
+      #link: 'skype:vgaldi?call'
   #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
