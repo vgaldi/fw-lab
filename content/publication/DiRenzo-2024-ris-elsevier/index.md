@@ -7,6 +7,6 @@ abstract = "Reconfigurable intelligent surface (RIS) is an emerging technology t
 selected = false
 publication = "*Metamaterials-by-Design: Theory, Technologies, and Vision*"
 doi = "10.1016/B978-0-32-399985-4.00017-9"
-projects=['STREET']
+projects=['STREET','DICE']
 +++
 
