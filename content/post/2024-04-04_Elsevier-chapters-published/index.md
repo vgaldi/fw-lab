@@ -31,8 +31,8 @@ categories = []
 +++
 
 Two chapters on
-["Scattering-Signature Control via Digital Coding Metasurfaces"](/publication/moccia-2024-dcm-elsevier)
+["Scattering-signature control via digital coding metasurfaces"](/publication/moccia-2024-dcm-elsevier)
 and
-["Digital Reconfigurable Intelligent Surfaces: On the Impact of Realistic Reradiation Models"](/publication/direnzo-2024-ris-elsevier)
-have been published in the book entitled [*Metamaterials-by-Design: Theory, Technologies, and Vision*](https://www.sciencedirect.com/book/9780323999854/metamaterials-by-design) (Elsevier; editors: A. Alù, N. Engheta, A. Massa, G. Oliveri).
+["Digital reconfigurable intelligent surfaces: On the impact of realistic reradiation models"](/publication/direnzo-2024-ris-elsevier)
+have been published in the book entitled: [*Metamaterials-by-Design: Theory, Technologies, and Vision*](https://www.sciencedirect.com/book/9780323999854/metamaterials-by-design) (Elsevier; editors: A. Alù, N. Engheta, A. Massa, G. Oliveri).
 

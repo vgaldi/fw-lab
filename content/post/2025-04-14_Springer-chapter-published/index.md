@@ -30,6 +30,6 @@ categories = []
   focal_point = "Center"
 +++
 
-Our chapter on ["Survey and Perspectives on Line-Wave Electromagnetics"](/publication/moccia-2025-lw-springer)
-has been published in the book entitled [*More Adventures in Contemporary Electromagnetic Theory*](https://link.springer.com/book/9783031831300) (Springer; editors: F. Chiadini, V. Fiumara).
+Our chapter on ["Survey and perspectives on line-wave electromagnetics"](/publication/moccia-2025-lw-springer)
+has been published in the book entitled: [*More Adventures in Contemporary Electromagnetic Theory*](https://link.springer.com/book/9783031831300) (Springer; editors: F. Chiadini, V. Fiumara).
 
