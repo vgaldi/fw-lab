@@ -33,7 +33,7 @@ Furthermore, the long-term impact of our project extends beyond MRI, potentially
 
 ## Collaborations
 
-* Profs. [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it), [Angelo Galante], and [Marcello Alecci] University of L'Aquila, Italy
+* Profs. [Carlo Rizza](https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it), [Angelo Galante], and [Marcello Alecci], University of L'Aquila, Italy
 
 
 [Angelo Galante]: https://scholar.google.com/citations?user=XNNZtxIAAAAJ&hl=it
