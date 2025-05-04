@@ -1,5 +1,5 @@
 +++
-title = "Talk at PIERS 2023"
+title = "Talk at PIERS 2025"
 date = 2025-05-04
 draft = false
 
@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 We have presented a talk on
-["A liquid crystal assisted RIS for two-dimensional beam tailoring in the mm-wave/THz band"](/publication/andreome-PIERS-2025/)
+["A liquid crystal assisted RIS for two-dimensional beam tailoring in the mm-wave/THz band"](/publication/andreone-piers-2025/)
 at the *PhotonIcs and Electromagnetics Research Symposium* ([PIERS]),
 Abu Dhabi, UAE, May 4-8, 2025.
 
