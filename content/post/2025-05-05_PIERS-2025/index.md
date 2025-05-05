@@ -34,5 +34,4 @@ We have presented a talk on
 at the *PhotonIcs and Electromagnetics Research Symposium* ([PIERS]),
 Abu Dhabi, UAE, May 4-8, 2025.
 
-
 [PIERS]: https://abdb2025.piers.org
