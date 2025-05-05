@@ -32,6 +32,6 @@ categories = []
 We have presented a talk on
 ["A liquid crystal assisted RIS for two-dimensional beam tailoring in the mm-wave/THz band"](/publication/andreone-piers-2025/)
 at the *PhotonIcs and Electromagnetics Research Symposium* ([PIERS]),
-Abu Dhabi, UAE, May 4-8, 2025.
+Abu Dhabi, UAE, May 4--8, 2025.
 
 [PIERS]: https://abdb2025.piers.org
