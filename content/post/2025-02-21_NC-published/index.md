@@ -9,7 +9,7 @@ image:
   caption: ""
   focal_point: Center
 ---
-Our paper on ["Integrated sensing and communication based on space-time-coding reconfigurable intelligent surfaces,"](/publication/ij-185-NC-2025/) in collaboration with [Marco Di Renzo] (Paris-Saclay University / CNRS) and [Tie Jun Cui]'s Group (Southeast University),
+Our paper on ["Integrated sensing and communication based on space-time-coding reconfigurable intelligent surfaces,"](/publication/ij-185-nc-2025/) in collaboration with [Marco Di Renzo] (Paris-Saclay University / CNRS) and [Tie Jun Cui]'s Group (Southeast University),
 has been published in *Nature Communications*.
 
 [Marco Di Renzo]: https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en
