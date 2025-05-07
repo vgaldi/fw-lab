@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["Design of stacked intelligent metasurfaces with reconfigurable amplitude and phase for multiuser downlink beamforming,"](/publication/ij-182-ieee-oj-comsoc-2025/)
+Our paper on ["Design of stacked intelligent metasurfaces with reconfigurable amplitude and phase for multiuser downlink beamforming,"](/publication/ij-183-ieee-oj-comsoc-2025/)
 in collaboration with [Donatella Darsena], [Francesco Verde] (University of Naples "Federico II"), and [Ivan Iudice] (Italian Aerospace Research Centre),
 has been published in the *IEEE Open Journal of the Communications Society*. 
 
