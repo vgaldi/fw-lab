@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["Mid-infrared enhanced spectrochemical detection using azide vibrational probes,"](/publication/ij-183-BaB-2025/)
+Our paper on ["Mid-infrared enhanced spectrochemical detection using azide vibrational probes,"](/publication/ij-183-bab-2025/)
 in collaboration with [Emanuela Esposito]'s Group (National Research Council),
 has been published in *Biosensors and Bioelectronics*.
 
