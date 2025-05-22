@@ -5,5 +5,5 @@ authors = ["A. Contestabile", "M. A. Vincenti", "G. Castaldi", "M. Scalora", "V.
 publication_types = ['paper-conference']
 abstract = ""
 selected = false
-publication = "*2025 Waves in Time-Varying Media Workshop*"
+publication = "*Waves in Time-Varying Media Workshop*"
 +++
