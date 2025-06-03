@@ -1,5 +1,5 @@
 +++
-title = "Our paper on exceptional points in the flatland published in PRAppl"
+title = "Our paper on exceptional points in the flatland published in PRApplied"
 date = 2021-06-28
 draft = false
 
