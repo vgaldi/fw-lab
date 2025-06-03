@@ -1,6 +1,6 @@
 +++
 title = "Our paper on photonic time quasicrystals accepted in PRAppl"
-date = 2021-06-10
+date = 2025-06-02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
