@@ -1,6 +1,6 @@
 +++
 title = "Invited talk at URSI-EMTS 2025"
-date = 2025-06-25
+date = 2025-06-24
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
