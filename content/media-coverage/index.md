@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* [“Trasmissioni sicure grazie alla fisica del caos, senza usare crittografia,”](https://www.ansa.it/canale_scienza/notizie/frontiere/2025/07/03/trasmissioni-sicure-grazie-alla-fisica-del-caos-senza-usare-crittografia_63249ebd-aa9c-4ec4-bfa9-aa9ac021ce05.html)
+*ANSA*, July 3, 2025. :it:
+
 * [“Reti 6G, sviluppata una metasuperficie che innoverà le telecomunicazioni del futuro,”](https://www.digitech.news/technology/20/03/2025/reti-6g-metasuperficie-telecomunicazioni/)
 *DigiTech.News*, Mar. 20, 2025. :it:
 
