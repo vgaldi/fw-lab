@@ -15,6 +15,13 @@ weight = 45
 
 +++
 
+
+* [“Comunicazioni sicure senza crittografia: la rivoluzione della fisica del caos e delle metasuperfici,”](https://edunews24.it/ricerca/comunicazioni-sicure-senza-crittografia-la-rivoluzione-della-fisica-del-caos-e-delle-metasuperfici)
+*EDU NEWS24*, July 3, 2025. :it:
+
+* [“Il caos al posto della crittografia per trasmettere i dati in modo sicuro,”](https://www.hdblog.it/tecnologia/articoli/n624096/caos-crittografia-trasmissione-dati-sicurezza/)
+*HDBlog*, July 3, 2025. :it:
+
 * [“Trasmissioni sicure grazie alla fisica del caos, senza usare crittografia,”](https://www.ansa.it/canale_scienza/notizie/frontiere/2025/07/03/trasmissioni-sicure-grazie-alla-fisica-del-caos-senza-usare-crittografia_63249ebd-aa9c-4ec4-bfa9-aa9ac021ce05.html)
 *ANSA*, July 3, 2025. :it:
 
