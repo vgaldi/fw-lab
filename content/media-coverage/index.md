@@ -15,6 +15,9 @@ weight = 45
 
 +++
 
+* [“Comunicazioni sicure grazie alla fisica del caos: l’innovativa tecnologia che elimina la crittografia,”](https://roboreporter.it/2025/07/08/comunicazioni-sicure-grazie-alla-fisica-del-caos-linnovativa-tecnologia-che-elimina-la-crittografia/)
+*RoboReporter*, July 8, 2025. :it:
+
 
 * [“Comunicazioni sicure senza crittografia: la rivoluzione della fisica del caos e delle metasuperfici,”](https://edunews24.it/ricerca/comunicazioni-sicure-senza-crittografia-la-rivoluzione-della-fisica-del-caos-e-delle-metasuperfici)
 *EDU NEWS24*, July 3, 2025. :it:
