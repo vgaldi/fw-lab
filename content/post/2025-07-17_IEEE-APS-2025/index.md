@@ -1,6 +1,6 @@
 +++
 title = "Two talks at IEEE-APS/URSI 2025"
-date = 2025-07-15
+date = 2025-07-17
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -31,7 +31,7 @@ categories = []
 +++
 We have presented two talks on:
 
-* ["Exploring aperiodic order in photonic time crystals"](/publication/stefanini-ieee-aps-2024/)(/publication/coppolaro-ieee-aps-2025/)
+* ["Exploring aperiodic order in photonic time crystals"](/publication/coppolaro-ieee-aps-2025/)
 
 * ["Modeling and optimization of cylindrical reconfigurable intelligent surfaces"](/publication/pepe-ieee-aps-2025/)
 

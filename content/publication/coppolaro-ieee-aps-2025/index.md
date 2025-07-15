@@ -1,6 +1,6 @@
 ---
 title: "Exploring aperiodic order in photonic time crystals"
-date: 2025-07-15
+date: 2025-07-17
 authors: ["M. Coppolaro", "M. Moccia", "G. Castaldi", "V. Galdi"]
 publication_types: ['paper-conference']
 abstract: ""
