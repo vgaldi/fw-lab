@@ -15,6 +15,10 @@ weight = 45
 
 +++
 
+* I. Fadelli, [“A chaos-modulated metasurface for physical-layer secure communications,”](https://techxplore.com/news/2025-07-chaos-modulated-metasurface-physical-layer.html)
+*Tech Xplore*, July 15, 2025.
+
+
 * [“Comunicazioni sicure grazie alla fisica del caos: l’innovativa tecnologia che elimina la crittografia,”](https://roboreporter.it/2025/07/08/comunicazioni-sicure-grazie-alla-fisica-del-caos-linnovativa-tecnologia-che-elimina-la-crittografia/)
 *RoboReporter*, July 8, 2025. :it:
 
