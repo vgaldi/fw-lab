@@ -43,7 +43,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.rossi8@studenti.unisannio.it'
-    - icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marco-rossi-04633a364/
 
@@ -65,6 +65,6 @@ user_groups:
   - Current Members
 ---
 
-**Marco Rossi** is a Ph.D. Student in Information Technologies for Engineering at the University of Sannio, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
+**Marco Rossi** is a Ph.D. Candidate in Information Technologies for Engineering at the University of Sannio, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
 
 His research is focused on electromagnetically consistent models of smart radio environments for 6G wireless communications networks.
