@@ -15,4 +15,4 @@ in collaboration with [Lianlin Li]'s Group (Peking University) and
 has been published in *Nature Communications*.
 
 [Lianlin Li]: https://www.researchgate.net/profile/Lianlin-Li
-[Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en)(Southeast University
+[Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en)
