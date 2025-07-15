@@ -9,7 +9,7 @@ weight: 60
 
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.rossi8@studenti.unisannio.it'
+    - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/marco-rossi-04633a364/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

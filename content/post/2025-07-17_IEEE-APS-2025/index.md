@@ -36,7 +36,7 @@ We have presented two talks on:
 * ["Modeling and optimization of cylindrical reconfigurable intelligent surfaces"](/publication/pepe-ieee-aps-2025/)
 
 at the *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting* ([IEEE-APS/URSI]),
-Ottawa, ON, Canada, July 13-18, 2025.
+Ottawa, ON, Canada, July 13--18, 2025.
 
 
 [IEEE-APS/URSI]: https://2025.apsursi.org

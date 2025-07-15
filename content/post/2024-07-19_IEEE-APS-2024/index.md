@@ -38,7 +38,7 @@ We have presented three talks on:
 * ["Machine-learning-based design of space-time-coding digital metasurfaces"](/publication/rossi-ieee-aps-2024/)
 
 at the *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting* ([IEEE-APS/URSI]),
-Florence, Italy, July 14-19, 2024.
+Florence, Italy, July 14--19, 2024.
 
 
 [IEEE-APS/URSI]: https://2024.apsursi.org
