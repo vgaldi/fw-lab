@@ -32,7 +32,7 @@ categories = []
 We have presented an invited talk on
 ["Unconventional phenomena from space-time modulation of dispersive media"](/publication/rizza-meta-2025/)
 at the *15th International Conference on Metamaterials, Photonic Crystals and Plasmonics* ([META2025]),
-Malaga, Spain, July 22-25, 2025.
+Malaga, Spain, July 22--25, 2025.
 
 
 [META2025]: https://metaconferences.org/META25/index.php/META/index
