@@ -31,8 +31,8 @@ categories = []
 +++
 We have presented an invited talk on
 ["Analog computing with short-pulsed metamaterials"](/publication/rizza-meta-2022/)
-at the *12th International Conference on Metamaterials, Photonic Crystals and Plasmonics* ([META2022]),
+at the *12th International Conference on Metamaterials, Photonic Crystals and Plasmonics* ([META]),
 Torremolinos, Spain, July 19-22, 2022.
 
 
-[META2022]: https://metaconferences.org/META/index.php/META2022/index
+[META]: https://metaconferences.org/META/index.php/META2022/index
