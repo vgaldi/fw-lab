@@ -5,6 +5,6 @@ authors = ["V. Di Meo", "A. Crescitelli", "M. Moccia", "A. Sandomenico", "A. M. 
 publication_types = ['paper-conference']
 abstract = ""
 selected = false
-publication = "*11th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META 2021)*"
+publication = "*11th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META)*"
 +++
 
