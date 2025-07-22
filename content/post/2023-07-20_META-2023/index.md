@@ -31,8 +31,8 @@ categories = []
 +++
 We have presented an invited talk on
 ["Plasmonic metasurface for enhanced infrared spectroscopy: a method to monitor protein denaturation"](/publication/di-meo-meta-2023/)
-at the *13th International Conference on Metamaterials, Photonic Crystals and Plasmonics* ([META2023]),
-Paris, France, July 18-21, 2023.
+at the *13th International Conference on Metamaterials, Photonic Crystals and Plasmonics* ([META]),
+Paris, France, July 18--21, 2023.
 
 
-[META2023]: https://metaconferences.org/META23/index.php/META/index
+[META]: https://metaconferences.org/META23/index.php/META/index
