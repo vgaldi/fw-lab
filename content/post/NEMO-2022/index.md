@@ -31,7 +31,7 @@ categories = []
 +++
 We have presented an invited talk on
 ["Space-time-coding digital metasurfaces and their applications"](/publication/zhang-nemo-2022/)
-at the *2022 IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization* ([NEMO2022]),
-Limoges, France, July 6-8, 2022.
+at the *2022 IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization* ([NEMO]),
+Limoges, France, July 6--8, 2022.
 
-[NEMO2022]: https://nemo-ieee.org
+[NEMO]: https://nemo-ieee.org
