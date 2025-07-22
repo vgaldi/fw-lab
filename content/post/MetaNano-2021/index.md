@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 We have presented a keynote talk on [*"Recent advances in space-time coding digital metasurfaces"*](/publication/galdi-metanano-2021/)
-at the *VI International Conference on Metamaterials and Nanophotonics* ([MetaNano 2021]),
+at the *VI International Conference on Metamaterials and Nanophotonics* ([MetaNano]),
 Tblisi, Georgia, Sep. 23-17, 2021 (online).
 
-[MetaNano 2021]: https://metanano.itmo.ru
+[MetaNano]: https://metanano.itmo.ru
