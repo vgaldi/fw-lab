@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Members
+  - Graduate Students
 ---
 
 **Marco Rossi** is a Ph.D. Candidate in Information Technologies for Engineering at the University of Sannio, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
