@@ -62,3 +62,6 @@ Dr. Galdi is a *Fellow* of the [IEEE](http://www.ieee.org) and of [Optica](https
 
 He is the co-founder of the spinoff company [MANTID](/spinoff/mantid) srl, and the startup company [BioTag](/spinoff/biotag) srl.
 
+## Recent Publications
+
+{{< publications author="V.-Galdi" count=5 >}}
