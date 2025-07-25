@@ -61,3 +61,17 @@ and as a regular reviewer for many journals, conferences and funding agencies. H
 Dr. Galdi is a *Fellow* of the [IEEE](http://www.ieee.org) and of [Optica](https://www.optica.org/en-us/home/), a senior member of the [LIGO Scientific Collaboration](https://www.ligo.org), and a member of the [American Physical Society](https://www.aps.org/index.cfm). He is also the recipient of an *Outstanding Associate Editor Award* (*IEEE Transactions on Antennas and Propagation*, 2014) and a *URSI Young Scientist Award* (2001).
 
 He is the co-founder of the spinoff company [MANTID](/spinoff/mantid) srl, and the startup company [BioTag](/spinoff/biotag) srl.
+
+- block: collection
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
