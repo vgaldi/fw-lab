@@ -44,6 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:f.pepe6@studenti.unisannio.it'
+  - icon: obp
+    icon_pack: ai
+    link: /author/f.-pepe/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/filippo-pepe-045ba8264/?originalSubdomain=it

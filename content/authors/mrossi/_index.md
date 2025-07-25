@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.rossi8@studenti.unisannio.it'
+  - icon: obp
+    icon_pack: ai
+    link: /author/m.-rossi/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marco-rossi-04633a364/

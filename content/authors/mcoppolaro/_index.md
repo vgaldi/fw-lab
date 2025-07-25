@@ -36,6 +36,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:marino.coppolaro@unisannio.it'
+  - icon: obp
+    icon_pack: ai
+    link: /author/m.-coppolaro/
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-0181-0999

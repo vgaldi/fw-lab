@@ -10,6 +10,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:vgaldi@unisannio.it
+  - icon: obp
+    icon_pack: ai
+    link: /author/v.-galdi/
   - icon: orcid
     icon_pack: ai
     link: http://orcid.org/0000-0002-4796-3600
