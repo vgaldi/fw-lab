@@ -1,4 +1,15 @@
 ---
+# Display name
+title: Vincenzo Galdi
+
+# Full name (for SEO)
+first_name: Vincenzo
+last_name: Galdi
+
+# Username (this should match the folder name)
+authors:
+  - vgaldi
+
 role: Professor, Principal Investigator
 bio: null
 interests:
@@ -42,7 +53,6 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Vincenzo Galdi
 weight: 10
 email: ""
 ---
