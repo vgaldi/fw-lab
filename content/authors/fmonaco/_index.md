@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Members
+  - Graduate Students
 ---
 
 **Francesco P. Monaco** is a Ph.D. Candidate in Information Technologies for Engineering at the University of Sannio, under the joint supervision of Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi), [Andrea Cusano](https://www.unisannio.it/it/user/627/ricerca) and [Vincenzo Galdi](/author/vincenzo-galdi).

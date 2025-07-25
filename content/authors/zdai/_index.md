@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Members
+  - Visitors
 ---
 
 **Zihao Dai** is a Ph.D. Student in Electronic Science and Technology at the University of Electronic Science and Technology of China.

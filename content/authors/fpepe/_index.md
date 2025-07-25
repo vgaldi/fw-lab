@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Members
+  - Graduate Students
 ---
 
 **Filippo Pepe** is a Ph.D. Student in Information Technologies for Engineering at the University of Sannio, under the joint supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi) and Dr. [Ivan Iudice](https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it) ([Italian Aerospace Research Centre](https://www.cira.it/en)).
