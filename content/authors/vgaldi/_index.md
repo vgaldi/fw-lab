@@ -10,9 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:vgaldi@unisannio.it
-  - icon: obp
-    icon_pack: ai
-    link: /author/v.-galdi/
   - icon: orcid
     icon_pack: ai
     link: http://orcid.org/0000-0002-4796-3600
@@ -43,7 +40,7 @@ education:
       year: 1995
 superuser: true
 user_groups:
-  - Current Members
+  - Researchers
 highlight_name: false
 title: Vincenzo Galdi
 weight: 10
@@ -62,6 +59,3 @@ Dr. Galdi is a *Fellow* of the [IEEE](http://www.ieee.org) and of [Optica](https
 
 He is the co-founder of the spinoff company [MANTID](/spinoff/mantid) srl, and the startup company [BioTag](/spinoff/biotag) srl.
 
-## Recent Publications
-
-{{< publications author="V.-Galdi" count=5 >}}

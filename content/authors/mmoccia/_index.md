@@ -10,9 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:mamoccia@unisannio.it
-  - icon: obp
-    icon_pack: ai
-    link: /author/m.-moccia/
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-3614-2871
@@ -50,7 +47,7 @@ education:
       year: 2005
 superuser: false
 user_groups:
-  - Current Members
+  - Researchers
 highlight_name: false
 title: Massimo Moccia
 weight: 30

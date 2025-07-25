@@ -10,9 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:castaldi@unisannio.it
-  - icon: obp
-    icon_pack: ai
-    link: /author/g.-castaldi/
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-4400-9990
@@ -40,7 +37,7 @@ education:
       year: 1993
 superuser: false
 user_groups:
-  - Current Members
+  - Researchers
 highlight_name: false
 title: Giuseppe Castaldi
 weight: 20
