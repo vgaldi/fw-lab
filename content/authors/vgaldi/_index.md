@@ -8,7 +8,7 @@ last_name: Galdi
 
 # Username (this should match the folder name)
 authors:
-  - vgaldi
+  - v.-galdi
 
 role: Professor, Principal Investigator
 bio: null
