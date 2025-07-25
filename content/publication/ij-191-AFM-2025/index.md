@@ -7,5 +7,5 @@ abstract: "Reconfigurable intelligent surfaces (RISs) have emerged as a key tech
 featured: false
 publication: "*Advanced Functional Materials*, **early view**, e07430"
 doi: 10.1002/adfm.202507430
-projects: ['STEM']
+projects: ['STEM', 'STREET']
 ---
