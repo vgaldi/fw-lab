@@ -28,7 +28,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/vincenzo-galdi-1295122
- organizations:
+organizations:
   - name: University of Sannio
     url: https://www.unisannio.it/en
   - name: Department of Engineering
