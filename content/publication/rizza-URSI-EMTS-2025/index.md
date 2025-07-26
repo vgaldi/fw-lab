@@ -6,4 +6,5 @@ publication_types = ['paper-conference']
 abstract = ""
 selected = false
 publication = "*25th International Symposium on Electromagnetic Theory (EMTS)*"
+doi: "10.46620/URSIEMTS25/DCTE2694"
 +++
