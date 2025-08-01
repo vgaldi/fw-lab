@@ -1,5 +1,5 @@
 ---
-role: Postdoctoral Researcher
+role: Assistant Professor
 bio: null
 interests:
   - Wave propagation
@@ -53,7 +53,9 @@ title: Massimo Moccia
 weight: 30
 email: ""
 ---
-**Massimo Moccia** is a Postdoctoral Researcher in the Department of Engineering at the University of Sannio, Benevento, Italy.
+**Massimo Moccia** is an Assistant Professor in the Department of Engineering at the University of Sannio, Benevento, Italy.
+
+Prior to that, he was a Postdoctoral Associate in the same department.
 
 During his study program, he was a Visiting Student with the Polytechnic University of Valencia, Spain, from 2003 to 2004, and the Polytechnic University of Catalonia, Spain, in 2007.
 
