@@ -55,7 +55,7 @@ email: ""
 ---
 **Massimo Moccia** is an Assistant Professor in the Department of Engineering at the University of Sannio, Benevento, Italy.
 
-Prior to that, he was a Postdoctoral Associate in the same department.
+Prior to that, he was a Postdoctoral Researcher in the same department.
 
 During his study program, he was a Visiting Student with the Polytechnic University of Valencia, Spain, from 2003 to 2004, and the Polytechnic University of Catalonia, Spain, in 2007.
 
