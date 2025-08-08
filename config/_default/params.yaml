@@ -101,7 +101,7 @@ features:
     zoom: 15
 reading_time: false
 section_pager: false
-authors: []
+show_author: false
 
 
 # Extensions
