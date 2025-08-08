@@ -1,5 +1,5 @@
 ---
-title: Our paper on direct physical-layer secure communications published in NATCOMM
+title: Paper on direct physical-layer secure communications published in NATCOMM
 date: 2025-07-01
 draft: false
 authors: []

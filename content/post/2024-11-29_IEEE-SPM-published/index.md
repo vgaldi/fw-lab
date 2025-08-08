@@ -1,5 +1,5 @@
 ---
-title: Our paper on ISAC with STAR metasurfaces published in IEEE-SPM
+title: Paper on ISAC with STAR metasurfaces published in IEEE-SPM
 date: 2024-11-29
 draft: false
 authors: []

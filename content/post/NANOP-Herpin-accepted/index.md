@@ -1,5 +1,5 @@
 +++
-title = "Our paper on Herpin equivalence accepted in Nanophotonics"
+title = "Paper on Herpin equivalence accepted in Nanophotonics"
 date = 2022-08-29
 draft = false
 

@@ -1,5 +1,5 @@
 ---
-title: Our paper on leaky waves in flatland published in AdOM
+title: Paper on leaky waves in flatland published in AdOM
 date: 2023-03-30
 draft: false
 authors: []

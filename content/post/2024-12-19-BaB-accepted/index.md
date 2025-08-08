@@ -1,5 +1,5 @@
 +++
-title = "Our paper on SEIRA azide probes accepted in BaB"
+title = "Paper on SEIRA azide probes accepted in BaB"
 date = 2024-12-19
 draft = false
 

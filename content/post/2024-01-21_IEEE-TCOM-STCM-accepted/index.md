@@ -1,5 +1,5 @@
 +++
-title = "Our paper on rapidly time-varying RISs accepted in IEEE-TCOM"
+title = "Paper on rapidly time-varying RISs accepted in IEEE-TCOM"
 date = 2024-01-21
 draft = false
 

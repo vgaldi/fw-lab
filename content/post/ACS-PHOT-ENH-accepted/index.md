@@ -1,5 +1,5 @@
 +++
-title = "Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT"
+title = "Paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT"
 date = 2020-08-06
 draft = false
 

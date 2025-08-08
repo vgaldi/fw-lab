@@ -1,5 +1,5 @@
 +++
-title = "Our paper on DNA detection accepted in FrBB"
+title = "Paper on DNA detection accepted in FrBB"
 date = 2021-04-13
 draft = false
 

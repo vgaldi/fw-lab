@@ -1,5 +1,5 @@
 +++
-title = "Our paper on deterministically disordered metamaterials accepted in OpEx"
+title = "Paper on deterministically disordered metamaterials accepted in OpEx"
 date = 2020-03-17
 draft = false
 

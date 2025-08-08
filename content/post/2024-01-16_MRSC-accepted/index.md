@@ -1,5 +1,5 @@
 ---
-title: Our paper on coupled line waves accepted in MRSC
+title: Paper on coupled line waves accepted in MRSC
 date: 2024-01-16
 draft: false
 authors: []

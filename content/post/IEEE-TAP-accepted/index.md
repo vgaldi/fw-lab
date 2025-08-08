@@ -1,5 +1,5 @@
 ---
-title: Our paper on spectral singularities accepted in IEEE-TAP
+title: Paper on spectral singularities accepted in IEEE-TAP
 date: 2019-07-04
 draft: false
 authors: []

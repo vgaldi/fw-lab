@@ -1,5 +1,5 @@
 +++
-title = "Our paper on perovskite hyperbolic metamaterials published in LPR"
+title = "Paper on perovskite hyperbolic metamaterials published in LPR"
 date = 2024-05-23
 draft = false
 

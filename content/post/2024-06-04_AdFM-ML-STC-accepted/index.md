@@ -1,5 +1,5 @@
 +++
-title = "Our paper on machine-learning-based synthesis of space-time-coding metasurfaces accepted in AdFM"
+title = "Paper on machine-learning-based synthesis of space-time-coding metasurfaces accepted in AdFM"
 date = 2024-06-04
 draft = false
 

@@ -1,5 +1,5 @@
 ---
-title: Our paper on flatland Cherenkov radiation published in LPR
+title: Paper on flatland Cherenkov radiation published in LPR
 date: 2023-11-22
 draft: false
 authors: []

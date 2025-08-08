@@ -1,5 +1,5 @@
 +++
-title = "Our paper on SEIRA-based monitoring of protein A denaturation published in Biosensors"
+title = "Paper on SEIRA-based monitoring of protein A denaturation published in Biosensors"
 date = 2022-07-15
 draft = false
 

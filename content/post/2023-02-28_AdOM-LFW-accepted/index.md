@@ -1,5 +1,5 @@
 +++
-title = "Our paper on leaky waves in flatland accepted in AdOM"
+title = "Paper on leaky waves in flatland accepted in AdOM"
 date = 2023-02-28
 draft = false
 

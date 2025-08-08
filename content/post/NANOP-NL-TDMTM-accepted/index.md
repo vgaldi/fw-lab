@@ -1,5 +1,5 @@
 +++
-title = "Our paper on nonlocal effects in temporal metamaterials accepted in Nanophotonics"
+title = "Paper on nonlocal effects in temporal metamaterials accepted in Nanophotonics"
 date = 2022-02-09
 draft = false
 

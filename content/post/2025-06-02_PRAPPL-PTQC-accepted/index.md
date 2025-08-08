@@ -1,5 +1,5 @@
 +++
-title = "Our paper on photonic time quasicrystals accepted in PRApplied"
+title = "Paper on photonic time quasicrystals accepted in PRApplied"
 date = 2025-06-02
 draft = false
 

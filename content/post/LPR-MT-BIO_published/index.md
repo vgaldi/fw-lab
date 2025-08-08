@@ -1,5 +1,5 @@
 +++
-title = "Our paper on metasurface lab-on-fiber biosensors published in LPR"
+title = "Paper on metasurface lab-on-fiber biosensors published in LPR"
 date = 2020-09-07
 draft = false
 

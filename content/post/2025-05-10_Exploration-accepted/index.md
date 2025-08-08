@@ -1,5 +1,5 @@
 +++
-title = "Our paper on scale-invariant waveguiding in flatland accepted in Exploration"
+title = "Paper on scale-invariant waveguiding in flatland accepted in Exploration"
 date = 2025-05-10
 draft = false
 

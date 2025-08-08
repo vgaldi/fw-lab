@@ -1,5 +1,5 @@
 +++
-title = "Our chapter on non-Hermitian metastructures published in Springer book"
+title = "Chapter on non-Hermitian metastructures published in Springer book"
 date = 2024-04-10
 draft = false
 

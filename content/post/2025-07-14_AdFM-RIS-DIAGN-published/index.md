@@ -1,5 +1,5 @@
 +++
-title = "Our paper on RIS diagnostics via STC modulation published in AdFM"
+title = "Paper on RIS diagnostics via STC modulation published in AdFM"
 date = 2025-07-14
 draft = false
 

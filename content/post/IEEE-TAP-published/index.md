@@ -1,5 +1,5 @@
 ---
-title: Our paper on spectral singularities published in IEEE-TAP
+title: Paper on spectral singularities published in IEEE-TAP
 date: 2019-07-16
 draft: false
 authors: []

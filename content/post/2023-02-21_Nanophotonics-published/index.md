@@ -1,5 +1,5 @@
 +++
-title = "Our paper on spin-controlled photonics via temporal anisotropy published in Nanophotonics"
+title = "Paper on spin-controlled photonics via temporal anisotropy published in Nanophotonics"
 date = 2023-02-21
 draft = false
 

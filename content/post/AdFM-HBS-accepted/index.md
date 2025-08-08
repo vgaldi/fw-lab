@@ -1,5 +1,5 @@
 +++
-title = "Our paper on harmonic beam shaping accepted in AdFM"
+title = "Paper on harmonic beam shaping accepted in AdFM"
 date = 2020-10-16
 draft = false
 

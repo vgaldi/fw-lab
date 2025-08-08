@@ -1,5 +1,5 @@
 +++
-title = "Our paper on RIS modeling published in JII"
+title = "Paper on RIS modeling published in JII"
 date = 2023-06-28
 draft = false
 

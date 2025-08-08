@@ -1,5 +1,5 @@
 ---
-title: Our paper on non-Hermitian particle arrays accepted in OpEx
+title: Paper on non-Hermitian particle arrays accepted in OpEx
 date: 2020-06-04
 draft: false
 authors: []

@@ -1,5 +1,5 @@
 +++
-title = "Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat"
+title = "Paper on nonreciprocal space-time-coding metasurfaces published in AdvMat"
 date = 2019-08-17
 draft = false
 

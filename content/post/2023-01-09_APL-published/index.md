@@ -1,5 +1,5 @@
 +++
-title = "Our paper on multiple short-pulsed metamaterials published in APL"
+title = "Paper on multiple short-pulsed metamaterials published in APL"
 date = 2023-01-09
 draft = false
 

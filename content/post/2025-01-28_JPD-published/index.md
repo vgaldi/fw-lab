@@ -1,5 +1,5 @@
 +++
-title = "Our paper on Mie resonances in dielectric spheres published in JPD"
+title = "Paper on Mie resonances in dielectric spheres published in JPD"
 date = 2025-01-28
 draft = false
 

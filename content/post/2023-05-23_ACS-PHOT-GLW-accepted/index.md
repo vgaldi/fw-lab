@@ -1,5 +1,5 @@
 ---
-title: Our paper on ghost line waves accepted in ACS-PHOT
+title: Paper on ghost line waves accepted in ACS-PHOT
 date: 2023-05-23
 draft: false
 authors: []

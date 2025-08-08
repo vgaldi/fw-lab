@@ -1,5 +1,5 @@
 +++
-title = "Our paper on time-varying metasurfaces  accepted in LPR"
+title = "Paper on time-varying metasurfaces  accepted in LPR"
 date = 2024-07-19
 draft = false
 

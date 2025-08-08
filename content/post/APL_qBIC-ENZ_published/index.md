@@ -1,5 +1,5 @@
 +++
-title = "Our paper on quasi-bound states in the continuum published in APL"
+title = "Paper on quasi-bound states in the continuum published in APL"
 date = 2021-10-27
 draft = false
 

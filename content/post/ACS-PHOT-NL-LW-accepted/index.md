@@ -1,5 +1,5 @@
 ---
-title: Our paper on non-Hermitian line waves accepted in ACS-PHOT
+title: Paper on non-Hermitian line waves accepted in ACS-PHOT
 date: 2020-07-01
 draft: false
 authors: []

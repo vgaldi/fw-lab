@@ -1,5 +1,5 @@
 +++
-title = "Our paper on anisotropic metasurfaces published in AdOM"
+title = "Paper on anisotropic metasurfaces published in AdOM"
 date = 2020-03-29
 draft = false
 

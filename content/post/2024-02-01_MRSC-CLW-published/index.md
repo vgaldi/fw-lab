@@ -1,5 +1,5 @@
 +++
-title = "Our paper on coupled line waves published in MRSC"
+title = "Paper on coupled line waves published in MRSC"
 date = 2024-02-01
 draft = false
 

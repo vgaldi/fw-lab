@@ -1,5 +1,5 @@
 ---
-title: Our paper on ISAC with STC metasurfaces published in NATCOMM
+title: Paper on ISAC with STC metasurfaces published in NATCOMM
 date: 2025-02-21
 draft: false
 authors: []

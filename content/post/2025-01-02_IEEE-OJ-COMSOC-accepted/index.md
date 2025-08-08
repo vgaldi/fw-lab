@@ -1,5 +1,5 @@
 +++
-title = "Our paper on SIMs with reconfigurable amplitude and phase accepted in IEEE-OJ-COMSOC"
+title = "Paper on SIMs with reconfigurable amplitude and phase accepted in IEEE-OJ-COMSOC"
 date = 2025-01-02
 draft = false
 

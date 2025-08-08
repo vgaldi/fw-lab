@@ -1,5 +1,5 @@
 ---
-title: Our paper on meta-tip sensors published in NMNT
+title: Paper on meta-tip sensors published in NMNT
 date: 2019-02-26
 draft: false
 authors: []

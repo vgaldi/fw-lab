@@ -1,5 +1,5 @@
 +++
-title = "Our paper on time-division-multiplexing metasurfaces accepted in AdOM"
+title = "Paper on time-division-multiplexing metasurfaces accepted in AdOM"
 date = 2021-08-17
 draft = false
 

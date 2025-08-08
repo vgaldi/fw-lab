@@ -1,5 +1,5 @@
 +++
-title = "Our paper on non-Hermitian doping published in PNAS"
+title = "Paper on non-Hermitian doping published in PNAS"
 date = 2020-06-09
 draft = false
 

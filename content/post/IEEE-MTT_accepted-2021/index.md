@@ -1,5 +1,5 @@
 ---
-title: Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT
+title: Paper on non-Hermitian metasurfaces accepted in IEEE-TMTT
 date: 2021-01-12
 draft: false
 authors: []

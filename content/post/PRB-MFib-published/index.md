@@ -1,5 +1,5 @@
 +++
-title = "Our paper on quasiperiodically ordered metamaterials published in PRB"
+title = "Paper on quasiperiodically ordered metamaterials published in PRB"
 date = 2020-08-05
 draft = false
 

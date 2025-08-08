@@ -1,5 +1,5 @@
 +++
-title = "Our paper on time-varying dispersive interfaces published in PRL"
+title = "Paper on time-varying dispersive interfaces published in PRL"
 date = 2024-10-30
 draft = false
 

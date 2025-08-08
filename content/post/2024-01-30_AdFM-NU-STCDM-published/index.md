@@ -1,5 +1,5 @@
 +++
-title = "Our paper on non-uniformly modulated space-time-coding metasurfaces published in AdFM"
+title = "Paper on non-uniformly modulated space-time-coding metasurfaces published in AdFM"
 date = 2024-01-30
 draft = false
 

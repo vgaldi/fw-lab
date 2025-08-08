@@ -1,5 +1,5 @@
 ---
-title: Our paper on metasurface-enabled wireless attacks published in NATELECTRON
+title: Paper on metasurface-enabled wireless attacks published in NATELECTRON
 date: 2023-08-07
 draft: false
 authors: []

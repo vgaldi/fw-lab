@@ -1,5 +1,5 @@
 +++
-title = "Our paper on vitamin D detection published in Nanophotonics"
+title = "Paper on vitamin D detection published in Nanophotonics"
 date = 2020-06-30
 draft = false
 

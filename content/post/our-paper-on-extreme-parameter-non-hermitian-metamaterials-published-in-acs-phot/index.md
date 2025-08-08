@@ -1,5 +1,5 @@
 ---
-title: Our paper on extreme-parameter non-Hermitian metamaterials published in
+title: Paper on extreme-parameter non-Hermitian metamaterials published in
   ACS-PHOT
 date: 2020-08-24T13:30:00.000Z
 draft: false

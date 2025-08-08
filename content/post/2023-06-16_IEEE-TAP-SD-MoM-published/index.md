@@ -1,5 +1,5 @@
 ---
-title: Our paper on spectral-domain MoM published in IEEE-TAP
+title: Paper on spectral-domain MoM published in IEEE-TAP
 date: 2023-06-16
 draft: false
 authors: []
