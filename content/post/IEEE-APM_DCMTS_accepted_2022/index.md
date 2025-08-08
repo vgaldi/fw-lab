@@ -1,5 +1,5 @@
 ---
-title: Our review paper on digital coding metasurfaces accepted in IEEE-APM
+title: Review paper on digital coding metasurfaces accepted in IEEE-APM
 date: 2022-03-19
 draft: false
 authors: []

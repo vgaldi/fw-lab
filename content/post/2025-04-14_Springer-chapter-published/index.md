@@ -1,5 +1,5 @@
 +++
-title = "Our chapter on line-wave electromagnetics published in Springer book"
+title = "Chapter on line-wave electromagnetics published in Springer book"
 date = 2025-04-14
 draft = false
 

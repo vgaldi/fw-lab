@@ -1,5 +1,5 @@
 ---
-title: Our review paper on digital coding metasurfaces published in IEEE-APM
+title: Review paper on digital coding metasurfaces published in IEEE-APM
 date: 2022-06-01T13:12:31.820Z
 draft: false
 featured: false

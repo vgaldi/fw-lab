@@ -1,5 +1,5 @@
 +++
-title = "Our invited review paper on space-time doding metasurfaces published in EPJ-AM"
+title = "Invited review paper on space-time doding metasurfaces published in EPJ-AM"
 date = 2020-12-11
 draft = false
 
