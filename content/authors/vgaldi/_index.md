@@ -49,7 +49,7 @@ education:
     - course: Laurea in Electrical Engineering
       institution: University of Salerno, Italy
       year: 1995
-superuser: true
+superuser: false
 user_groups:
   - Researchers
 highlight_name: false
