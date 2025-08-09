@@ -1,5 +1,5 @@
 +++
-title = "Research highlight on on wireless detection of hazardous liquids via STC metasurfaces published in NSR"
+title = "Research highlight on wireless detection of hazardous liquids via STC metasurfaces published in NSR"
 date = 2025-08-06
 draft = false
 
