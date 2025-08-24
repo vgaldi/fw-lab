@@ -21,9 +21,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:vgaldi@unisannio.it
-    icon = "wikipedia-w"
-    icon_pack = "fab"
-    link = https://en.wikipedia.org/wiki/Vincenzo_Galdi_(academic)
+    icon: wikipedia-w
+    icon_pack: fab
+    link: https://en.wikipedia.org/wiki/Vincenzo_Galdi_(academic)
   - icon: orcid
     icon_pack: ai
     link: http://orcid.org/0000-0002-4796-3600
