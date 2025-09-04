@@ -47,4 +47,4 @@ and five contributed talks on
 
 at the *19th International Congress on Engineered Material Platforms for Novel Wave Phenomena* ([Metamaterials]), Amsterdam, The Netherlands, Sep. 1-4, 2025.
 
-[Metamaterials]: https://congress2025.metamorphose-vi.org
+[Metamaterials]: https://congress.metamorphose-vi.org
