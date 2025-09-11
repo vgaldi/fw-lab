@@ -1,6 +1,6 @@
 +++
 title = "Poster at EUSIPCO25"
-date = 2025-06-17
+date = 2025-09-11
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
