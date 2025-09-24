@@ -38,6 +38,8 @@ Overall, temporal metastructures promise a great potential for efficient, tunabl
 - Profs. [Mirko Barbuto], [Stefano Vellucci], Niccolò Cusano University, Italy
 - Prof. [Maria Antonietta Vincenti], University of Brescia, Italy
 - Dr. [Michael Scalora], U.S. Army CCDC, USA
+- Prof. [Marcello Ferrera], Heriot-Watt University, UK
+- Dr. [Alessandro Stroppa], CNR-SPIN, Italy
 
 
 [Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it
@@ -63,4 +65,11 @@ Overall, temporal metastructures promise a great potential for efficient, tunabl
 [Maria Antonietta Vincenti]: https://maria-antonietta-vincenti.unibs.it
 
 [Michael Scalora]: https://scholar.google.com/citations?user=3jGk_jQAAAAJ&hl=en
+
+[Marcello Ferrera]: https://researchportal.hw.ac.uk/en/persons/marcello-ferrera
+
+[Alessandro Stroppa]: http://www.alessandrostroppa.com
+
+
+
 
