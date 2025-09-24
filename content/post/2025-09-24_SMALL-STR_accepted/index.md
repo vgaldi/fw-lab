@@ -1,5 +1,5 @@
 +++
-title = "Paper on phase conjugation at time-varying dispersive interfaces accepted in SMALL-STR"
+title = "Paper on  optical spin effects at time-varying dispersive interfaces accepted in SMALL-STR"
 date = 2025-09-24
 draft = false
 
