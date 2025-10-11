@@ -9,4 +9,4 @@ image:
   caption: ""
   focal_point: Center
 ---
-Prof. [Vincenzo Galdi](/author/vincenzo-galdi) been elected an *[Optica Fellow](https://www.optica.org/en-us/about/newsroom/news_releases/2021/optica_announces_its_2022_fellows_class/)* for "*outstanding and sustained contributions to modeling wave interaction with artificially engineered materials, including nonlocal, non-Hermitian, multiphysics, and time-varying scenarios*".
+Prof. [Vincenzo Galdi](/author/vincenzo-galdi) has been elected an *[Optica Fellow](https://www.optica.org/en-us/about/newsroom/news_releases/2021/optica_announces_its_2022_fellows_class/)* for "*outstanding and sustained contributions to modeling wave interaction with artificially engineered materials, including nonlocal, non-Hermitian, multiphysics, and time-varying scenarios*".
