@@ -33,4 +33,4 @@ We have presented a talk on ["Wave engineering and processing via temporal metam
 at the *[Workshop on Metamaterials: Origins, Present, and Frontiers]*,
 Philadelphia, PA, USA, Oct. 9--10, 2025.
 
-[33rd European Signal Processing Conference (EUSIPCO)]: https://eusipco2025.org
+[Workshop on Metamaterials: Origins, Present, and Frontiers]: https://www.ese.upenn.edu/ese-events/workshop-on-metamaterials-origins-present-and-frontiers-celebrating-nader-enghetas-70th-birthday/
