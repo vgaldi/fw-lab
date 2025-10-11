@@ -68,7 +68,7 @@ He is currently serving as an Associate Editor of *[Optics Express](https://www.
 as an AdCom member ([IEEE AP-S](https://ieeeaps.org) representative) in the [IEEE Nanotechnology Council](https://ieeenano.org),
 and as a regular reviewer for many journals, conferences and funding agencies. He has served as a Track Editor (2016-20), Senior Associate Editor (2015-16), and Associate Editor (2013-14) of the *[IEEE Transactions on Antennas and Propagation](https://ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagation/ieee-tap-home)*.
 
-Dr. Galdi is a *Fellow* of the [IEEE](http://www.ieee.org) and of [Optica](https://www.optica.org/en-us/home/), a senior member of the [LIGO Scientific Collaboration](https://www.ligo.org), and a member of the [American Physical Society](https://www.aps.org/index.cfm). He is also the recipient of an *Outstanding Associate Editor Award* (*IEEE Transactions on Antennas and Propagation*, 2014) and a *URSI Young Scientist Award* (2001).
+Dr. Galdi is a *Fellow* of the [IEEE](http://www.ieee.org), of [Optica](https://www.optica.org/en-us/home/), and of the [American Physical Society](https://www.aps.org/index.cfm), and a senior member of the [LIGO Scientific Collaboration](https://www.ligo.org). He is also the recipient of an *Outstanding Associate Editor Award* (*IEEE Transactions on Antennas and Propagation*, 2014) and a *URSI Young Scientist Award* (2001).
 
 He is the co-founder of the spinoff company [MANTID](/spinoff/mantid) srl, and the startup company [BioTag](/spinoff/biotag) srl.
 
