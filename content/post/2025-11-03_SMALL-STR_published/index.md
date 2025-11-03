@@ -30,7 +30,7 @@ categories = []
   focal_point = "Right"
 +++
 
-Our paper on ["Optical spin effects induced by phase conjugation at a space-time interface,"](/publication/ij-196-SMALL-STR-2025)
+Our paper on ["Optical spin effects induced by phase conjugation at a space-time interface,"](/publication/ij-196-small-struct-2025)
 in collaboration with [Carlo Rizza]'s group  (University of l'Aquila), [Maria Antonietta Vincenti] (University of Brescia),  [Michael Scalora] (U.S. Army CCDC), [Marcello Ferrera] (Heriot-Watt University), and [Alessandro Stroppa] (CNR-SPIN)
 has been published in *Small Structures*.
 
