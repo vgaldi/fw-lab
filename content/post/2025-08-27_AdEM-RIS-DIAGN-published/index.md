@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["Non-uniform space-time-coding modulation for low-complexity diagnostics of reconfigurable intelligent surfaces,"](/publication/ij-193-AEM-2025)
+Our paper on ["Non-uniform space-time-coding modulation for low-complexity diagnostics of reconfigurable intelligent surfaces,"](/publication/ij-196-small-struct-2025)
 in collaboration with [Tie Jun Cui]'s Group (Southeast University),
 has been published in *Advanced Electronic Materials*. 
 
