@@ -1,0 +1,11 @@
+---
+title: "Joint control of radiated and surface waves via space-time coding metasurfaces"
+date: 2025-11-14
+authors: ["Z. Dai", "Y. N. Zheng", "L. Zhang", "X. Q. Chen", "G. Castaldi", "T. J. Cui", "V. Galdi"]
+publication_types: ['article-journal']
+abstract: "Digitally programmable metasurfaces, also known as reconfigurable intelligent surfaces (RISs), are emerging as key enablers of smart radio environments by offering dynamic control over electromagnetic wave propagation. Space‐time coding metasurfaces, in particular, allow simultaneous manipulation of spatial and spectral wave characteristics, enabling functionalities such as beam shaping, harmonic control, and multiplexing. However, their application has largely been limited to radiated (free‐space) waves. Here, a unified space‐time coding metasurface platform capable of jointly manipulating radiated and surface‐confined waves is introduced. By engineering optimized coding sequences, independent and simultaneous control of both wave types across multiple harmonic frequencies is demonstrated. Simulations illustrate multi‐frequency beam steering and shaping, surface‐wave excitation, and hybrid space–surface multiplexing for multi‐user communication. Experimental validation on a microwave (X‐band) prototype confirms key functionalities, including space‐to‐surface wave conversion and frequency‐selective beam control. This work extends the capabilities of programmable metasurfaces beyond free‐space control, establishing a hybrid framework for versatile wave manipulation. The proposed approach opens new pathways for energy‐efficient, adaptive communication systems based on surface‐wave‐enabled RIS architectures, with potential applications in dense wireless networks, integrated access and backhaul, and next‐generation 6G technologies."
+featured: false
+publication: "*Advanced Functional Materials*, **early view**, e19200"
+doi: 10.1002/adfm.202519200
+projects: ['STEM', 'STREET']
+---
