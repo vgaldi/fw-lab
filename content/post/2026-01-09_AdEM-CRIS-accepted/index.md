@@ -33,7 +33,7 @@ categories = []
 Our paper on "Conformal reconfigurable intelligent surfaces: A cylindrical geometry perspective,"
 in collaboration with [Marco Di Renzo] (Paris-Saclay University / CNRS) and [Ivan Iudice] (Italian Aerospace Research Centre), has been accepted for publication in [*Advanced Electronic Materials*](https://advanced.onlinelibrary.wiley.com/journal/2199160X). 
 
-An [arXiv preprint](https://arxiv.org/abs/2601.00734) is available.
+An [arXiv preprint](https://arxiv.org/abs/2601.00734p) is available.
 
 [Marco Di Renzo]: https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en
 [Ivan Iudice]: https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it
