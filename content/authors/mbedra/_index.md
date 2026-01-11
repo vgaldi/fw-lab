@@ -49,4 +49,4 @@ He received his B.E. and  M.E. degrees in Telecommunications Systems from the Un
 
 His research focuses on microstrip antennas and their applications, particularly metamaterials effect and complex-structure resonances. He co-authored three international publications in 2024.
 
-During October-November 2024, he visited the Fields & Waves Lab for a research internship.
+During October-November 2024 and November-December 2025, he visited the Fields & Waves Lab for a research internship.
