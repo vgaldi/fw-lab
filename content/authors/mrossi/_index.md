@@ -67,4 +67,6 @@ user_groups:
 
 **Marco Rossi** is a Ph.D. Candidate in Information Technologies for Engineering at the University of Sannio, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
 
-His research is focused on electromagnetically consistent models of smart radio environments for 6G wireless communications networks.
+His research is focused on electromagnetically consistent models of smart radio environments for 6G wireless communications networks,
+and on applications of space-time-coding modulation to the synthesis and diagnostics of digital metasurfaces.
+
