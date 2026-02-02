@@ -1,5 +1,5 @@
 +++
-title = "Two talks at TeraDays 2025 2025"
+title = "Two talks at TeraDays 2026"
 date = 2026-01-30
 draft = false
 
