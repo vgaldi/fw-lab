@@ -1,6 +1,6 @@
 +++
 title = "Two talks at TeraDays 2025 2025"
-date = 2025-07-17
+date = 2026-01-30
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
