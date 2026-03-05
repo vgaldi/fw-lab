@@ -65,7 +65,8 @@ user_groups:
 
 **Jiawei Chen** is a Ph.D. student in Electrical Engineering at Southwest Jiaotong University, China. 
 
-His research focuses on applications of metasurfaces and metamaterials in advanced thermal management and electromagnetic energy harvesting. He has authored or co-authored over 10 international publications, including first-authored papers in journals such as *International Communications in Heat and Mass Transfer* and *Journal of Electronic Packaging*. He has also actively participated in several key research projects funded by national and industrial sponsors, contributing to the development of novel heat exchange modules and electromagnetic field sensing technologies.
+His research focuses on thermal metamaterials, topology optimization, and reconfigurable metamaterials for advanced thermal management and electromagnetic applications. 
+He has authored or co-authored over 10 international publications, including first-authored papers in journals such as *International Communications in Heat and Mass Transfer* and *Journal of Electronic Packaging*. He has also actively participated in several key research projects funded by national and industrial sponsors, contributing to the development of novel heat exchange modules and electromagnetic field sensing technologies.
 
-In March 2026, he joined the Fields \& Waves Lab as a visiting Ph.D. student supported by the China Scholarship Council. 
+In March 2026, he joined the Fields \& Waves Lab as a visiting Ph.D. student supported by the China Scholarship Council. He is currently working on applications of metasurfaces and metamaterials in advanced thermal management and electromagnetic energy harvesting.
 
