@@ -25,7 +25,7 @@ bio:
 interests:
   - Slow-wave structures
   - High-power amplifiers
-  - Metamateriald and metasurfaces
+  - Metamaterials and metasurfaces
 
 education:
   courses:
