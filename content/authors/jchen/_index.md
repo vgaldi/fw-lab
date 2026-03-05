@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-   - course: B.E. in Electrical Engineering and Automation
+  - course: B.E. in Electrical Engineering and Automation
     institution: Inner Mongolia Agricultural University
     year: 2021
 
