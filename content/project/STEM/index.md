@@ -31,7 +31,7 @@ Within the overarching framework of
 - Prof. [Marco Di Renzo], Paris-Saclay University / CNRS, France
 
 [Francesco Verde]: https://www.mlsptlab-unicampania.it/people/faculty/francesco-verde.html
-[Donatella Darsena]: https://www.docenti.unina.it/#!/professor/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/curriculum
+[Donatella Darsena]: https://www.docenti.unina.it/teacher/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/profile/cv
 [Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en
 [Lei Zhang]: https://scholar.google.com/citations?user=3wWb8agAAAAJ&hl=zh-CN
 [Marco Di Renzo]: https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en

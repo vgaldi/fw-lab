@@ -37,5 +37,5 @@ has been accepted for publication in the [*IEEE Transactions on Communications*]
 An [arXiv preprint](https://arxiv.org/abs/2510.23440) is available.
 
 [Francesco Verde]: https://www.mlsptlab-unicampania.it/people/faculty/francesco-verde.html
-[Donatella Darsena]: https://www.docenti.unina.it/#!/professor/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/curriculum
+[Donatella Darsena]: https://www.docenti.unina.it/teacher/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/profile/cv
 [Ivan Iudice]: https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it
