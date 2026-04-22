@@ -1,6 +1,6 @@
 +++
 title = "Paper on inverse design of temporal metamaterials accepted in PRL"
-date = 2026-04-11
+date = 2026-04-21
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
