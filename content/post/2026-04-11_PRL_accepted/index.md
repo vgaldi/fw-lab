@@ -1,6 +1,6 @@
 +++
-title = "Paper on time-varying dispersive interfaces accepted in PRL"
-date = 2024-10-01
+title = "Paper on inverse design of temporal metamaterials accepted in PRL"
+date = 2026-04-11
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -30,13 +30,10 @@ categories = []
   focal_point = "Right"
 +++
 
-Our paper on "Harnessing the natural resonances of time-varying dispersive interfaces,"
-in collaboration with [Carlo Rizza]'s group  (University of l'Aquila), [Maria Antonietta Vincenti] (University of Brescia), and [Michael Scalora] (U.S. Army CCDC),
+Our paper on "Analytic inverse design of temporal metamaterials via space-time duality,"
+in collaboration with [Carlo Rizza] (University of l'Aquila) and [Nader Engheta] (University of Pennsylvania),
 has been accepted for publication in [*Physical Review Letters*](https://journals.aps.org/prl/).
 
-An [arXiv preprint](https://arxiv.org/abs/2409.01831) is available.
 
 [Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it
-[Maria Antonietta Vincenti]: https://maria-antonietta-vincenti.unibs.it
-[Michael Scalora]: https://scholar.google.com/citations?user=3jGk_jQAAAAJ&hl=en
-
+[Nader Engheta]: https://engheta.seas.upenn.edu
