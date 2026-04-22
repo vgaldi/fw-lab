@@ -1,6 +1,6 @@
 +++
 title = "Recent trends and perspectives on space-time coding digital metasurfaces"
-date = 2025-04-22
+date = 2026-04-22
 authors = ["V. Galdi"]
 publication_types = ['paper-conference']
 abstract = ""
