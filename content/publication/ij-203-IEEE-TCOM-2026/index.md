@@ -1,5 +1,5 @@
 ---
-title: "Randomized space-time coded stacked intelligent metasurfaces for massive multiuser downlink connectivity"
+title: "Randomized space-time stacked intelligent metasurfaces for massive multiuser downlink connectivity"
 date: 2026-04-22
 authors: ["D. Darsena", "I. Iudice", "V. Galdi", "F. Verde"]
 publication_types: ['article-journal']

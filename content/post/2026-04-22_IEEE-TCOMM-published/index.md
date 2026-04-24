@@ -1,6 +1,6 @@
 +++
-title = "Paper on SIMs with reconfigurable amplitude and phase published in IEEE-OJ-COMSOC"
-date = 2025-01-05
+title = "Paper on randomized space-time SIMs published in IEEE-TCOM"
+date = 2026-04-22
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -30,9 +30,9 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["Design of stacked intelligent metasurfaces with reconfigurable amplitude and phase for multiuser downlink beamforming,"](/publication/ij-183-ieee-oj-comsoc-2025/)
-in collaboration with [Donatella Darsena], [Francesco Verde] (University of Naples "Federico II"), and [Ivan Iudice] (Italian Aerospace Research Centre),
-has been published in the *IEEE Open Journal of the Communications Society*. 
+Our paper on ["Randomized space-time stacked intelligent metasurfaces for massive multiuser downlink connectivity,"](/publication/ij-203-IEEE-TCOM-2026/)
+in collaboration with [Donatella Darsena] (University of Naples "Federico II"), [Ivan Iudice] (Italian Aerospace Research Centre), and [Francesco Verde] (University of Campania "Luigi Vanvitelli"),
+has been published in the *IEEE Transactions on Communications*. 
 
 
 [Francesco Verde]: https://www.docenti.unina.it/#!/professor/4652414e434553434f5645524445565244464e4337344831324932333441/riferimenti
