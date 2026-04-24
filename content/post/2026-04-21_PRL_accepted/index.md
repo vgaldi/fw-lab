@@ -34,6 +34,7 @@ Our paper on "Analytic inverse design of temporal metamaterials via space-time d
 in collaboration with [Carlo Rizza] (University of l'Aquila) and [Nader Engheta] (University of Pennsylvania),
 has been accepted for publication in [*Physical Review Letters*](https://journals.aps.org/prl/).
 
+An [arXiv preprint](https://arxiv.org/abs/2604.21383) is available.
 
 [Carlo Rizza]: https://scholar.google.it/citations?user=kmPd1kYAAAAJ&hl=it
 [Nader Engheta]: https://engheta.seas.upenn.edu
