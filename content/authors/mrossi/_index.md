@@ -13,11 +13,7 @@ role: Former Ph.D. Student (now Electromagnetics Consultant at TMC Italia)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Sannio
-    url: 'https://www.unisannio.it/en'
-  - name: Department of Engineering
-    url: 'https://www.ding.unisannio.it'
-
+  
 # Short bio (displayed in user profile at end of posts)
 bio:
 
@@ -27,7 +23,6 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marco-rossi-04633a364/
