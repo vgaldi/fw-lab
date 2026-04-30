@@ -5,7 +5,7 @@ title: Marco Rossi
 # Is this the primary user of the site?
 superuser: false
 
-weight: 60
+weight: 35
 
 
 # Role/position
