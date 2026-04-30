@@ -9,7 +9,7 @@ weight: 60
 
 
 # Role/position
-role: Ph.D. Candidate
+role: Former Ph.D. Student (now Electromagnetics Consultant at TMC Italia)
 
 # Organizations/Affiliations
 organizations:
@@ -21,19 +21,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-  - Space-time-coding metasurfaces
-  - Smart radio environments
-
-
-education:
-  courses:
-  - course: M.E. in Electronics Engineering for Automation and Telecommunications
-    institution: University of Sannio, Italy
-    year: 2022
-  - course: B.E. in Electronics Engineering for Automation and Telecommunications
-    institution: University of Sannio, Italy
-    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,8 +28,6 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: 'mailto:m.rossi8@studenti.unisannio.it'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marco-rossi-04633a364/
@@ -62,11 +47,17 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Alumni
 ---
 
-**Marco Rossi** is a Ph.D. Candidate in Information Technologies for Engineering at the University of Sannio, under the supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi).
+**Marco Rossi** was born in Benevento, Italu, on April 17, 1998.
 
-His research is focused on electromagnetically consistent models of smart radio environments for 6G wireless communications networks,
-and on applications of space-time-coding modulation to the synthesis and diagnostics of digital metasurfaces.
+He received a B.E. in Electronics Engineering for Automation and Telecommunications and an M.E. in Electronics Engineering for Automation and Telecommunications, both from the [University of Sannio](http://www.unisannio.it/en), Benevento, Italy, in 2020 and 2022, respectively.
+In 2026, he received a Ph.D. degree in Information Technologies for Engineering from the
+University of Sannio,
+defending a thesis on the design and diagnostics of space-time coding metasurfaces,
+supervised by Profs. [Giuseppe Castaldi](/author/giuseppe-castaldi)
+and [Vincenzo Galdi](/author/vincenzo-galdi).
+
+He is currently working as an electromagnetics consultant at [TMC Italia](https://www.themembercompany.com/).
 

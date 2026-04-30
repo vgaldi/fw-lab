@@ -49,7 +49,7 @@ He received a M.S. degree in Mechanical Engineering from the [California State U
 During his undergraduate studies, he was a visiting student at [Tsukuba University](http://www.tsukuba.ac.jp/en/),
 Japan (2010-2011)
 and [Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html) (2012-2013).
-In 2020, he received the Ph.D. degree in Information Technologies for Engineering​ at the
+In 2020, he received a Ph.D. degree in Information Technologies for Engineering​ at the
 [University of Sannio](http://www.unisannio.it/en), Benevento, Italy,
 defending a thesis on positional tracking systems for artificial
 reality applications,
