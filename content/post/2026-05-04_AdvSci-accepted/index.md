@@ -11,7 +11,7 @@ image:
 ---
 Our paper on "Metasurface-enabled active-like passive radar,"
 in collaboration with [Lianlin Li]'s Group (Peking University) and
-[Tie Jun Cui]'s Group (Southeast University),
+[Tie Jun Cui] (Southeast University),
 has been accepted for publication in [*Advanced Science*](https://advanced.onlinelibrary.wiley.com/journal/21983844).
 
 An [arXiv preprint](https://arxiv.org/abs/2512.08208) is available.
