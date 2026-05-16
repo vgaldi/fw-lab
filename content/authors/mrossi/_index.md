@@ -45,7 +45,7 @@ user_groups:
   - Alumni
 ---
 
-**Marco Rossi** was born in Benevento, Italu, on April 17, 1998.
+**Marco Rossi** was born in Benevento, Italy, on April 17, 1998.
 
 He received a B.E. in Electronics Engineering for Automation and Telecommunications and an M.E. in Electronics Engineering for Automation and Telecommunications, both from the [University of Sannio](http://www.unisannio.it/en), Benevento, Italy, in 2020 and 2022, respectively.
 In 2026, he received a Ph.D. degree in Information Technologies for Engineering from the
