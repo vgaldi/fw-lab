@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on "Analytic inverse design of temporal metamaterials via space-time duality,"(/publication/ij-206-prl-2026)
+Our paper on ["Analytic inverse design of temporal metamaterials via space-time duality,"](/publication/ij-206-prl-2026)
 in collaboration with [Carlo Rizza] (University of l'Aquila) and [Nader Engheta] (University of Pennsylvania),
 has been published in *Physical Review Letters*.
 
