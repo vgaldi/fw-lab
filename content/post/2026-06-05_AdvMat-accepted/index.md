@@ -1,5 +1,5 @@
 +++
-title = "Paper on conformal space-time-coding metasurfaces accepted in AdvMat"
+title = "Paper on space-time-coding conformal metasurfaces accepted in AdvMat"
 date = 2026-06-05
 draft = false
 
@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ","
+Our paper on "Space-time coding conformal metasurfaces for multifrequency beam steering and shaping,"
 in collaboration with [Tie Jun Cui]'s Group (Southeast University), [Marco Di Renzo] (CNRS/CentraleSupélec and King's College London), and [Ivan Iudice] (Italian Aerospace Research Centre)
 has been accepted for publication in [*Advanced Materials*](https://onlinelibrary.wiley.com/journal/15214095). 
 
