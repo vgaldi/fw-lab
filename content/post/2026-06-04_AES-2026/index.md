@@ -1,5 +1,5 @@
 +++
-title = "Invited talk at AES 2025"
+title = "Invited talk at AES 2026"
 date = 2026-06-04
 draft = false
 
@@ -35,4 +35,4 @@ at the *12th International Conference on Antennas and Electromagnetic Systems* (
 Catania, Italy, June 3--6, 2026.
 
 
-[META]: https://aesconference.org/AES26/index.php/AES/index
+[AES]: https://aesconference.org/AES26/index.php/AES/index
