@@ -1,5 +1,5 @@
 +++
-title = "Poster at EUSIPCO25"
+title = "Poster at EUSIPCO 2025"
 date = 2025-09-11
 draft = false
 
