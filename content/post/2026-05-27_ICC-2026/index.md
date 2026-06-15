@@ -30,6 +30,6 @@ categories = []
   focal_point = "Center"
 +++
 We have presented a talk on ["Opportunistic beamforming with space-time stacked intelligent metasurfaces under partial CSI"](/publication/verde-ICC-2026/) at the
-[IEEE International Conference on Communications (ICC)], Glasgow, Scotland, U.K., May 24-28, 2026.
+*IEEE International Conference on Communications* ([ICC]), Glasgow, Scotland, U.K., May 24-28, 2026.
 
-[IEEE International Conference on Communications (ICC)]: https://icc2026.ieee-icc.org
+[ICC]: https://icc2026.ieee-icc.org

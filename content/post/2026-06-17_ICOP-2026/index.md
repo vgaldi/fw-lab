@@ -1,6 +1,6 @@
 +++
-title = "Poster at EUSIPCO25"
-date = 2025-09-11
+title = "Two talks at ICOP 2026"
+date = 2026-06-17
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -29,8 +29,12 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-We have presented a poster on ["Integrating sensing and communications: Simultaneously transmitting and reflecting digital coding metasurfaces"](/publication/verde-eusipco-2025/)
-at the *33rd European Signal Processing Conference* ([EUSIPCO]),
-Palermo, Italy, Sep. 8--12, 2025.
+We have presented two talks on:
 
-[EUSIPCO]: https://eusipco2025.org
+* ["Optical magnetism through Mie scattering theory"](/publication/contestabile-icop-2026/)
+
+* ["Theory of dispersive space-time interfaces"](/publication/rizza-icop-2026/)
+
+at the *Italian Conference on Optics and Photonics ([ICOP]) L'Aquila, Italy, June 15--17, 2026.
+
+[ICOP]: https://www.icop2026.it

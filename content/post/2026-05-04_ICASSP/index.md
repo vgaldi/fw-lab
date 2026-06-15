@@ -30,6 +30,6 @@ categories = []
   focal_point = "Center"
 +++
 We have presented a talk on ["Optimal transmit field distribution for partially obstructed continuous radiating surfaces in near-field communication systems"](/publication/verde-ICASSP-2026/) at the
-[IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)], Barcelona, Spain, May 4-8, 2026.
+*IEEE International Conference on Acoustics, Speech and Signal Processing* ([ICASSP]), Barcelona, Spain, May 4-8, 2026.
 
-[IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)]: https://2026.ieeeicassp.org
+[ICASSP]: https://2026.ieeeicassp.org
