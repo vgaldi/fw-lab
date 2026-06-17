@@ -35,6 +35,6 @@ We have presented two talks on:
 
 * ["Theory of dispersive space-time interfaces"](/publication/rizza-icop-2026/)
 
-at the *Italian Conference on Optics and Photonics ([ICOP]) L'Aquila, Italy, June 15--17, 2026.
+at the *Italian Conference on Optics and Photonics ([ICOP]), L'Aquila, Italy, June 15--17, 2026.
 
 [ICOP]: https://www.icop2026.it
