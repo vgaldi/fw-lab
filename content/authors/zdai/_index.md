@@ -38,10 +38,10 @@ user_groups:
   - Alumni
 ---
 
-**Zihao Dai** is a Ph.D. candidate in Electronic Science and Technology at the University of Electronic Science and Technology of China.
+**Zihao Dai** is a Ph.D. candidate in Electronic Science and Technology at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn).
 
-He received his B.E. in Electronic Information Science and Technology in 2019 and his M.E. in Electronic Science and Technology in 2022, both from the University of Electronic Science and Technology of China.
+He received his B.E. in Electronic Information Science and Technology in 2019 and his M.E. in Electronic Science and Technology in 2022, both from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn).
 
 His research interests include slow-wave structures and high-power amplifiers. He has co-authored six international publications and is a co-inventor on two patents.
 
-From November 2024 to June 2026, he was a visiting researcher at the Fields & Waves Lab, supported by the China Scholarship Council, where he worked on the application of metasurfaces and metamaterials to ultra-wideband communication systems.
+From November 2024 to June 2026, he was a visiting researcher at the Fields \& Waves Lab, supported by the [China Scholarship Council](https://www.chinesescholarshipcouncil.com), where he worked on the application of metasurfaces and metamaterials to ultra-wideband communication systems.
