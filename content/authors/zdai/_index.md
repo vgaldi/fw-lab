@@ -5,19 +5,10 @@ title: Zihao Dai
 # Is this the primary user of the site?
 superuser: false
 
-weight: 75
+weight: 30
 
 # Role/position
 role: Former visiting Ph.D. Student (now Ph.D. Candidate at University of Electronic Science and Technology of China)
-
-# Organizations/Affiliations
-organizations:
-  - name: University of Electronic Science and Technology of China
-    url: 'https://en.uestc.edu.cn'
-  - name: University of Sannio
-    url: 'https://www.unisannio.it/en'
-  - name: Department of Engineering
-    url: 'https://www.ding.unisannio.it'
  
 
 # Social/Academic Networking
