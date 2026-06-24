@@ -5,10 +5,10 @@ title: Zihao Dai
 # Is this the primary user of the site?
 superuser: false
 
-weight: 90
+weight: 75
 
 # Role/position
-role: Visiting Ph.D. Student
+role: Former visiting Ph.D. Student (now Ph.D. Candidate at University of Electronic Science and Technology of China)
 
 # Organizations/Affiliations
 organizations:
@@ -19,22 +19,6 @@ organizations:
   - name: Department of Engineering
     url: 'https://www.ding.unisannio.it'
  
-# Short bio (displayed in user profile at end of posts)
-bio:
-
-interests:
-  - Slow-wave structures
-  - High-power amplifiers
-  - Metamaterials and metasurfaces
-
-education:
-  courses:
-  - course: M.E. in Electronic Science and Technology
-    institution: University of Electronic Science and Technology of China
-    year: 2022
-  - course: B.E. in Electronic Information Science and Technology 
-    institution: University of Electronic Science and Technology of China
-    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,13 +44,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Alumni
 ---
 
-**Zihao Dai** is a Ph.D. Student in Electronic Science and Technology at the University of Electronic Science and Technology of China.
+**Zihao Dai** is a Ph.D. candidate in Electronic Science and Technology at the University of Electronic Science and Technology of China.
 
-His research focuses on slow-wave structures and high-power amplifiers. He is the co-author of four international publications, and the co-inventor of two patents.
+He received his B.E. in Electronic Information Science and Technology in 2019 and his M.E. in Electronic Science and Technology in 2022, both from the University of Electronic Science and Technology of China.
 
-In November 2024, he joined the Fields \& Waves Lab as a visiting Ph.D. Student supported by the China Scholarship Council. He is currently working on  applications of
-metasurfaces and metamaterials in ultra-wideband communication systems.
+His research interests include slow-wave structures and high-power amplifiers. He has co-authored six international publications and is a co-inventor on two patents.
 
+From November 2024 to June 2026, he was a visiting researcher at the Fields & Waves Lab, supported by the China Scholarship Council, where he worked on the application of metasurfaces and metamaterials to ultra-wideband communication systems.
