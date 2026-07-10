@@ -64,7 +64,7 @@ He has held several research-associate and visiting positions at abroad research
 
 He has co-edited two books, co-authored over 350 papers in peer-reviewed international journals and conferences, and is the co-inventor of thirteen patents.
 
-He is currently serving as an Associate Editor of [*Reviews of Optoelectronics*](https://www.oejournal.org/roe/en/) and
+He is currently serving as an Associate Editor of [*Reviews of Optoelectronics*](https://www.oejournal.org/roe/en/),
 as an AdCom member ([IEEE AP-S](https://ieeeaps.org) representative) in the [IEEE Nanotechnology Council](https://ieeenano.org),
 and as a regular reviewer for many journals, conferences and funding agencies. He has served as an Associate Editor of [*Optics Express*](https://www.osapublishing.org/oe/home.cfm),  and as a Track Editor (2016-20), Senior Associate Editor (2015-16), and Associate Editor (2013-14) of the *[IEEE Transactions on Antennas and Propagation](https://ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagation/ieee-tap-home)*.
 
