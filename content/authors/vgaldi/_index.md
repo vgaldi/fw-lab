@@ -54,7 +54,7 @@ education:
       year: 1995
 superuser: false
 user_groups:
-  - Researchers
+  - Faculty and Research Staff
 highlight_name: false
 weight: 10
 email: ""
