@@ -31,4 +31,4 @@ categories = []
 +++
 We have presented a poster on
  ["Tailoring sub-THz beams by liquid crystal assisted reconfigurable intelligent surfaces"](/publication/yaseen-Erice-2026/)
-at the [*International Workshop “Quantum THz Nanomaterials and Devices: Science, Technology and Applications*](https://qtnd2026.nano.cnr.it), Erice (TP), Italy, July 5--11, 2026.
+at the [*International Workshop on Quantum THz Nanomaterials and Devices: Science, Technology and Applications*](https://qtnd2026.nano.cnr.it), Erice (TP), Italy, July 5--11, 2026.
