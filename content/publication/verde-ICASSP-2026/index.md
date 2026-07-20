@@ -6,4 +6,5 @@ publication_types: ['paper-conference']
 abstract: ""
 featured: false
 publication: "*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*"
+doi: "10.1109/ICASSP55912.2026.11463804"
 ---

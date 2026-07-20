@@ -6,4 +6,5 @@ publication_types: ['paper-conference']
 abstract: ""
 featured: false
 publication: "*IEEE Aerospace Conference*"
+doi: "10.1109/AERO66936.2026.11519985"
 ---

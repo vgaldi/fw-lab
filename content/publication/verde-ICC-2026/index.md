@@ -6,4 +6,5 @@ publication_types: ['paper-conference']
 abstract: ""
 featured: false
 publication: "*IEEE International Conference on Communications (ICC)*"
+doi: "10.1109/ICC59461.2026.11587089"
 ---
