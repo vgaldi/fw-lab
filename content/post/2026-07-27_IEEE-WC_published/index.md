@@ -1,5 +1,5 @@
 +++
-title = "Guest Editorial on SIMs published in IEEE-WC"
+title = "Guest Editorial on SIM-empowered advanced signal processing paradigm for 6G published in IEEE-WC"
 date = 2026-07-27
 draft = false
 
