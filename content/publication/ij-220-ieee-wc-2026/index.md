@@ -6,7 +6,7 @@ publication_types = ['article-journal']
 abstract = '''
 '''
 selected = false
-publication = "*IEEE Wireless Communications* **33**(3), 11--13"
+publication = "*IEEE Wireless Communications* **33**(4), 11--13"
 doi = "10.1109/MWC.2026.3702314"
 projects =['STREET']
 +++
