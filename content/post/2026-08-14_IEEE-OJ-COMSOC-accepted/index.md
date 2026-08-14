@@ -1,6 +1,6 @@
 +++
-title = "Paper on randomized space-time SIMs accepted in IEEE-TCOM"
-date = 2026-04-13
+title = "Paper on Airy beams for near-field communications accepted in IEEE-OJ-COMSOC"
+date = 2026-08-14
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -30,12 +30,14 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on "Randomized space-time stacked intelligent metasurfaces for massive multiuser downlink connectivity,"
-in collaboration with [Donatella Darsena] (University of Naples "Federico II"), [Ivan Iudice] (Italian Aerospace Research Centre), and [Francesco Verde] (University of Campania "Luigi Vanvitelli"),
-has been accepted for publication in the [*IEEE Transactions on Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26). 
+Our paper on "Airy beams for radiative near-field communications: Fundamentals, potentials, and limitations,"
+in collaboration with [Donatella Darsena] (University of Naples "Federico II"), 
+[Francesco Verde] (University of Campania "Luigi Vanvitelli"),
+and [Marco Di Renzo] (CNRS/CentraleSupélec and King's College London),
+has been accepted for publication in the [*IEEE Open Journal of the Communications Society*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782661). 
 
-An [arXiv preprint](https://arxiv.org/abs/2510.23440) is available.
+An [arXiv preprint](https://arxiv.org/abs/2508.13714) is available.
 
 [Francesco Verde]: https://www.mlsptlab-unicampania.it/people/faculty/francesco-verde.html
-[Donatella Darsena]: https://www.docenti.unina.it/teacher/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/profile/cv
-[Ivan Iudice]: https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it
+[Donatella Darsena]: https://www.docenti.unina.it/#!/professor/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/curriculum
+[Marco Di Renzo]: https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en
