@@ -35,4 +35,4 @@ in collaboration with [Francesco Verde] and [Donatella Darsena] (University of N
 has been accepted for publication in the [*IEEE Transactions on Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26). 
 
 [Francesco Verde]: https://www.docenti.unina.it/#!/professor/4652414e434553434f5645524445565244464e4337344831324932333441/riferimenti
-[Donatella Darsena]: https://www.docenti.unina.it/#!/professor/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/curriculum
+[Donatella Darsena]: https://scholar.google.com/citations?user=zq142dgAAAAJ&hl=it

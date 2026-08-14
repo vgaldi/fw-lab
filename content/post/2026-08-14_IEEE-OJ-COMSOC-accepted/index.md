@@ -39,5 +39,5 @@ has been accepted for publication in the [*IEEE Open Journal of the Communicatio
 An [arXiv preprint](https://arxiv.org/abs/2508.13714) is available.
 
 [Francesco Verde]: https://www.mlsptlab-unicampania.it/people/faculty/francesco-verde.html
-[Donatella Darsena]: https://www.docenti.unina.it/#!/professor/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/curriculum
+[Donatella Darsena]: https://scholar.google.com/citations?user=zq142dgAAAAJ&hl=it
 [Marco Di Renzo]: https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en

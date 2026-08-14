@@ -37,6 +37,6 @@ has been accepted for publication in the [*IEEE Open Journal of the Communicatio
 An [arXiv preprint](https://arxiv.org/abs/2408.16606) is available.
 
 [Francesco Verde]: https://www.docenti.unina.it/#!/professor/4652414e434553434f5645524445565244464e4337344831324932333441/riferimenti
-[Donatella Darsena]: https://www.docenti.unina.it/#!/professor/444f4e4154454c4c4144415253454e4144525344544c37355435314638333958/curriculum
+[Donatella Darsena]: https://scholar.google.com/citations?user=zq142dgAAAAJ&hl=it
 [Ivan Iudice]: https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it
 
