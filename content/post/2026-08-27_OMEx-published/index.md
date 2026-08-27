@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["From periodicity to quasiperiodicity in modified-Fibonacci photonic time crystals,"]/publication/ij-225-omex-2026/)
+Our paper on ["From periodicity to quasiperiodicity in modified-Fibonacci photonic time crystals,"](/publication/ij-225-omex-2026/)
 in collaboration with [Carlo Rizza] (University of L'Aquila),
 has been published in *Optical Materials Express*. 
 
