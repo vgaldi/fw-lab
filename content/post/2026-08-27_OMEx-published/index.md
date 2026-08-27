@@ -1,5 +1,5 @@
 +++
-title = "Paper on quasiperiodic photonic time crystals publsihed in OMEx"
+title = "Paper on quasiperiodic photonic time crystals published in OMEx"
 date = 2026-08-27
 draft = false
 
