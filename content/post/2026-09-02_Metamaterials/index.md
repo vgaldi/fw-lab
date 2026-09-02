@@ -1,6 +1,6 @@
 +++
-title = "Invited and contributed talks at Metamaterials 2025"
-date = 2025-09-04
+title = "Invited and contributed talks at Metamaterials 2026"
+date = 2026-09-02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -29,22 +29,16 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-We have presented an invited talk on 
+We have presented two invited talks on 
 
-* [*"Engineering wave propagation with temporal metamaterials"*](/publication/galdi-metamaterials-2025/)
+* [*"Space-time-coding strategies for rapid and robust diagnostics of reconfigurable intelligent surfaces"*](/publication/zheng-metamaterials-2026/)
 
-and five contributed talks on 
+* [*"Space-time coding metasurfaces for smart radio environments"*](/publication/zhang-metamaterials-2026/)
 
-* [*"Integrated sensing and communication via space-time-coding metasurfaces"*](/publication/chen-metamaterials-2025/)
+and a contributed talk on 
+
+* [*"Multifrequency beam control on curved surfaces via space-time coding modulation"*](/publication/pepe-metamaterials-2026/)
  
-* [*"Photonic time quasicrystals"*](/publication/coppolaro-metamaterials-2025/)
-
-* [*"A study of cylindrical reconfigurable intelligent surfaces"*](/publication/pepe-metamaterials-2025/)
-
-* [*"Unconventional phenomena from space-time modulation of dispersive media"*](/publication/contestabile-metamaterials-2025a/)
-
-* [*"Radio-frequency Mie scattering from high-permittivity dielectric spheres"*](/publication/contestabile-metamaterials-2025b/)
-
-at the *19th International Congress on Engineered Material Platforms for Novel Wave Phenomena* ([Metamaterials]), Amsterdam, The Netherlands, Sep. 1-4, 2025.
+at the *20th International Congress on Engineered Material Platforms for Novel Wave Phenomena* ([Metamaterials]), New York, NY, USA, Aug. 31-Sep. 3, 2026.
 
 [Metamaterials]: https://congress.metamorphose-vi.org
