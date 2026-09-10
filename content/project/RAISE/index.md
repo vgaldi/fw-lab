@@ -30,5 +30,9 @@ Our results show that electrically large, ray-chaotic configurations display int
 
 ## Collaborations
 - Prof. [Leopold B. Felsen], Boston University, USA
+- Prof. [Innocenzo M. Pinto](https://scholar.google.it/citations?user=smTMXlMAAAAJ&hl=en), University of Naples "Federico II", Italy
+- Prof. [Vincenzo Pierro](https://www.unisannio.it/it/user/530/curriculum), University of Sannio, Italy
+- Prof. [Vincenzo Fiumara](https://ingegneria.unibas.it/site/home/in-evidenza/documento9190.html), University of Basilicata, Italy
+
 
 [Leopold B. Felsen]: https://en.wikipedia.org/wiki/Leopold_B._Felsen
