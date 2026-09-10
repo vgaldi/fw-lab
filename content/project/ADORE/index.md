@@ -29,9 +29,10 @@ Our longstanding research activities in this field encompass the theoretical und
 
 ## Collaborations
 - Prof. [Leopold B. Felsen], Boston University, USA
+- Prof. [Innocenzo M. Pinto](https://scholar.google.it/citations?user=smTMXlMAAAAJ&hl=en), University of Naples "Federico II", Italy
+- Profs. [Andrea Cusano] and [Vincenzo Pierro](https://www.unisannio.it/it/user/530/curriculum), University of Sannio, Italy
 - Prof. [Filippo Capolino], University of California, Irvine, USA
 - Prof. [Stefan Enoch], Aix-Marseille Université and CNRS, France
-- Prof. [Andrea Cusano], University of Sannio, Italy
 - Dr. [Emanuela Esposito], National Research Council, Italy
 - Prof. [Antonello Andreone], University of Naples "Federico II", Italy
 
