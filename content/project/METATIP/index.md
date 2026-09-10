@@ -23,7 +23,7 @@ We have been exploring several configurations that integrate artificial (metalli
 These include plasmonic metasurfaces and dielectric gratings, which can be tailored so as to excite surface waves on the fiber tip that can be exploited for label-free sensing applications.
 
 ## Collaborations
-- Prof. [Andrea Cusano], University of Sannio, Italy
+- Profs. [Andrea Cusano], [Marco Consales](https://www.unisannio.it/it/user/511/curriculum), and [Maria Principe](https://www.unisannio.it/it/user/7424/curriculum), University of Sannio, Italy
 - Dr. [Emanuela Esposito], National Research Council, Italy
 
 [Andrea Cusano]: https://www.unisannio.it/it/users/acusano
