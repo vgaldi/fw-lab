@@ -35,6 +35,8 @@ Beyond coating optimization, we have also explored the use of specially shaped l
 
 ## Collaborations
 - [LIGO Scientific Collaboration]
+- Prof. [Innocenzo M. Pinto](https://scholar.google.it/citations?user=smTMXlMAAAAJ&hl=en), University of Naples "Federico II", Italy
+- Profs. [Vincenzo Pierro](https://www.unisannio.it/it/user/530/curriculum) and [Maria Principe](https://www.unisannio.it/it/user/7424/curriculum), University of Sannio, Italy
 
 [LIGO]: https://www.ligo.caltech.edu
 [LIGO Scientific Collaboration]: https://ligo.org
