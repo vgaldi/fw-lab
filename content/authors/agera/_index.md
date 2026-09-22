@@ -8,7 +8,7 @@ superuser: false
 weight: 120
 
 # Role/position
-role: Visiting Student
+role: Visiting B.E. Student
 
 # Organizations/Affiliations
 organizations:
