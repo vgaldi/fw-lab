@@ -1,40 +1,33 @@
 ---
 # Display name
-title: Filippo Pepe
-
+title: Anuvansh Gera
 
 # Is this the primary user of the site?
 superuser: false
 
-weight: 70
-
+weight: 120
 
 # Role/position
-role: Ph.D. Student
+role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
+  - name: Birla Institute of Technology and Science, Pilani
+    url: 'https://www.bits-pilani.ac.in'
   - name: University of Sannio
     url: 'https://www.unisannio.it/en'
   - name: Department of Engineering
     url: 'https://www.ding.unisannio.it'
-
+ 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-  - Reconfigurable intelligent surfaces
-  - 6G wireless communication networks
+  - Metamaterials
+  - Metasurfaces
+  - Nanophotonics
+  - Computational electromagnetics
 
-
-education:
-  courses:
-  - course: M.E. in Electronics Engineering for Automation and Telecommunications
-    institution: University of Sannio, Italy
-    year: 2023
-  - course: B.E. in Electronics Engineering for Automation and Telecommunications
-    institution: University of Sannio, Italy
-    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,10 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:f.pepe6@studenti.unisannio.it'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/filippo-pepe-045ba8264/?originalSubdomain=it
+    link: 'mailto:cjw23@my.swjtu.edu.cn'
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-9567-8428
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,6 +59,9 @@ user_groups:
   - Students
 ---
 
-**Filippo Pepe** is a Ph.D. Student in Information Technologies for Engineering at the University of Sannio, under the joint supervision of Prof. [Vincenzo Galdi](/author/vincenzo-galdi) and Dr. [Ivan Iudice](https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it) ([Italian Aerospace Research Centre](https://www.cira.it/en)).
+**Anuvansh Gera** is a B.E. student in Electronics and Communication Engineering at Birla Institute of Technology and Science, Pilani, India.
 
-His research is focused on the study and development of reconfigurable metasurfaces for unmanned aerial vehicles in 6G wireless communication scenarios.
+His research focuses on metamaterials, metasurfaces, nanophotonics, and computational electromagnetics. 
+
+In September 2026, he joined the Fields \& Waves Lab as a visiting student. He is currently working on applications of space-time-coding metasurfaces and temporal metamaterials.
+
