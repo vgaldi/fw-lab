@@ -10,7 +10,7 @@ weight: 70
 
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
