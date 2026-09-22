@@ -45,14 +45,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-education:
-  courses:
-    - course: Ph.D. in Information Technologies for Engineering     
-      institution: University of Sannio, Italy
-      year: 2023
-    - course: M.E. in Telecommunication Engineering
-      institution: University of Sannio, Italy
-      year: 2011
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
