@@ -5,24 +5,11 @@ title: Marino Coppolaro
 # Is this the primary user of the site?
 superuser: false
 
-weight: 40
+weight: 10
 
 # Role/position
-role: Postdoctoral Researcher
+role: Former Postdoctoral Researcher and Ph.D. Student (now instructor at I.I.S. Alessandro Lombardi)
 
-interests:
-  - Nonlocal and non-Hermitian effects
-  - Line-wave electromagnetics
-  - Temporal metamaterials
-  - Metamaterials for magnetic-resonance imaging
-
-
-# Organizations/Affiliations
-organizations:
-  - name: University of Sannio
-    url: 'https://www.unisannio.it/en'
-  - name: Department of Engineering
-    url: 'https://www.ding.unisannio.it'
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -33,9 +20,6 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:marino.coppolaro@unisannio.it'
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-0181-0999
@@ -77,9 +61,13 @@ user_groups:
   
 ---
 
-**Marino Coppolaro** is a Postdoctoral Researcher in the Department of Engineering at the University of Sannio, Benevento, Italy.
+**Marino Coppolaro** received the M.E. (*summa cum laude*) in Telecommunication Engineering and the
+Ph.D. degree in Information Engineering in 2011 and 2023, respectively, both from the University of Sannio,
+Benevento, Italy.
 
-From June 2012 to October 2014, he worked as a telecommunication engineer with ART Srl, Benevento, Italy. Since October 2014, he has been working as a high-school teacher of computer science.  
+From June 2012 to October 2014, he worked as a telecommunication engineer with ART Srl, Benevento, Italy. Since October 2014, he has been working as a high-school teacher of computer science.
+
+From July 2024 to July 2026, on leave of absence, he was a postdoctoral researcher at the Fields \& Waves Lab, working on magnetic metamaterials and time-varying media.
 
 Dr. Coppolaro was awarded a Best Poster Prize at the International Congress on Artificial Materials for Novel Wave Phenomena in 2019.
 
