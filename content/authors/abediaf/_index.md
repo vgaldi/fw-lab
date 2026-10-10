@@ -5,7 +5,7 @@ title: Akram Bediaf
 # Is this the primary user of the site?
 superuser: false
 
-weight: 80
+weight: 48
 
 
 # Role/position

@@ -5,7 +5,7 @@ title: Mohamed Bedra
 # Is this the primary user of the site?
 superuser: false
 
-weight: 80
+weight: 49
 
 
 # Role/position
