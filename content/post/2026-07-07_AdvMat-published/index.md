@@ -31,7 +31,7 @@ categories = []
 +++
 
 Our paper on ["Space-time coding conformal metasurfaces for multifrequency beam steering and shaping,"](/publication/ij-216-AdvMat-2026/)
-in collaboration with [Tie Jun Cui]'s Group (Southeast University), [Marco Di Renzo] (CNRS/CentraleSupélec and King's College London), and [Ivan Iudice] (Italian Aerospace Research Centre) has been published in *Advanced Materials*. 
+in collaboration with [Tie Jun Cui]'s Group (Southeast University), [Marco Di Renzo] (CNRS/CentraleSupélec and King's College London), and [Ivan Iudice] (Italian Aerospace Research Centre), has been published in *Advanced Materials*. 
 
 
 [Tie Jun Cui]: https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en
