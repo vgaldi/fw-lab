@@ -30,7 +30,7 @@ categories = []
   focal_point = "Center"
 +++
 
-Our paper on ["A full-duplex metasurface for simultaneous and independent control of radiation and reflection,"](/publication/ij-220-NSR-2026/)
+Our paper on ["A full-duplex metasurface for simultaneous and independent control of radiation and reflection,"](/publication/ij-230-nsr-2026/)
 in collaboration with  [Lianlin Li]'s Group (Peking University), [Philipp del'Hougne] (CNRS/Université de Rennes), and
 [Tie Jun Cui] (Southeast University), had been published in *National SCience Review*.
 
