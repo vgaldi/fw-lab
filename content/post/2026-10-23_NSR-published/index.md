@@ -31,7 +31,7 @@ categories = []
 +++
 
 Our paper on ["A full-duplex metasurface for simultaneous and independent control of radiation and reflection,"](/publication/ij-220-NSR-2026/)
-in collaboration with  [Lianlin Li]'s Group (Peking University),  (CNRS/Université de Rennes), and
+in collaboration with  [Lianlin Li]'s Group (Peking University), [Philipp del'Hougne] (CNRS/Université de Rennes), and
 [Tie Jun Cui] (Southeast University), had been published in *National SCience Review*.
 
 [Lianlin Li]: https://www.researchgate.net/profile/Lianlin-Li
