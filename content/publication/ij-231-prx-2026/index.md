@@ -1,5 +1,5 @@
 +++
-title = "Cosmological and high-energy physics mplications from gravitational-wave background searches in LIGO-Virgo-KAGRA's O1--O4a runs"
+title = "Cosmological and high-energy physics implications from gravitational-wave background searches in LIGO-Virgo-KAGRA's O1--O4a runs"
 date = 2026-10-22
 authors = ["LIGO Scientific Collaboration", "Virgo Collaboration", "KAGRA Collaboration"]
 publication_types = ['article-journal']
