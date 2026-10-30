@@ -27,6 +27,16 @@ interests:
   - Diffractive optical neural networks
   - Metasurface-based optical information processing
 
+education:
+  courses:
+  - course: M.E. in Integrated Circuit Engineering 
+    institution: School of Big Data and Information Engineering, Guizhou University, Guiyang, China
+    year: 2024
+  - course: B.E. in Electronic Information Science and Technology 
+    institution: Yibin University, Yibin, China
+    year: 2021
+    
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

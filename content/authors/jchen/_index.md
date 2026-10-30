@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: B.E. in Electrical Engineering and Automation
-    institution: Inner Mongolia Agricultural University
+    institution: Inner Mongolia Agricultural University, Hohhot, China
     year: 2021
 
 # Social/Academic Networking
