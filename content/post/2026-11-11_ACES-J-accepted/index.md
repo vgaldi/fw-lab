@@ -31,6 +31,6 @@ categories = []
 +++
 
 Our invited  paper on "Inverse design of electromagnetic metasurfaces: Challenges, opportunities, and future directions,"
-in collaboration with [Stefano Maci](https://scholar.google.com/citations?user=zzxotgcAAAAJ&hl=en), [Tommaso Isernia](https://scholar.google.com/citations?user=XtRx8DgAAAAJ&hl=en), [Andrea Massa](https://www.eledia.org/eledia-unitn/people/massa-andrea/), [Alessio Monti](https://scholar.google.com/citations?user=KWTE0q0AAAAJ&hl=en), and [Giuseppe Vecchi](https://scholar.google.com/citations?user=68r3eBAAAAAJ&hl=en)
+in collaboration with [Stefano Maci](https://scholar.google.com/citations?user=zzxotgcAAAAJ&hl=en), [Tommaso Isernia](https://scholar.google.com/citations?user=XtRx8DgAAAAJ&hl=en), [Andrea Massa](https://www.eledia.org/eledia-unitn/people/massa-andrea/), [Alessio Monti](https://scholar.google.com/citations?user=KWTE0q0AAAAJ&hl=en), and [Giuseppe Vecchi](https://scholar.google.com/citations?user=68r3eBAAAAAJ&hl=en),
 has been accepted for publication in the [*Applied Computational Electromagnetics Society Journal*](https://journals.riverpublishers.com/index.php/ACES/index). 
 
