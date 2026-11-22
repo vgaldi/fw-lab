@@ -1,6 +1,6 @@
 +++
 title = "Paper on physically consistent modeling of dispersive time-modulated RISs accepted in IEEE-OJ-COMSOC"
-date = 2026-08-14
+date = 2026-11-21
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
